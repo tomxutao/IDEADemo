@@ -1,0 +1,1081 @@
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Sep  7 2021^^^14:05:59^^^^^^^^^^[29344,29344][2022-02-11 +0800 16:03:59]
+get mmap time: 3
+MARS_URL: 
+MARS_PATH: master_android
+MARS_REVISION: a7ee7a4
+MARS_BUILD_TIME: 2021-09-07 14:05:12
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:245001879552 free:69809881088 available:69809881088
+log dir space info, capacity:244980908032 free:69788909568 available:69788909568
+[I][2022-02-11 +80 16:03:59.527][29344, 1*][main][InitializerABTestSwitch][][][getThreadpoolConfig >>> jsonStr = {}
+[I][2022-02-11 +80 16:03:59.527][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.527][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.527][29344, 1*][main][LoadLibraryHooker][][][load so c++_shared
+[I][2022-02-11 +80 16:03:59.527][29344, 1*][main][LoadLibraryHooker][][][load so mmkv
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][LaunchTaskConfigImpl][][][getSubThreadCore = 1
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][Tab][][][getConfigInt-----sTabSDKManager == null, key = private_protocol_dialog_enable
+[I][2022-02-11 +80 16:03:59.529][29344, 1*][main][PrivateProtocolDialogManager][][][PrivateProtocolDialogManager : setValue --> false
+[I][2022-02-11 +80 16:03:59.533][29344, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-11 +80 16:03:59.533][29344, 1*][main][Tab][][][isToggleOn-----sTabSDKManager == null, key = monitor_subprocess_threadinfo_enable
+[I][2022-02-11 +80 16:03:59.533][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.534][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.534][29344, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:59.535][29344, 1*][main][TabSDKManager][][][init: mOmgidSwitchQimei36=false
+[I][2022-02-11 +80 16:03:59.544][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-11 +80 16:03:59.544][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-11 +80 16:03:59.544][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-11 +80 16:03:59.544][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644550535
+[I][2022-02-11 +80 16:03:59.544][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644550535
+[I][2022-02-11 +80 16:03:59.544][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 421
+[I][2022-02-11 +80 16:03:59.547][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 421
+[I][2022-02-11 +80 16:03:59.547][29344, 24664][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][getDefaultServerDomain, returns domain : acc.qq.com
+[I][2022-02-11 +80 16:03:59.547][29344, 24664][launch-thread-0][NXNetwork_Network_TaskManager][][][create() new instance, domain : acc.qq.com
+[I][2022-02-11 +80 16:03:59.547][29344, 24664][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-11 +80 16:03:59.547][29344, 24664][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-11 +80 16:03:59.547][29344, 24666][com.getkeepsafe.relinker.e][LoadLibraryHooker][][][load so tquic
+[I][2022-02-11 +80 16:03:59.547][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabToggleControlInfo {  mData = value, mEnableReport = false, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabToggleDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabToggleDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabToggleDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.550][29344, 24663][public_io_pool-155735][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:03:59.551][29344, 24663][public_io_pool-155735][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:03:59.551][29344, 24663][public_io_pool-155735][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:03:59.559][29344, 1*][main][CarrierManager][][][CarrierModuleConfig init !false
+[I][2022-02-11 +80 16:03:59.559][29344, 1*][main][OEMUtils][][][OEMUtils -> getProperty: value = HUAWEI
+[I][2022-02-11 +80 16:03:59.559][29344, 1*][main][OEMUtils][][][OEMUtils -> getProperty: value = HUAWEI
+[E][2022-02-11 +80 16:03:59.560][29344, 1*][main][BuildProperties][][][java.io.FileNotFoundException: /system/build.prop: open failed: EACCES (Permission denied)
+	at libcore.io.IoBridge.open(IoBridge.java:496)
+	at java.io.FileInputStream.<init>(FileInputStream.java:159)
+	at com.tencent.qqlive.modules.vb.utils.device.BuildProperties.<init>(Unknown Source:28)
+	at com.tencent.qqlive.modules.vb.utils.device.BuildProperties.newInstance(Unknown Source:85)
+	at com.tencent.qqlive.ona.utils.OEMUtils.isPropertiesExist(Unknown Source:198)
+	at com.tencent.qqlive.ona.utils.OEMUtils.isXiaomiManufacturer(Unknown Source:185)
+	at com.tencent.qqlive.ona.appconfig.ChannelConfig.<init>(Unknown Source:63)
+	at com.tencent.qqlive.ona.appconfig.ChannelConfig.getInstance(Unknown Source:105)
+	at com.tencent.qqlive.common.impl.ChannelConfigBridgeImpl.getChannelID(Unknown Source:26)
+	at com.tencent.qqlive.component.pay.PayManager.<clinit>(Unknown Source:64)
+	at com.tencent.qqlive.component.pay.PayModuleConfig.initLoginInfoListener(Unknown Source:260)
+	at com.tencent.qqlive.component.pay.PayModuleConfig.init(Unknown Source:166)
+	at com.tencent.qqlive.ona.init.taskv2.PayModuleConfigInitTask.execute(Unknown Source:28)
+	at com.tencent.qqlive.module.launchtask.task.InitTask.tryExecute(Unknown Source:111)
+	at com.tencent.qqlive.module.launchtask.task.InitTask.run(Unknown Source:99)
+	at com.tencent.qqlive.module.launchtask.executor.MainLooperExecutor.execute(Unknown Source:19)
+	at com.tencent.qqlive.module.launchtask.dispatcher.ConditionDispatcher.runAndRemoveFirstTask(Unknown Source:64)
+	at com.tencent.qqlive.module.launchtask.dispatcher.BlockedConditionDispatcher.work(Unknown Source:28)
+	at com.tencent.qqlive.module.launchtask.dispatcher.BlockedConditionDispatcher.resume(Unknown Source:18)
+	at com.tencent.qqlive.module.launchtask.dispatcher.DispatcherManager.resumeDispatcher(Unknown Source:99)
+	at com.tencent.qqlive.module.launchtask.LaunchManager.reportAttachBase(Unknown Source:297)
+	at com.tencent.qqlive.ona.base.QQLiveApplicationWrapper.attachBaseContext(Unknown Source:96)
+	at com.tencent.qqlive.ona.base.QQLiveApplicationLike.onBaseContextAttached(Unknown Source:68)
+	at com.tencent.tinker.entry.TinkerApplicationInlineFence.handleMessageImpl(Unknown Source:67)
+	at com.tencent.tinker.entry.TinkerApplicationInlineFence.handleMessage_$noinline$(Unknown Source:60)
+	at com.tencent.tinker.entry.TinkerApplicationInlineFence.handleMessage(Unknown Source:53)
+	at com.tencent.rfix.loader.app.RFixApplication.createInlineFence(Unknown Source:147)
+	at com.tencent.rfix.loader.app.RFixApplication.onBaseContextAttached(Unknown Source:70)
+	at com.tencent.tinker.loader.app.TinkerApplication.attachBaseContext(Unknown Source:175)
+	at android.app.Application.attach(Application.java:358)
+	at android.app.Instrumentation.newApplication(Instrumentation.java:1168)
+	at android.app.LoadedApk.makeApplication(LoadedApk.java:1451)
+	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:7554)
+	at android.app.ActivityThread.access$2600(ActivityThread.java:260)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2435)
+	at android.os.Handler.dispatchMessage(Handler.java:110)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+Caused by: android.system.ErrnoException: open failed: EACCES (Permission denied)
+	at libcore.io.Linux.open(Native Method)
+	at libcore.io.ForwardingOs.open(ForwardingOs.java:167)
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:252)
+	at libcore.io.ForwardingOs.open(ForwardingOs.java:167)
+	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:8464)
+	at libcore.io.IoBridge.open(IoBridge.java:482)
+	... 40 more
+[E][2022-02-11 +80 16:03:59.560][29344, 1*][main][ChannelConfig][][][miui.os.MiuiInit
+[I][2022-02-11 +80 16:03:59.561][29344, 1*][main][OEMUtils][][][OEMUtils -> getProperty: value = 
+[E][2022-02-11 +80 16:03:59.561][29344, 1*][main][ChannelConfig][][][isHuaweiOrHonorManufacture
+[E][2022-02-11 +80 16:03:59.561][29344, 1*][main][ChannelConfig][][][firmChannelPath is Empty
+[I][2022-02-11 +80 16:03:59.561][29344, 24664][launch-thread-0][UniCmdSolutionSelector][][][initSolution:UniCmdInitConfig(initHttpConfig=UniCmdInitHttpConfig(enableHttpSolution=true, httpSolutionProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdHttpSolutionDefault@16123c1), initWnsConfig=UniCmdInitWnsConfig(enableWnsSolution=false, wnsSolutionProxy=null), reportProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$reportProxy$1@7873766, tabConfigProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$tabConfigProxy$1@657daa7, logProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdLogProxyDefault@c312b54, executorProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdExecutorProxyDefault@31b3afd, netProbeProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdNetProbeProxyDefault@b3f63f2, platformInfoProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdPlatformInfoProxyDefault@99d7a43)
+[I][2022-02-11 +80 16:03:59.561][29344, 24664][launch-thread-0][UniCmdInitTask][][][UniCmdInitTask init cost:0ms
+[I][2022-02-11 +80 16:03:59.561][29344, 24664][launch-thread-0][VBUniCmdServiceImpl][][][init finish, use inner:false
+[I][2022-02-11 +80 16:03:59.561][29344, 24664][launch-thread-0][UniCmdMgr][][][UniCmdMgr init
+[E][2022-02-11 +80 16:03:59.561][29344, 1*][main][ChannelConfig][][][firmChannelPath = /system/etc/firmChannel.ini
+[I][2022-02-11 +80 16:03:59.561][29344, 1*][main][QAdConfigInitTask][][][getQAdBuildConfigInfo() , mainProcess: false, releaseEnv: true
+[I][2022-02-11 +80 16:03:59.566][29344, 24664][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-11 +80 16:03:59.566][29344, 24664][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-11 +80 16:03:59.566][29344, 24664][launch-thread-0][VBPBTabConfig][][][isRemoveSensitiveInformation:true
+[I][2022-02-11 +80 16:03:59.567][29344, 24664][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-11 +80 16:03:59.567][29344, 24664][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-11 +80 16:03:59.570][29344, 24662][VBPBService-155734][NXNetwork_Network_StateMonitor][][][create state monitor sdkversion:29
+[I][2022-02-11 +80 16:03:59.570][29344, 24662][VBPBService-155734][NXNetwork_Network_StateMonitor][][][network state monitor stop
+[I][2022-02-11 +80 16:03:59.570][29344, 24662][VBPBService-155734][NXNetwork_Network_StateMonitor][][][network state monitor stop fail, network callback is not registered
+[I][2022-02-11 +80 16:03:59.570][29344, 24662][VBPBService-155734][NXNetwork_Network_StateMonitor][][][network state monitor start
+[I][2022-02-11 +80 16:03:59.570][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:03:59.572][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-11 +80 16:03:59.572][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-11 +80 16:03:59.572][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-11 +80 16:03:59.572][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644560819
+[I][2022-02-11 +80 16:03:59.572][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644560819
+[I][2022-02-11 +80 16:03:59.573][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 584
+[I][2022-02-11 +80 16:03:59.573][29344, 1*][main][QAD][QAdScreenInfoUtil][][initParams, sWidth: 1080, sHeight: 2340, sDensity: 3.0, sDpi: 480.0, sXDpi: 391.885, syDpi: 391.026, sWidthPixels: 1080, sHeightPixels: 2214
+[I][2022-02-11 +80 16:03:59.574][29344, 1*][main][LoginStateStore][][][restoreOldToNXLoginAccount nxNotLogined:false
+[I][2022-02-11 +80 16:03:59.576][29344, 1*][main][VBLoginService][LoginDaemonClient][][ensureLoginDaemon, start bindservice
+[I][2022-02-11 +80 16:03:59.576][29344, 24671][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onAvailable()
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_StateManager][][][notify network state change, curr state:NETWORK_STATE_WIFI
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_NetworkServiceManager][][][setNacList, nacMap null!
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_AddressManager][][][setNacList() version:1
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_StateMachine][][][resetState()
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_NacManager][][][clear()
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onLinkPropertiesChanged()
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:03:59.577][29344, 24671][ConnectivityThread][NXNetwork_Network_StateManager][][][network state not change, curr state:NETWORK_STATE_WIFI
+[I][2022-02-11 +80 16:03:59.579][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 584
+[I][2022-02-11 +80 16:03:59.579][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-11 +80 16:03:59.580][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabConfigControlInfo {  mData = value, mEnableReport = true, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-11 +80 16:03:59.580][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-11 +80 16:03:59.580][29344, 24669][public_io_pool-155741][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.581][29344, 24669][public_io_pool-155741][TabConfigDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.581][29344, 24669][public_io_pool-155741][TabConfigDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.581][29344, 24669][public_io_pool-155741][TabConfigDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:59.586][29344, 1*][main][VBLoginService][VBLoginCenter][][LoginCenter init:com.tencent.qqlive.modules.vb.loginbusiness.VBLoginConfig@d92964d
+[I][2022-02-11 +80 16:03:59.586][29344, 1*][main][VBWrapperLoginService][WrapperLoginStorage][][setSupplier kvcom.tencent.qqlive.modules.vb.wrapperloginservice.VBWrapperLoginServiceInitTask$1@dc3a502
+[I][2022-02-11 +80 16:03:59.587][29344, 1*][main][VBWrapperLoginService][WrapperAccountPattern][][readAccountPattern, pattern:{"main":0,"login":1}
+[I][2022-02-11 +80 16:03:59.587][29344, 1*][main][VBWrapperLoginService][WrapperAccountPattern][][fromJSON: {"main":0,"login":1}
+[I][2022-02-11 +80 16:03:59.587][29344, 1*][main][LoginManager][][][init 
+[I][2022-02-11 +80 16:03:59.587][29344, 1*][main][QAD][AdOpenIdManager][][isConvertSuccess=true adopenid=F2DC73BEBCA90B884F8B79AF0E7AA5E4
+[I][2022-02-11 +80 16:03:59.588][29344, 1*][main][ABCloudConfigInitTask][][][initAsync
+[I][2022-02-11 +80 16:03:59.588][29344, 24669][public_io_pool-155741][ABCloudConfigInitTask][][][doInitAsync begin
+[I][2022-02-11 +80 16:03:59.588][29344, 24669][public_io_pool-155741][ABCloudConfigInitTask][][][async initInner begin
+[I][2022-02-11 +80 16:03:59.588][29344, 24673][Utils-IO-Thread-155745][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.588][29344, 24673][Utils-IO-Thread-155745][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.590][29344, 1*][main][Network][[RouteLib]PBConfig_debug][][[setReleaseServerAddress] set ip and domain succ new release ip|domain|isServerEnableBlackList: 163.177.92.114|acc.qq.com|true
+[I][2022-02-11 +80 16:03:59.591][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.591][29344, 1*][main][TaskQueueManager][][][login(userId=38030485) loginUserId=null
+[I][2022-02-11 +80 16:03:59.591][29344, 24673][Utils-IO-Thread-155745][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.591][29344, 24673][Utils-IO-Thread-155745][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 1
+[I][2022-02-11 +80 16:03:59.591][29344, 1*][main][ActivityStackImpl][][][init activity stack, size=0
+[I][2022-02-11 +80 16:03:59.591][29344, 1*][main][PlatformIdConfig][][][platform init:false true
+[I][2022-02-11 +80 16:03:59.594][29344, 1*][main][QQLiveApplication][][][ApplicationOnCreate, processName = com.tencent.qqlive:mini1, flavor = , buildType = iconRelease64, versionName = 8.5.41.26553
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseConfig json: [
+    {
+        "totalSwitch": "1"
+    },
+    {
+        "autoRetryDelay": "500"
+    },
+    {
+        "retryTimesLimit": "-1"
+    },
+    {
+        "networkErrorCheckSwitch": "1"
+    },
+    {
+        "fuse_timewindow_unit": "1"
+    },
+    {
+        "fuse_timewindow_bucket_num": "10"
+    },
+    {
+        "fuse_min_req_num": "6"
+    },
+    {
+        "fuse_rate": "0.5"
+    },
+    {
+        "fuse_cd": "5"
+    }
+], whiteListconfigs json: ["com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_channel","com.tencent.qqlive.protocol.pb.VideoDetailService/com.tencent.qqlive.protocol.pb.VideoDetailService/getPage","com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_detail_operation","com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_immersive","com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_cp_page","com.tencent.qqlive.protocol.pb.NavOperateService/com.tencent.qqlive.protocol.pb.NavOperateService/getNavOperate"]
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseWhileList key: com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_channel
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseWhileList key: com.tencent.qqlive.protocol.pb.VideoDetailService/com.tencent.qqlive.protocol.pb.VideoDetailService/getPage
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseWhileList key: com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_detail_operation
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseWhileList key: com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_immersive
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseWhileList key: com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_cp_page
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseWhileList key: com.tencent.qqlive.protocol.pb.NavOperateService/com.tencent.qqlive.protocol.pb.NavOperateService/getNavOperate
+[I][2022-02-11 +80 16:03:59.599][29344, 24669][public_io_pool-155741][AutoRetryPtotoclConfig][][][parseConfig autoRetryPtotoclConfig: totalSwitch: 1
+networkErrorCheckSwitch: 1
+retryTimesLimit: -1
+{com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_cp_page=1, com.tencent.qqlive.protocol.pb.NavOperateService/com.tencent.qqlive.protocol.pb.NavOperateService/getNavOperate=1, com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_channel=1, com.tencent.qqlive.protocol.pb.VideoDetailService/com.tencent.qqlive.protocol.pb.VideoDetailService/getPage=1, com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_immersive=1, com.tencent.qqlive.protocol.pb.PageService/com.tencent.qqlive.protocol.pb.PageService/getPage_detail_operation=1}, fuseConfig: mTimeWindowUnit= 1
+mTimeWindowTotalNum: 10
+mMinReqNum: 6
+mFuseRate: 0.5
+mFuseCD: 5
+[I][2022-02-11 +80 16:03:59.600][29344, 24669][public_io_pool-155741][AutoRetry_Refuse][][][start this: com.tencent.qqlive.autoretry.component.AutoRetryFuse@b8c1580 fuseconfig: mTimeWindowUnit= 1
+mTimeWindowTotalNum: 10
+mMinReqNum: 6
+mFuseRate: 0.5
+mFuseCD: 5
+[I][2022-02-11 +80 16:03:59.600][29344, 24669][public_io_pool-155741][AutoRetry_Timer][][][startTimer sendEmptyMessageDelayed first
+[I][2022-02-11 +80 16:03:59.600][29344, 24669][public_io_pool-155741][AdaptiveUIConfigHelper][][][remoteConfig = {"foldPhoneList":[{"model":"SM-F700","maxUISizeType":"large"},{"model":"SM-F9000","maxUISizeType":"large"},{"model":"TAH-AN00","maxUISizeType":"large"},{"model":"RLI-AN00","maxUISizeType":"large"},{"model":"RLI-N29","maxUISizeType":"large"},{"model":"TAH-N29","maxUISizeType":"large"},{"model":"TAH-AN00m","maxUISizeType":"large"},{"model":"RHA-AN00m","maxUISizeType":"large"},{"model":"ASUS_I003DD","maxUISizeType":"regular"}]}
+[I][2022-02-11 +80 16:03:59.603][29344, 24669][public_io_pool-155741][ABCloudConfigInitTask][][][async initInner end
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-MiniAppDexLoader][][][ MiniAppDexLoader findClass: com.tencent.qqmini.sdk.ipc.AppMainServiceBinder
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_MiniSDKImpl][][][createConfiguration. Add processor config: pName:com.tencent.qqlive:mini1 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity1 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver1 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_MiniSDKImpl][][][createConfiguration. Add processor config: pName:com.tencent.qqlive:mini2 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity2 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver2 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_MiniSDKImpl][][][createConfiguration. Add processor config: pName:com.tencent.qqlive:mini3 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity3 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver3 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_MiniSDKImpl][][][createConfiguration. Add processor config: pName:com.tencent.qqlive:mini4 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity4 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver4 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_MiniSDKImpl][][][createConfiguration. Add processor config: pName:com.tencent.qqlive:mini5 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity5 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver5 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_MiniSDKImpl][][][createConfiguration. Add processor config: pName:com.tencent.qqlive:mini_internal pType:MINI_INTERNAL UI:null Internal:class com.tencent.qqmini.sdk.ui.InternalMiniActivity receiver:class com.tencent.qqmini.sdk.receiver.InternalAppBrandMainReceiver supportRuntimeType:1
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start][][][registerProcessInfo
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandLaunchManager][][][registerProcessInfo pName:com.tencent.qqlive:mini1 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity1 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver1 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandLaunchManager][][][registerProcessInfo pName:com.tencent.qqlive:mini2 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity2 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver2 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandLaunchManager][][][registerProcessInfo pName:com.tencent.qqlive:mini3 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity3 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver3 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandLaunchManager][][][registerProcessInfo pName:com.tencent.qqlive:mini4 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity4 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver4 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandLaunchManager][][][registerProcessInfo pName:com.tencent.qqlive:mini5 pType:MINI_GAME UI:class com.tencent.qqmini.sdk.ui.MiniActivity5 Internal:null receiver:class com.tencent.qqmini.sdk.receiver.AppBrandMainReceiver5 supportRuntimeType:4
+[I][2022-02-11 +80 16:03:59.612][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandLaunchManager][][][registerProcessInfo pName:com.tencent.qqlive:mini_internal pType:MINI_INTERNAL UI:null Internal:class com.tencent.qqmini.sdk.ui.InternalMiniActivity receiver:class com.tencent.qqmini.sdk.receiver.InternalAppBrandMainReceiver supportRuntimeType:1
+[E][2022-02-11 +80 16:03:59.613][29344, 1*][main][[MiniSDK]minisdk-start][][][AppBrandMainReceiver onReceive, loginInfo:com.tencent.qqmini.sdk.launcher.model.LoginInfo@c439a36
+[I][2022-02-11 +80 16:03:59.613][29344, 1*][main][[MiniSDK]minisdk-start][][][È¢ÑÂä†ËΩΩÂ∞èÊ∏∏Êàè
+[I][2022-02-11 +80 16:03:59.613][29344, 24669][public_io_pool-155741][ABCloudConfigInitTask][][][doInitAsync end
+[I][2022-02-11 +80 16:03:59.614][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.614][29344, 1*][main][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.614][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.614][29344, 1*][main][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.615][29344, 1*][main][[MiniSDK]minisdk-start_AppRuntimeLoaderManager][][][RuntimeLoaderConfig:{***Loader:com.tencent.qqmini.minigame.GameRuntimeLoader, Creator:com.tencent.qqmini.minigame.GameRuntimeLoader$1***} ProcessType=4 maxRuntime=3
+[I][2022-02-11 +80 16:03:59.618][29344, 1*][main][[MiniSDK]TritonEngineInitTask][][][NewTritonEngineInitTask EDITTION_VERSION: 1.5.4
+[I][2022-02-11 +80 16:03:59.618][29344, 1*][main][[MiniSDK]TaskFlow][][][setStatus 2
+[I][2022-02-11 +80 16:03:59.618][29344, 1*][main][[MiniSDK]minisdk-start_AppRuntimeLoaderManager][][][OnRuntimeEvent message:{RuntimeLoader(GameRuntimeLoader)@76169836{Runtime:GameRuntime@178479157 AppInfo=N/A} what=2}
+[I][2022-02-11 +80 16:03:59.618][29344, 1*][main][[MiniSDK]minisdk-start_RuntimeState][][][onStateChange message:2
+[E][2022-02-11 +80 16:03:59.618][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandProxy][][][onAppStart IAppBrandService Connection is Null.
+[I][2022-02-11 +80 16:03:59.618][29344, 1*][main][[MiniSDK]ProxyServiceEngine][][][Create a new proxy instance of class com.tencent.qqmini.sdk.core.proxy.service.DownloaderProxyDefault
+[I][2022-02-11 +80 16:03:59.619][29344, 1*][main][SimpleBroadcastManager][][][onServiceConnected
+[I][2022-02-11 +80 16:03:59.619][29344, 1*][main][VBLoginService][LoginDaemonClient][][onDaemonConnected, componentName=ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.modules.vb.loginservice.LoginDaemon}
+[I][2022-02-11 +80 16:03:59.620][29344, 24686][TaskFlowEngine-1-thread-1][[MiniSDK]minisdk-start_BaseTask][][][Task begin: GameRuntimeCreateTask{GameRuntimeLoader@76169836}
+[I][2022-02-11 +80 16:03:59.620][29344, 24686][TaskFlowEngine-1-thread-1][[MiniSDK]minisdk-start_BaseTask][][][Task begin: MiniAppInfoLoadTask{GameRuntimeLoader@76169836}
+[I][2022-02-11 +80 16:03:59.620][29344, 24675][LoginDaemonClient][VBLoginService][LoginDaemonClient][][ runPendingRunnable, List=[]
+[I][2022-02-11 +80 16:03:59.620][29344, 1*][main][[MiniSDK]minisdk-start_AppBrandProxy][][][queryiIsMiniProcess true
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformQUA qua = QQLive1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getTbsVersion context is null
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.622][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.623][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][[MiniSDK]ProxyServiceEngine][][][Create a new proxy instance of class com.tencent.qqmini.sdk.core.proxy.service.ChannelProxyDefault
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.624][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.625][29344, 1*][main][[MiniSDK]minisdk-start_BaseTask][][][Task end: GameRuntimeCreateTask{GameRuntimeLoader@76169836} succ=true
+[I][2022-02-11 +80 16:03:59.625][29344, 1*][main][[MiniSDK]GameRuntimeLoader][][][[MiniEng]GameRuntimeCreateTask{GameRuntimeLoader@76169836} done! succ:true
+[I][2022-02-11 +80 16:03:59.625][29344, 1*][main][[MiniSDK]minisdk-start_BaseTask][][][Task begin: TritonEngineInitTask{GameRuntimeLoader@76169836}
+[I][2022-02-11 +80 16:03:59.626][29344, 24681][MINIAPP_SUB][[MiniSDK]TritonEngineInitTask][][][executeAsync updateCount=0
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.629][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppId 1450025391
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppId 1450025391
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppId 1450025391
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppId 1450025391
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenKey qq_access_token = 500FBA1C36A9C45556197FFFAD6CFAB3
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenKey qq_access_token = 500FBA1C36A9C45556197FFFAD6CFAB3
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenKey qq_access_token = 500FBA1C36A9C45556197FFFAD6CFAB3
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.630][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenKey qq_access_token = 500FBA1C36A9C45556197FFFAD6CFAB3
+[I][2022-02-11 +80 16:03:59.631][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][sendData request = [8, 1, 18, 26, 86, 49, 95, 65, 78, 68, 95, 77, 73, 78, 73, 83, 68, 75, 95, 49, 46, 53, 46, 52, 95, 65, 82, 77, 54, 52, 26, 93, 109, 61, 69, 66, 71, 45, 65, 78, 49, 48, 38, 111, 61, 49, 48, 38, 97, 61, 50, 57, 38, 112, 61, 49, 48, 56, 48, 42, 50, 50, 49, 52, 38, 102, 61, 72, 85, 65, 87, 69, 73, 38, 109, 109, 61, 55, 52, 50, 56, 38, 99, 102, 61, 49, 57, 48, 56, 38, 99, 99, 61, 56, 38, 113, 113, 118, 101, 114, 115, 105, 111, 110, 61, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 34, -38, 6, 10, -41, 6, 8, 13, 18, 15, 10, 3, 117, 105, 100, 18, 8, 51, 56, 48, 51, 48, 52, 56, 53, 18, 19, 10, 5, 97, 112, 112, 105, 100, 18, 10, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 18, 13, 10, 8, 108, 97, 117, 110, 99, 104, 105, 100, 18, 1, 48, 18, 23, 10, 5, 101, 118, 101, 110, 116, 18, 14, 112, 114, 101, 108, 111, 97, 100, 112, 114, 111, 99, 101, 115, 115, 18, 26, 10, 9, 116, 105, 109, 101, 115, 116, 97, 109, 112, 18, 13, 49, 54, 52, 52, 53, 54, 54, 54, 51, 57, 54, 49, 51, 18, 8, 10, 4, 112, 97, 103, 101, 18, 0, 18, 14, 10, 10, 97, 116, 116, 97, 99, 104, 105, 110, 102, 111, 18, 0, 18, 34, 10, 10, 97, 112, 112, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 17, 10, 15, 109, 105, 110, 105, 97, 112, 112, 95, 118, 101, 114, 115, 105, 111, 110, 18, 33, 10, 3, 113, 117, 97, 18, 26, 81, 81, 76, 105, 118, 101, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 35, 10, 11, 115, 100, 107, 95, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 7, 10, 3, 99, 109, 100, 18, 0, 18, 12, 10, 7, 114, 101, 116, 99, 111, 100, 101, 18, 1, 48, 18, 14, 10, 9, 116, 105, 109, 101, 95, 99, 111, 115, 116, 18, 1, 48, 18, 11, 10, 9, 116, 104, 105, 114, 100, 95, 117, 114, 108, 18, 19, 10, 15, 98, 97, 115, 101, 108, 105, 98, 95, 118, 101, 114, 115, 105, 111, 110, 18, 0, 18, 15, 10, 10, 120, 53, 95, 118, 101, 114, 115, 105, 111, 110, 18, 1, 48, 18, 46, 10, 10, 100, 101, 118, 105, 99, 101, 105, 110, 102, 111, 18, 32, 97, 61, 50, 57, 38, 109, 101, 109, 61, 55, 52, 50, 56, 38, 109, 111, 61, 72, 85, 65, 87, 69, 73, 32, 69, 66, 71, 45, 65, 78, 49, 48, 18, 13, 10, 8, 97, 112, 112, 95, 116, 121, 112, 101, 18, 1, 49, 18, 20, 10, 12, 110, 101, 116, 119, 111, 114, 107, 95, 116, 121, 112, 101, 18, 4, 119, 105, 102, 105, 18, 13, 10, 5, 115, 99, 101, 110, 101, 18, 4, 49, 48, 48, 49, 18, 18, 10, 10, 115, 111, 117, 114, 99, 101, 95, 97, 112, 112, 18, 4, 49, 48, 48, 56, 18, 38, 10, 14, 115, 111, 117, 114, 99, 101, 95, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 25, 10, 19, 115, 111, 117, 114, 99, 101, 95, 117, 105, 110, 95, 112, 108, 97, 116, 102, 111, 114, 109, 18, 2, 113, 113, 18, 50, 10, 14, 99, 111, 110, 110, 101, 99, 116, 95, 111, 112, 101, 110, 105, 100, 18, 32, 48, 52, 66, 70, 54, 70, 48, 52, 52, 55, 55, 50, 48, 69, 65, 66, 66, 54, 65, 52, 65, 57, 50, 49, 67, 54, 70, 66, 49, 68, 69, 66, 18, 17, 10, 12, 99, 111, 110, 110, 101, 99, 116, 95, 116, 121, 112, 101, 18, 1, 50, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 49, 18, 0, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 50, 18, 0, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 51, 18, 0, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 52, 18, 0, 18, 15, 10, 11, 114, 101, 110, 100, 101, 114, 95, 109, 111, 100, 101, 18, 0, 18, 13, 10, 8, 98, 117, 115, 105, 84, 121, 112, 101, 18, 1, 49, 18, 18, 10, 10, 115, 111, 117, 114, 99, 101, 95, 97, 112, 112, 18, 4, 49, 48, 48, 56, 18, 38, 10, 14, 115, 111, 117, 114, 99, 101, 95, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 25, 10, 19, 115, 111, 117, 114, 99, 101, 95, 117, 105, 110, 95, 112, 108, 97, 116, 102, 111, 114, 109, 18, 2, 113, 113, 18, 50, 10, 14, 99, 111, 110, 110, 101, 99, 116, 95, 111, 112, 101, 110, 105, 100, 18, 32, 48, 52, 66, 70, 54, 70, 48, 52, 52, 55, 55, 50, 48, 69, 65, 66, 66, 54, 65, 52, 65, 57, 50, 49, 67, 54, 70, 66, 49, 68, 69, 66, 18, 17, 10, 12, 99, 111, 110, 110, 101, 99, 116, 95, 116, 121, 112, 101, 18, 1, 50, 42, 28, 51, 56, 48, 51, 48, 52, 56, 53, 95, 48, 50, 49, 49, 49, 54, 48, 51, 53, 57, 54, 50, 52, 95, 52, 54, 52, 56, 52, 50, 24, 109, 105, 110, 105, 95, 97, 112, 112, 95, 114, 101, 112, 111, 114, 116, 95, 116, 114, 97, 110, 115, 102, 101, 114, 58, 10, 68, 97, 116, 97, 82, 101, 112, 111, 114, 116, 66, 98, 10, 8, 51, 56, 48, 51, 48, 52, 56, 53, 26, 4, 49, 48, 48, 56, 32, 2, 42, 10, 49, 52, 53, 48, 48, 50, 53, 51, 57, 49, 50, 32, 48, 52, 66, 70, 54, 70, 48, 52, 52, 55, 55, 50, 48, 69, 65, 66, 66, 54, 65, 52, 65, 57, 50, 49, 67, 54, 70, 66, 49, 68, 69, 66, 58, 32, 53, 48, 48, 70, 66, 65, 49, 67, 51, 54, 65, 57, 67, 52, 53, 53, 53, 54, 49, 57, 55, 70, 70, 70, 65, 68, 54, 67, 70, 65, 66, 51, 88, 0]
+[I][2022-02-11 +80 16:03:59.633][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][sendData requestString = V1_AND_MINISDK_1.5.4_ARM64]m=EBG-AN10&o=10&a=29&p=1080*2214&f=HUAWEI&mm=7428&cf=1908&cc=8&qqversion=1.6.27.1_283_4a28668"ÔøΩ
+ÔøΩ
+uid38030485
+appid
+0000000000
+launchid0
+eventpreloadprocess
+	timestamp1644566639613
+page¿Ä
+
+attachinfo¿Ä"
+
+appversion1.6.27.1_283_4a28668
+miniapp_version!
+quaQQLive1.6.27.1_283_4a28668#
+sdk_version1.6.27.1_283_4a28668
+cmd¿Ä
+retcode0
+	time_cost0
+	third_url
+baselib_version¿Ä
+
+x5_version0.
+
+deviceinfo a=29&mem=7428&mo=HUAWEI EBG-AN10
+app_type1
+network_typewifi
+scene1001
+
+source_app1008&
+source_version1.6.27.1_283_4a28668
+source_uin_platformqq2
+connect_openid 04BF6F0447720EABB6A4A921C6FB1DEB
+connect_type2
+reverse1¿Ä
+reverse2¿Ä
+reverse3¿Ä
+reverse4¿Ä
+render_mode¿Ä
+busiType1
+
+source_app1008&
+source_version1.6.27.1_283_4a28668
+source_uin_platformqq2
+connect_openid 04BF6F0447720EABB6A4A921C6FB1DEB
+connect_type2*38030485_0211160359624_464842mini_app_report_transfer:
+DataReportBb
+380304851008 *
+14500253912 04BF6F0447720EABB6A4A921C6FB1DEB: 500FBA1C36A9C45556197FFFAD6CFAB3X¿Ä
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][QQMiniGameModel][][][sendRequest sig = 1644566639631
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][QQMiniGameModel][][][sendRequest mData = [8, 1, 18, 26, 86, 49, 95, 65, 78, 68, 95, 77, 73, 78, 73, 83, 68, 75, 95, 49, 46, 53, 46, 52, 95, 65, 82, 77, 54, 52, 26, 93, 109, 61, 69, 66, 71, 45, 65, 78, 49, 48, 38, 111, 61, 49, 48, 38, 97, 61, 50, 57, 38, 112, 61, 49, 48, 56, 48, 42, 50, 50, 49, 52, 38, 102, 61, 72, 85, 65, 87, 69, 73, 38, 109, 109, 61, 55, 52, 50, 56, 38, 99, 102, 61, 49, 57, 48, 56, 38, 99, 99, 61, 56, 38, 113, 113, 118, 101, 114, 115, 105, 111, 110, 61, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 34, -38, 6, 10, -41, 6, 8, 13, 18, 15, 10, 3, 117, 105, 100, 18, 8, 51, 56, 48, 51, 48, 52, 56, 53, 18, 19, 10, 5, 97, 112, 112, 105, 100, 18, 10, 48, 48, 48, 48, 48, 48, 48, 48, 48, 48, 18, 13, 10, 8, 108, 97, 117, 110, 99, 104, 105, 100, 18, 1, 48, 18, 23, 10, 5, 101, 118, 101, 110, 116, 18, 14, 112, 114, 101, 108, 111, 97, 100, 112, 114, 111, 99, 101, 115, 115, 18, 26, 10, 9, 116, 105, 109, 101, 115, 116, 97, 109, 112, 18, 13, 49, 54, 52, 52, 53, 54, 54, 54, 51, 57, 54, 49, 51, 18, 8, 10, 4, 112, 97, 103, 101, 18, 0, 18, 14, 10, 10, 97, 116, 116, 97, 99, 104, 105, 110, 102, 111, 18, 0, 18, 34, 10, 10, 97, 112, 112, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 17, 10, 15, 109, 105, 110, 105, 97, 112, 112, 95, 118, 101, 114, 115, 105, 111, 110, 18, 33, 10, 3, 113, 117, 97, 18, 26, 81, 81, 76, 105, 118, 101, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 35, 10, 11, 115, 100, 107, 95, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 7, 10, 3, 99, 109, 100, 18, 0, 18, 12, 10, 7, 114, 101, 116, 99, 111, 100, 101, 18, 1, 48, 18, 14, 10, 9, 116, 105, 109, 101, 95, 99, 111, 115, 116, 18, 1, 48, 18, 11, 10, 9, 116, 104, 105, 114, 100, 95, 117, 114, 108, 18, 19, 10, 15, 98, 97, 115, 101, 108, 105, 98, 95, 118, 101, 114, 115, 105, 111, 110, 18, 0, 18, 15, 10, 10, 120, 53, 95, 118, 101, 114, 115, 105, 111, 110, 18, 1, 48, 18, 46, 10, 10, 100, 101, 118, 105, 99, 101, 105, 110, 102, 111, 18, 32, 97, 61, 50, 57, 38, 109, 101, 109, 61, 55, 52, 50, 56, 38, 109, 111, 61, 72, 85, 65, 87, 69, 73, 32, 69, 66, 71, 45, 65, 78, 49, 48, 18, 13, 10, 8, 97, 112, 112, 95, 116, 121, 112, 101, 18, 1, 49, 18, 20, 10, 12, 110, 101, 116, 119, 111, 114, 107, 95, 116, 121, 112, 101, 18, 4, 119, 105, 102, 105, 18, 13, 10, 5, 115, 99, 101, 110, 101, 18, 4, 49, 48, 48, 49, 18, 18, 10, 10, 115, 111, 117, 114, 99, 101, 95, 97, 112, 112, 18, 4, 49, 48, 48, 56, 18, 38, 10, 14, 115, 111, 117, 114, 99, 101, 95, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 25, 10, 19, 115, 111, 117, 114, 99, 101, 95, 117, 105, 110, 95, 112, 108, 97, 116, 102, 111, 114, 109, 18, 2, 113, 113, 18, 50, 10, 14, 99, 111, 110, 110, 101, 99, 116, 95, 111, 112, 101, 110, 105, 100, 18, 32, 48, 52, 66, 70, 54, 70, 48, 52, 52, 55, 55, 50, 48, 69, 65, 66, 66, 54, 65, 52, 65, 57, 50, 49, 67, 54, 70, 66, 49, 68, 69, 66, 18, 17, 10, 12, 99, 111, 110, 110, 101, 99, 116, 95, 116, 121, 112, 101, 18, 1, 50, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 49, 18, 0, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 50, 18, 0, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 51, 18, 0, 18, 12, 10, 8, 114, 101, 118, 101, 114, 115, 101, 52, 18, 0, 18, 15, 10, 11, 114, 101, 110, 100, 101, 114, 95, 109, 111, 100, 101, 18, 0, 18, 13, 10, 8, 98, 117, 115, 105, 84, 121, 112, 101, 18, 1, 49, 18, 18, 10, 10, 115, 111, 117, 114, 99, 101, 95, 97, 112, 112, 18, 4, 49, 48, 48, 56, 18, 38, 10, 14, 115, 111, 117, 114, 99, 101, 95, 118, 101, 114, 115, 105, 111, 110, 18, 20, 49, 46, 54, 46, 50, 55, 46, 49, 95, 50, 56, 51, 95, 52, 97, 50, 56, 54, 54, 56, 18, 25, 10, 19, 115, 111, 117, 114, 99, 101, 95, 117, 105, 110, 95, 112, 108, 97, 116, 102, 111, 114, 109, 18, 2, 113, 113, 18, 50, 10, 14, 99, 111, 110, 110, 101, 99, 116, 95, 111, 112, 101, 110, 105, 100, 18, 32, 48, 52, 66, 70, 54, 70, 48, 52, 52, 55, 55, 50, 48, 69, 65, 66, 66, 54, 65, 52, 65, 57, 50, 49, 67, 54, 70, 66, 49, 68, 69, 66, 18, 17, 10, 12, 99, 111, 110, 110, 101, 99, 116, 95, 116, 121, 112, 101, 18, 1, 50, 42, 28, 51, 56, 48, 51, 48, 52, 56, 53, 95, 48, 50, 49, 49, 49, 54, 48, 51, 53, 57, 54, 50, 52, 95, 52, 54, 52, 56, 52, 50, 24, 109, 105, 110, 105, 95, 97, 112, 112, 95, 114, 101, 112, 111, 114, 116, 95, 116, 114, 97, 110, 115, 102, 101, 114, 58, 10, 68, 97, 116, 97, 82, 101, 112, 111, 114, 116, 66, 98, 10, 8, 51, 56, 48, 51, 48, 52, 56, 53, 26, 4, 49, 48, 48, 56, 32, 2, 42, 10, 49, 52, 53, 48, 48, 50, 53, 51, 57, 49, 50, 32, 48, 52, 66, 70, 54, 70, 48, 52, 52, 55, 55, 50, 48, 69, 65, 66, 66, 54, 65, 52, 65, 57, 50, 49, 67, 54, 70, 66, 49, 68, 69, 66, 58, 32, 53, 48, 48, 70, 66, 65, 49, 67, 51, 54, 65, 57, 67, 52, 53, 53, 53, 54, 49, 57, 55, 70, 70, 70, 65, 68, 54, 67, 70, 65, 66, 51, 88, 0]
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][QQMiniGameModel][][][sendRequest mDataString = V1_AND_MINISDK_1.5.4_ARM64]m=EBG-AN10&o=10&a=29&p=1080*2214&f=HUAWEI&mm=7428&cf=1908&cc=8&qqversion=1.6.27.1_283_4a28668"ÔøΩ
+ÔøΩ
+uid38030485
+appid
+0000000000
+launchid0
+eventpreloadprocess
+	timestamp1644566639613
+page¿Ä
+
+attachinfo¿Ä"
+
+appversion1.6.27.1_283_4a28668
+miniapp_version!
+quaQQLive1.6.27.1_283_4a28668#
+sdk_version1.6.27.1_283_4a28668
+cmd¿Ä
+retcode0
+	time_cost0
+	third_url
+baselib_version¿Ä
+
+x5_version0.
+
+deviceinfo a=29&mem=7428&mo=HUAWEI EBG-AN10
+app_type1
+network_typewifi
+scene1001
+
+source_app1008&
+source_version1.6.27.1_283_4a28668
+source_uin_platformqq2
+connect_openid 04BF6F0447720EABB6A4A921C6FB1DEB
+connect_type2
+reverse1¿Ä
+reverse2¿Ä
+reverse3¿Ä
+reverse4¿Ä
+render_mode¿Ä
+busiType1
+
+source_app1008&
+source_version1.6.27.1_283_4a28668
+source_uin_platformqq2
+connect_openid 04BF6F0447720EABB6A4A921C6FB1DEB
+connect_type2*38030485_0211160359624_464842mini_app_report_transfer:
+DataReportBb
+380304851008 *
+14500253912 04BF6F0447720EABB6A4A921C6FB1DEB: 500FBA1C36A9C45556197FFFAD6CFAB3X¿Ä
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][NXNetwork_PB_Sender][][][send requestTag:[SendDataReq],dataType:DEF,domainUrl:null/null
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][NXNetwork_Transport_TransportManager][][][getTransportAutoIncrementId() request id:1
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][NXNetwork_PB_TaskManager][][][execute() get requestId :1
+[I][2022-02-11 +80 16:03:59.634][29344, 24680][mini_program_report][NXNetwork_PB_TaskManager][][][executeOnBackgroundThread()
+[I][2022-02-11 +80 16:03:59.634][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 run()
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][VBPBTabConfig][][][useUniCmdMode:1
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 pbmessage --> byte[]
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]loginTokenInfo:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]locationInfo:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][PlatformInfo_Device][][][getScreenSize() screenWidth 1080 screenHeight 2214
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]screenWidth:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]screenHeight:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]densityDpi:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]imei:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]imsi:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]deviceId:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]deviceModel:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]manufacturer:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][PlatformInfo_Device][][][getDeviceType() get from callback
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]deviceType:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]omgId:0ms
+[I][2022-02-11 +80 16:03:59.635][29344, 24677][launch-idle61][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleHigh, threadStrategy = SubThread
+[I][2022-02-11 +80 16:03:59.636][29344, 24669][VBPBService-155741][GUIDManager][][][getGUID: 925ad63f87c711ec89cd6c92bf48bcb2
+[I][2022-02-11 +80 16:03:59.636][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]guid:1ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][PlatformInfoConfig][][][CallBack getMaxUISizeType maxUiSizeTypeREGULAR
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]maxUISizeType:1ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][PlatformInfoConfig][][][CallBack getCurrentWindowUISizeType currentUiSizeTypeREGULAR
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]currUISizeType:0ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]qimei:0ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]deviceInfo:2ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][PlatformInfoConfig][][][CallBack getPlatformId3
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]versionInfo:0ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]networkInfo:0ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]flagInfo:0ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]portraitInfo:0ms
+[I][2022-02-11 +80 16:03:59.637][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]bucketInfo:0ms
+[I][2022-02-11 +80 16:03:59.638][29344, 24681][MINIAPP_SUB][[MiniSDK]miniapp-process_BaseLibManager][][][appBaseLibUrl = https://miniapp.gtimg.cn/public/js_libs/1.16.0.00179.zip, appBaseLibVersion = 1.16.0.00179, appBaseLibPath = /data/user/0/com.tencent.qqlive/files/mini/baseLib/216642930CE02D01F8B31ABE667A8304_1.16.0.00179/, isValid = true
+[I][2022-02-11 +80 16:03:59.638][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][getLocalTritonVersion:Version{version='1.5.1.1.6c8df05', timeStamp=1597306853000}
+[I][2022-02-11 +80 16:03:59.639][29344, 24669][VBPBService-155741][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.639][29344, 24669][VBPBService-155741][VBTeenGuardianMgrImpl][][][register
+[I][2022-02-11 +80 16:03:59.639][29344, 24669][VBPBService-155741][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.639][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]userStatusInfo:2ms
+[I][2022-02-11 +80 16:03:59.639][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]envInfo:0ms
+[I][2022-02-11 +80 16:03:59.640][29344, 24669][VBPBService-155741][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 1
+[I][2022-02-11 +80 16:03:59.640][29344, 24669][VBPBService-155741][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.641][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]extraRequstHeadMap:2ms
+[I][2022-02-11 +80 16:03:59.641][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[CommHead]buildRequestHead:0ms
+[I][2022-02-11 +80 16:03:59.642][29344, 24669][VBPBService-155741][NXNetwork_PB_HeaderConfig][][][[SendDataReq]-1 create common header: RequestHead{login_token=[LoginToken{app_id=, type=9, account=38030485, token=[text=TxYjBGFcnc0Kp96i82tnBw..], is_main_login=false}, LoginToken{app_id=101795054, type=10, account=04BF6F0447720EABB6A4A921C6FB1DEB, token=[text=500FBA1C36A9C45556197FFFAD6CFAB3], is_main_login=true}], device_info=DeviceInfo{screen_width=1080, screen_height=2214, density_dpi=480, imei=, imsi=, omg_id=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, device_id=, device_model=EBG-AN10, device_type=1, guid=925ad63f87c711ec89cd6c92bf48bcb2, max_uiSize=UISizeType_REGULAR, current_window_uiSize=UISizeType_REGULAR, manufacturer=HUAWEI, qimei=}, version_info=VersionInfo{version_name=8.5.41.26553, version_code=26553, platform=3, platform_version=EBG-AN10,29,10, channel_id=228, app_id=1000005, vnview_pkg_version=0}, network_info=NetworkInfo{network_mode=3, mobile_isp=0, ip=112.97.63.47}, location_info=LocationInfo{}, flag_info=FlagInfo{check_flag=0, debug_flag=0}, bucket_info=BucketInfo{bucket_id=4, extra=}, portrait_info=[PortraitInfo{key=signature, value_info=[2szJ8hxt7xFyfRNXKYR7wT/1prLZckDRciXj1VDq4aZSaNcxmFDHEBvGGqNyUpWsrQ0cFL2NzROzSViK5wNmnHPwovsCRyOB615myth1bp0Qcm6lBTuZOin25pCg/jy+2Do8VhHGj0jrR8jYLYkfNJXKxjI8mkZ9/+yjBxN1st4+ewlZuA7xcr7yOCa2C8b/AmX3obcIPQED2OE876apQrWI2qAnpO579eTt1oM7ywUahVc4gqTp/GBFhEuru/U1PkKhT5JzlUxtEONJU1hQb3r1qDwW+GDdCXYDmWInloMYsUqCexC2hCkKrTUGdL8MlYSrOCPe+Ln/Gnn+CL1lCYv5XkBNMMMb/8Ak2yQX2suxFKZ5zZIhcrZMWrlqOeqS+Sv+0OYT3lWcwgPzyljGAIrhNhxfLetiIYVPJKhi+mtGybgwCkMzcPs2V3KVETB7fhgkJxvmvM6GKzpfMQ6Q1aJFc2bD4fz1cA/wX3B8pnEbCtoHsDvvQlrpLWLDIOgnJwjtsni7FfiN+Jl3JBlYVyUuxEPY/VUx4XOBRjGTBk5zBoigGhaY6/4LDOBIhIaqOuTys2qHnVO+RlIJk5zstqxyjUncai8A8ha7wqZ5LEo4l0kJZWmcMHxbt8hL/bUGqGCbQXYXOIVIaBdrjlJpb+oE7q1/ltEuk66YQ5+/qujICKX7p2B8F4FQy0Du5yYF1bfsJ/LcqcmihqUxOEhR4A==]}, PortraitInfo{key=v, value_info=[1]}], user_status_info=UserStatusInfo{session_code=6FE74FDCE5B491B871F229AD042AB2B4917271DB9D77ED0D1D8BF9F8950CD60270AA19CD88D854247B463EE1AEDB295B7ED34F5FD324D235A0CB32370DDB08D097BDF1513E7A8B89D188C9E878B7F280F3B07F173375CADADE0263ED842FD35C35B6E4217402E8EB07166FEA, preview_mode=0}, extra_request_head={qimei=5e4e85959d6d5953eb833efe10001031531d, QIMEI36=5e4e85959d6d5953eb833efe10001031531d, personalized_recommend_pay=1, os_version=10, personalized_recommend_search=1, personalized_recommend_friends=1, personalized_recommend=1, callType=self, preview_mode=0, usid=, personalized_recommend_collect=1}, env_info=EnvInfo{}}
+[I][2022-02-11 +80 16:03:59.642][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 package header:8ms
+[I][2022-02-11 +80 16:03:59.642][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 package pb frame
+[I][2022-02-11 +80 16:03:59.642][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 package qmf frame
+[I][2022-02-11 +80 16:03:59.643][29344, 24669][VBPBService-155741][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.644][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 package done
+[I][2022-02-11 +80 16:03:59.644][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 run() send request to network
+[I][2022-02-11 +80 16:03:59.644][29344, 24669][VBPBService-155741][VBPBTabConfig][][][cmdTimeoutDef:30000
+[I][2022-02-11 +80 16:03:59.644][29344, 24669][VBPBService-155741][UniCmdHandler][][][sendRequest:1|0, UniCmdRequest(requestBody=2023, cmd=trpc.vgopen.qq_mini_send_data.QQMiniSendDataSvr+/trpc.vgopen.qq_mini_send_data.QQMiniSendDataSvr/SendData, requestId=1, requestTag=[SendDataReq], traceId=, timeout=30000,priority=0, multiSendEnable=false, busiRetryIndex=0, solutionStrategy=0, requestHttpExtra=RequestHttpExtra(requestHeaders={JceGodId=25196, user-agent=.SendData}, domain=null, url=null, retryEnable=false, method=0, transportProtocolType=TCP, tryUseCellularNetwork=false), requestWnsExtra=null)
+[I][2022-02-11 +80 16:03:59.647][29344, 24669][VBPBService-155741][NXNetwork_Network_NetworkServiceManager][][][getDefaultServerDomain, returns domain : acc.qq.com
+[I][2022-02-11 +80 16:03:59.647][29344, 24669][VBPBService-155741][NXNetwork_Network_NetworkServiceManager][][][getNetworkManagerWithRequest, domain : acc.qq.com, request id: 1
+[I][2022-02-11 +80 16:03:59.647][29344, 24669][VBPBService-155741][NXNetwork_Network_NetworkServiceManager][][][getNetworkManagerWithDomain, domain : acc.qq.com
+[I][2022-02-11 +80 16:03:59.647][29344, 24669][VBPBService-155741][NXNetwork_Network_TaskManager][][][[SendDataReq]-1 onTaskBegin()
+[I][2022-02-11 +80 16:03:59.647][29344, 24669][VBPBService-155741][NXNetwork_Network_Task][][][[SendDataReq]-1 execute(), state:DEFAULT, domain: acc.qq.com, address:, url: null, contentType: BINARY
+[I][2022-02-11 +80 16:03:59.647][29344, 24669][VBPBService-155741][NXNetwork_Transport_TypeAssist][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:03:59.648][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][getTimeoutInfo() network state:NETWORK_STATE_WIFI,readWrite timeout:10,connect timeout:5
+[I][2022-02-11 +80 16:03:59.648][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][setConnectConfig() maxIdleConnections:10, connKeepAliveDuration:80
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1 isConnectionReuseEnable:true
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_TransportManager][][][[SendDataReq]-1 protocol type: http
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_TaskManager][][][[SendDataReq]-1 onTaskBegin()
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_Task][][][[SendDataReq]-1 run() 
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_Task][][][[SendDataReq]-1 sendRequest()
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_Task][][][[SendDataReq]-1 httpHeaderKey = JceGodId;httpHeaderValue = 25196
+[I][2022-02-11 +80 16:03:59.650][29344, 24669][VBPBService-155741][NXNetwork_Transport_Task][][][[SendDataReq]-1 httpHeaderKey = user-agent;httpHeaderValue = .SendData
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_TypeAssist][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  callStart()
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  intercept() retry enable: false
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  dnsStart(), domain:acc.qq.com
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][lookup() hostname:acc.qq.com
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][lookup() ip:Êó†Â∑≤ÈÄâip
+[I][2022-02-11 +80 16:03:59.654][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][lookup() timeout config:0ms
+[I][2022-02-11 +80 16:03:59.657][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  connectStart()
+[I][2022-02-11 +80 16:03:59.658][29344, 24681][MINIAPP_SUB][[MiniSDK]TritonEngineInitTask][][][isJsLibValid=true isSoLibValid=true
+[I][2022-02-11 +80 16:03:59.659][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][getLocalTritonVersion:Version{version='1.5.1.1.6c8df05', timeStamp=1597306853000}
+[I][2022-02-11 +80 16:03:59.659][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][getLocalTritonVersion:Version{version='1.5.1.1.6c8df05', timeStamp=1597306853000}
+[I][2022-02-11 +80 16:03:59.659][29344, 24681][MINIAPP_SUB][[MiniSDK]miniapp-process_BaseLibManager][][][[MiniEng] installMiniGameInnerJsLib, version:0.16.0.00063, totalCount:1
+[E][2022-02-11 +80 16:03:59.660][29344, 24681][MINIAPP_SUB][[MiniSDK]AssetsUtil][][][copyAssetToFile error! assetFileName:mini/QGame.js, destFileName:/data/user/0/com.tencent.qqlive/files/mini/baseLib/44C6C370FD1859325F7119E96A81584E_0.16.0.00063/QGame.js
+java.io.FileNotFoundException: mini/QGame.js
+	at android.content.res.AssetManager.nativeOpenAsset(Native Method)
+	at android.content.res.AssetManager.open(AssetManager.java:942)
+	at android.content.res.AssetManager.open(AssetManager.java:919)
+	at com.tencent.qqmini.sdk.utils.AssetsUtil.copyAssetToFile(Unknown Source:69)
+	at com.tencent.qqmini.sdk.utils.AssetsUtil.copyFileOrDir(Unknown Source:41)
+	at com.tencent.qqmini.sdk.manager.BaseLibManager.installMiniGameInnerJsLib(Unknown Source:505)
+	at com.tencent.qqmini.minigame.manager.GameEnvManager.getInnerJsPath(Unknown Source:476)
+	at com.tencent.qqmini.minigame.manager.GameEnvManager.getJsPath(Unknown Source:460)
+	at com.tencent.qqmini.minigame.manager.GameEnvManager.getEnvConfig(Unknown Source:76)
+	at com.tencent.qqmini.minigame.task.TritonEngineInitTask.loadTritonEngine(Unknown Source:207)
+	at com.tencent.qqmini.minigame.task.TritonEngineInitTask.executeAsync(Unknown Source:138)
+	at com.tencent.qqmini.sdk.task.AsyncTask$1.run(Unknown Source:26)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+[E][2022-02-11 +80 16:03:59.677][29344, 24681][MINIAPP_SUB][[MiniSDK]AssetsUtil][][][copyAssetToFile from=mini/QGame.js, to=/data/user/0/com.tencent.qqlive/files/mini/baseLib/44C6C370FD1859325F7119E96A81584E_0.16.0.00063/QGame.js fail
+[I][2022-02-11 +80 16:03:59.677][29344, 24681][MINIAPP_SUB][[MiniSDK]miniapp-process_BaseLibManager][][][[MiniEng] installMiniGameInnerJsLib success?false, from mini to /data/user/0/com.tencent.qqlive/files/mini/baseLib/44C6C370FD1859325F7119E96A81584E_0.16.0.00063/, tryCount:1
+[I][2022-02-11 +80 16:03:59.677][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][getLocalTritonVersion:Version{version='1.5.1.1.6c8df05', timeStamp=1597306853000}
+[I][2022-02-11 +80 16:03:59.677][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][path1 = /data/user/0/com.tencent.qqlive/files/mini/baseLib/216642930CE02D01F8B31ABE667A8304_1.16.0.00179/, valid1 = true
+[I][2022-02-11 +80 16:03:59.677][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][path2 = null, valid2 = false
+[I][2022-02-11 +80 16:03:59.678][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][path1 = /data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000, valid1 = false
+[I][2022-02-11 +80 16:03:59.678][29344, 24681][MINIAPP_SUB][[MiniSDK]GameEnvManager[MiniEng]][][][path2 = /data/user/0/com.tencent.qqlive/files/mini/baseLib/216642930CE02D01F8B31ABE667A8304_1.16.0.00179/, valid2 = true
+[I][2022-02-11 +80 16:03:59.678][29344, 24681][MINIAPP_SUB][[MiniSDK]LogFilterUtil][][][wns config white list: null
+[I][2022-02-11 +80 16:03:59.679][29344, 24681][MINIAPP_SUB][[MiniSDK]LogFilterUtil][][][wns config black list: null
+[I][2022-02-11 +80 16:03:59.680][29344, 24681][MINIAPP_SUB][[MiniSDK]TritonEngineInitTask][][][loadTritonEngine null
+[I][2022-02-11 +80 16:03:59.680][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.680][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformQUA qua = QQLive1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getTbsVersion context is null
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.681][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.682][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.682][29344, 24681][MINIAPP_SUB][[MiniSDK]TritonEngineInitTask][][][[MiniEng] TTEngineBuilder create TTEngine from local lib
+[I][2022-02-11 +80 16:03:59.684][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] com.tencent.mobileqq.triton.engine.TTEngine@75f25a3][][][new TTEngine, EnvConfig:EnvConfig{tritonPath='/data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000', tritonVersion=Version{version='1.5.1.1.6c8df05', timeStamp=1619522430000}, JSPath='/data/user/0/com.tencent.qqlive/files/mini/baseLib/216642930CE02D01F8B31ABE667A8304_1.16.0.00179/', JSVersion=Version{version='1.16.0.00179', timeStamp=-1}}
+[I][2022-02-11 +80 16:03:59.696][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] SoLoader][][][loadSo so [c++_shared] from /data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000/libc++_shared.so
+[I][2022-02-11 +80 16:03:59.707][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] SoLoader][][][loadSo so [freetypejni] from /data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000/libfreetypejni.so
+[I][2022-02-11 +80 16:03:59.711][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] SoLoader][][][loadSo so [v8jni] from /data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000/libv8jni.so
+[I][2022-02-11 +80 16:03:59.740][29344, 24664][launch-thread-0][LocationGetTask][][][enableRequestLocation:false
+[I][2022-02-11 +80 16:03:59.740][29344, 24688][launch-idle71][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleMiddle, threadStrategy = SubThread
+[I][2022-02-11 +80 16:03:59.818][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] SoLoader][][][loadSo so [triton] from /data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000/libtriton.so
+[I][2022-02-11 +80 16:03:59.836][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] SoLoader][][][loadOptionalSo so [webAudio] from apk libs
+[I][2022-02-11 +80 16:03:59.848][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] SoLoader][][][ÂèØÈÄâsoÂä†ËΩΩÂ§±Ë¥•‰∫Ü‰∏ç‰∏≠Êñ≠‰∏ªÊµÅÁ®ã loadOptionalSo error 
+java.lang.UnsatisfiedLinkError: dalvik.system.PathClassLoader[DexPathList[[zip file "/data/app/com.tencent.qqlive-AlEicFZf2ybmTpQV0BqWew==/base.apk"],nativeLibraryDirectories=[/data/app/com.tencent.qqlive-AlEicFZf2ybmTpQV0BqWew==/lib/arm64, /data/app/com.tencent.qqlive-AlEicFZf2ybmTpQV0BqWew==/base.apk!/lib/arm64-v8a, /system/priv-app/HwCameraKit/HwCameraKit.apk!/lib/arm64-v8a, /system/lib64, /hw_product/lib64, /system/product/lib64]]] couldn't find "libwebAudio.so"
+	at java.lang.Runtime.loadLibrary0(Runtime.java:1067)
+	at java.lang.Runtime.loadLibrary0(Runtime.java:1007)
+	at java.lang.System.loadLibrary(System.java:1668)
+	at com.tencent.mobileqq.triton.engine.e.access$000(Unknown Source:0)
+	at com.tencent.mobileqq.triton.engine.e.INVOKESTATIC_com_tencent_mobileqq_triton_engine_e_com_tencent_qqlive_hook_LoadLibraryHooker_loadLibrary(Unknown Source:40)
+	at com.tencent.mobileqq.triton.engine.e.a(Unknown Source:142)
+	at com.tencent.mobileqq.triton.engine.e.a(Unknown Source:13)
+	at com.tencent.mobileqq.triton.engine.TTEngine.b(Unknown Source:14)
+	at com.tencent.mobileqq.triton.engine.TTEngine.<init>(Unknown Source:161)
+	at com.tencent.mobileqq.triton.engine.EngineFactory.createEngine(Unknown Source:9)
+	at com.tencent.mobileqq.triton.sdk.TTEngineBuilder.build(Unknown Source:28)
+	at com.tencent.qqmini.minigame.task.TritonEngineInitTask.loadEngine(Unknown Source:305)
+	at com.tencent.qqmini.minigame.task.TritonEngineInitTask.loadTritonEngine(Unknown Source:218)
+	at com.tencent.qqmini.minigame.task.TritonEngineInitTask.executeAsync(Unknown Source:138)
+	at com.tencent.qqmini.sdk.task.AsyncTask$1.run(Unknown Source:26)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.os.HandlerThread.run(HandlerThread.java:67)
+[I][2022-02-11 +80 16:03:59.851][29344, 24664][launch-thread-0][LoadLibraryHooker][][][load so gradishwrapper
+[E][2022-02-11 +80 16:03:59.853][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] RenderContext][][][initialize:com.tencent.mobileqq.triton.render.RenderContext@d84781e
+[I][2022-02-11 +80 16:03:59.853][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] com.tencent.mobileqq.triton.engine.TTEngine@75f25a3][][][initEngine load triton from dex?false version : 1.1.2.0
+[I][2022-02-11 +80 16:03:59.858][29344, 24681][MINIAPP_SUB][[MiniSDK]ModuleManager][][][new JClass:GameLauncher
+[I][2022-02-11 +80 16:03:59.859][29344, 24681][MINIAPP_SUB][[MiniSDK]ModuleManager][][][new JClass:NativeImageDecoder
+[I][2022-02-11 +80 16:03:59.859][29344, 24681][MINIAPP_SUB][[MiniSDK]ModuleManager][][][new JClass:FontBitmapManager
+[I][2022-02-11 +80 16:03:59.859][29344, 24681][MINIAPP_SUB][[MiniSDK]ModuleManager][][][new JClass:FontBitmap
+[I][2022-02-11 +80 16:03:59.861][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] JsRuntimeLoader][][][preload js, use runtimeLibPath /data/user/0/com.tencent.qqlive/files/mini/baseLib/216642930CE02D01F8B31ABE667A8304_1.16.0.00179/
+[I][2022-02-11 +80 16:03:59.861][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] JsRuntimeLoader][][][getRuntimeConfig preloadConfig empty, load default config, mainInjectJs [QGame.js], openDataInjectJs [QGameOpenDataContext.js]
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.862][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] JsRuntimeLoader][][][prepare js collect QGame.js
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformQUA qua = QQLive1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getTbsVersion context is null
+[I][2022-02-11 +80 16:03:59.862][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] JsRuntimeLoader][][][prepare js collect QGameOpenDataContext.js
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.862][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformQUA qua = QQLive1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getTbsVersion context is null
+[E][2022-02-11 +80 16:03:59.863][29344, 24692][JSThread_155764][[MiniSDK][minigame] JSThread][][][JSThread (tid:155764) run start
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.863][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.864][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.865][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.870][29344, 24690][launch-idle81][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleLow, threadStrategy = SubThread
+[I][2022-02-11 +80 16:03:59.920][29344, 24692][JSThread_155764][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.920][29344, 24692][JSThread_155764][QQLiveMiniAppProxy][][][getPlatformQUA qua = QQLive1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.921][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame] ScriptService][][][awaitStartCostTime:58ms
+[I][2022-02-11 +80 16:03:59.921][29344, 24681][MINIAPP_SUB][[MiniSDK]TritonEngineInitTask][][][[MiniEng] initEngine
+[I][2022-02-11 +80 16:03:59.921][29344, 24681][MINIAPP_SUB][[MiniSDK][minigame][timecost] ][][][[MiniEng] step[initTTEngine] cost time 0, includes steps[load so, cache jssdk]
+[I][2022-02-11 +80 16:03:59.921][29344, 24681][MINIAPP_SUB][[MiniSDK]TritonEngineInitTask][][][loadTritonEngine null: 0
+[I][2022-02-11 +80 16:03:59.921][29344, 24681][MINIAPP_SUB][[MiniSDK]minisdk-start_BaseTask][][][Task end: TritonEngineInitTask{GameRuntimeLoader@76169836} succ=true
+[I][2022-02-11 +80 16:03:59.921][29344, 24681][MINIAPP_SUB][[MiniSDK]GameRuntimeLoader][][][[MiniEng]TritonEngineInitTask{GameRuntimeLoader@76169836} done! succ:true
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAccount account = 38030485
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.921][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformQUA qua = QQLive1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getTbsVersion context is null
+[I][2022-02-11 +80 16:03:59.922][29344, 24681][MINIAPP_SUB][[MiniSDK]minisdk-start_AppBrandProxy][][][cmd. pName=com.tencent.qqlive:mini1 cmd:cmd_on_preload_game_baselib
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPlatformId 1008
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getAppVersion 1.6.27.1_283_4a28668
+[I][2022-02-11 +80 16:03:59.922][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getPayOpenId qq_open_id = 04BF6F0447720EABB6A4A921C6FB1DEB
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:03:59.923][29344, 24680][mini_program_report][QQLiveMiniAppProxy][][][getLoginType LOGIN_FROM_QQ
+[I][2022-02-11 +80 16:03:59.924][29344, 24681][MINIAPP_SUB][[MiniSDK]BaseRuntimeLoader][][][[MiniEng]preload jsLib version:1.16.0.00179
+[I][2022-02-11 +80 16:03:59.924][29344, 24681][MINIAPP_SUB][[MiniSDK]BaseRuntimeLoader][][][TritonEngine ÂàùÂßãÂåñÈÖçÁΩÆ:EnvConfig{tritonPath='/data/user/0/com.tencent.qqlive/files/mini/triton/1.5.1.1.6c8df05_1619522430000', tritonVersion=Version{version='1.5.1.1.6c8df05', timeStamp=1619522430000}, JSPath='/data/user/0/com.tencent.qqlive/files/mini/baseLib/216642930CE02D01F8B31ABE667A8304_1.16.0.00179/', JSVersion=Version{version='1.16.0.00179', timeStamp=-1}}
+[I][2022-02-11 +80 16:03:59.925][29344, 24681][MINIAPP_SUB][[MiniSDK]minisdk-start_AppRuntimeLoaderManager][][][OnRuntimeEvent message:{RuntimeLoader(GameRuntimeLoader)@76169836{Runtime:GameRuntime@178479157 AppInfo=N/A} what=2012}
+[I][2022-02-11 +80 16:03:59.925][29344, 24681][MINIAPP_SUB][[MiniSDK]minisdk-start_RuntimeState][][][onStateChange message:2012
+[I][2022-02-11 +80 16:04:00.138][29344, 24692][JSThread_155764][[MiniSDK][minigame] ScriptService][][][injectJS BaseLib cost time:276ms
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:mini1 fileName = com.tencent.qqlive_preferences key = setting_preferences_private_protocol_is_show , please check context
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:mini1 fileName = vb_platformInfo key = vb_platformInfo_version_code , please check context
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:mini1 fileName = vb_platformInfo key = vb_platformInfo_version_name , please check context
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:04:00.540][29344, 24662][public_io_pool-155734][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:mini1 fileName = vb_platformInfo key = vb_platformInfo_app_id , please check context
+[I][2022-02-11 +80 16:04:00.707][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  connectionAcquired()
+[I][2022-02-11 +80 16:04:00.707][29344, 24669][VBPBService-155741][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  log request server info
+[I][2022-02-11 +80 16:04:00.707][29344, 24662][VBTransportService-155734][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  getIp info...
+[I][2022-02-11 +80 16:04:00.707][29344, 24662][VBTransportService-155734][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  getIp info:183.3.226.75
+[I][2022-02-11 +80 16:04:00.707][29344, 24662][VBTransportService-155734][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  getHost info...
+[I][2022-02-11 +80 16:04:00.707][29344, 24662][VBTransportService-155734][NXNetwork_Transport_HttpImpl][][][[SendDataReq]-1  getHost info:acc.qq.com
+[I][2022-02-11 +80 16:04:00.933][29344, 24644][Binder:29344_2][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:04:00.933][29344, 24644][Binder:29344_2][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:04:00.933][29344, 24644][Binder:29344_2][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:04:01.421][29344, 24669][VBPBService-155741][NXNetwork_Transport_Task][][][[SendDataReq]-1 execute() request succ: https://acc.qq.com/ ,networkState:NETWORK_STATE_WIFI, cellular strength level:2, cellular connected:DISCONNECTED, wifi connected:CONNECTED
+[I][2022-02-11 +80 16:04:01.423][29344, 24669][VBPBService-155741][NXNetwork_Transport_Task][][][[SendDataReq]-1 run() task state is done , call listener
+[I][2022-02-11 +80 16:04:01.423][29344, 24669][VBPBService-155741][NXNetwork_Network_Task][][][[SendDataReq]-1 notifyListener() task state is done , call listener
+[I][2022-02-11 +80 16:04:01.423][29344, 24669][VBPBService-155741][UniCmdHandler][][][onCmdResponse:1|0, code:0, cost:1779 responsed:false
+[I][2022-02-11 +80 16:04:01.423][29344, 24669][VBPBService-155741][UniCmdTabConfigProxy][][][succRatiosConfig:{"def_ratio":100}
+[I][2022-02-11 +80 16:04:01.424][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 onRequestFinish()
+[I][2022-02-11 +80 16:04:01.424][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 onRequestFinish() resultCode:0,errDesc:
+[I][2022-02-11 +80 16:04:01.424][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 unpackage qmf frame
+[I][2022-02-11 +80 16:04:01.424][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 unpackage pb frame
+[I][2022-02-11 +80 16:04:01.424][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 unpackage business data
+[I][2022-02-11 +80 16:04:01.424][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 byte[] --> pbmessage
+[I][2022-02-11 +80 16:04:01.425][29344, 24669][VBPBService-155741][NXNetwork_PB_PBPackageImpl][][][[SendDataReq]-1 unpackage done
+[I][2022-02-11 +80 16:04:01.425][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 onRequestFinish() unpackage err code: 0
+[I][2022-02-11 +80 16:04:01.425][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 onBusiCallback() call listener onSuccess()
+[I][2022-02-11 +80 16:04:01.425][29344, 24669][VBPBService-155741][NXNetwork_PB_PBTask][][][[SendDataReq]-1 report() call report listener
+[I][2022-02-11 +80 16:04:01.425][29344, 1*][main][QQLiveMiniAppProxy][][][sendData onLoadFinish sig = 1644566639631
+[I][2022-02-11 +80 16:04:01.425][29344, 1*][main][QQLiveMiniAppProxy][][][sendData onLoadFinish errCode = 0, response = SendDataRsp{err_message=send data succ, response_data=[hex=0801], sig=1644566639631}
+[I][2022-02-11 +80 16:04:01.425][29344, 1*][main][QQLiveMiniAppProxy][][][sendData onLoadFinish responseData.length = 2
+[I][2022-02-11 +80 16:04:01.425][29344, 1*][main][QQLiveMiniAppProxy][][][sendData onLoadFinish responseData = [8, 1]
+[I][2022-02-11 +80 16:04:01.425][29344, 1*][main][QQLiveMiniAppProxy][][][sendData onLoadFinish responseDataString = 
+[I][2022-02-11 +80 16:04:01.425][29344, 24669][VBPBService-155741][UniCmdHandler][][][responseBusiness:1|0, code:0, cost:2, response:UniCmdResponse(resultCode=0, errorCodeType=, resultMsg=, responseBody=221, uniCmdSolutionType=http, responseHttpExtra=null, responseWnsExtra=null), statistics:UniCmdStatistics(common=UniCmdStatisticsCommon(uniCmdSolutionType=UniCmdSolutionTypeHttp, clientIp=null, targetIp=183.3.226.75, targetIpSrc=null, transProtocol=HTTP, upStreamSize=0, downStreamSize=0, requestSize=2023, responseSize=221, uniCmdCostMs=1779, solutionCostMs=1777, dnsCostMs=3, connCostMs=1049, sslCostMs=1019, queueCostMs=0, sendCostMs=3, backEndCostMs=-1, firstByteCostMs=-1, recvCostMs=708, hitReport=false, reportRatio=100), businessExtra=UniCmdStatisticsBusinessExtra(busiProtocolType=1, busiCode=0, packCostMs=9, unPackCostMs=1, customKV={pack_head_cost=8, pack_pb_frame_cost=0, pack_qmf_cost=1, unpack_head_cost=0, unpack_pb_frame_cost=0, unpack_qmf_cost=0, qmf_cmd_id=65281, pb_cmd_id=25196, callee=trpc.vgopen.qq_mini_send_data.QQMiniSendDataSvr, func=/trpc.vgopen.qq_mini_send_data.QQMiniSendDataSvr/SendData, bucket_id=4}), httpExtra=UniCmdStatisticsHttpExtra(isHttps=true, transportErrCode=0, transportErrMsg=, hostState=1, stateMachineState=DEFAULT, transportCostMs=1769, rttCostMs=1052, realCallCostMs=1763, requestDomain=acc.qq.com, httpVersion=HTTP_2), wnsExtra=null)
+[I][2022-02-11 +80 16:04:01.426][29344, 24669][VBPBService-155741][UniCmdHandler][][][report:1|0, hit:false, code:0, ratio:100
+[I][2022-02-11 +80 16:04:01.426][29344, 24669][VBPBService-155741][NXNetwork_Network_TaskManager][][][[SendDataReq]-1 onTaskFinish()
+[I][2022-02-11 +80 16:04:01.426][29344, 24669][VBPBService-155741][NXNetwork_Transport_TaskManager][][][[SendDataReq]-1 onTaskFinish()
+[I][2022-02-11 +80 16:04:05.483][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:11.496][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:11.530][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:17.496][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:17.529][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:20.535][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:23.503][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:26.069][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:29.500][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:32.492][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:36.300][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:38.514][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:38.535][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:44.502][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:44.531][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:47.503][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:53.501][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:59.539][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:05.547][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:15.975][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:28.254][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:29.474][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:38.536][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:44.535][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:50.533][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:50.549][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:56.528][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:56.555][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:01.482][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:02.551][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:05.552][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:11.549][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:13.048][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:19.411][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:21.974][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:23.034][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:23.227][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:26.512][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:30.434][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:32.510][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:35.522][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:35.564][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:38.537][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:41.584][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:44.521][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:47.532][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:50.526][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:51.402][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:54.534][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:56.534][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:56.594][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:07:02.537][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:07:02.596][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:07:08.606][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:51.641][29344, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.pandora.device.WifiInfoManager.getConnectionInfo(Unknown Source:97)
+	at com.tencent.qqlive.pandora.Pandora.getConnectionInfo(Unknown Source:85)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:81)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at com.tencent.qqlive.whitecrash.CrashCatcher$1.run(Unknown Source:65)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+[I][2022-02-11 +80 16:11:51.642][29344, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isAppOnForeground(Unknown Source:144)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isBackgroundRequestProcess(Unknown Source:33)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:87)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at com.tencent.qqlive.whitecrash.CrashCatcher$1.run(Unknown Source:65)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+[I][2022-02-11 +80 16:11:51.974][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:52.008][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:53.265][29344, 24678][Binder:29344_3][VBLoginService][LoginDaemonClient][][onDaemonMessage msgId=8, data=Bundle[mParcelledData.dataSize=152]
+[I][2022-02-11 +80 16:11:53.269][29344, 24678][Binder:29344_3][VBLoginService][VBLoginCenter][][onRequestRefreshStart, type:0 invokeId:3
+[I][2022-02-11 +80 16:11:53.529][29344, 24678][Binder:29344_3][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:11:53.532][29344, 24678][Binder:29344_3][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:11:53.534][29344, 24678][Binder:29344_3][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:11:53.684][29344, 24678][Binder:29344_3][VBLoginService][LoginDaemonClient][][onDaemonMessage msgId=7, data=Bundle[mParcelledData.dataSize=1276]
+[I][2022-02-11 +80 16:11:53.690][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][onAccountRefresh type 0 account Account [nickName=Â§©‰∏äÁôΩÁéâ‰∫¨,headUrl=http://thirdqq.qlogo.cn/g?b=sdk&k=pEHhcofrDMqX0UN33DwFAg&s=140&t=1571914754, UserId=38030485, SessionKey=TxYjBGFcnc0Kp96i82tnBw.., CreateTime=1644567113496, ExpireTime=6106000,OpenId=04BF6F0447720EABB6A4A921C6FB1DEB,AccessToken=500FBA1C36A9C45556197FFFAD6CFAB3, AccountType=0, refreshToken=6F83B0879A9649ABC097307F6213A87A, IM Token=eAEtzUsLgkAUBeD-MttC77ycQWgRRFEIPRe1FOYat7KG0SKJ-numLs85fJwPO2T76IWBpUxEwMZdrtw1954cS7kC0MB5YvuFHN5rKqgD0oIEZfWgaiqxFYlSOjGcy17g21P490ZqAQDDA53bxzI8Zrd46yo0mFlYyHhui3WAeDPF3eUpRk1uQrNaVsfThH1-9Hswhg__, AccessTokenExpireTime=0, overdue=false, appid=101795054][AuthCode:FE4BCCF7CD80389DED52DE39D47D94C4 qqopenid:04BF6F0447720EABB6A4A921C6FB1DEB qqaccesstoken: qqexpiretime:7776000]
+[I][2022-02-11 +80 16:11:53.690][29344, 1*][main][VBWrapperLoginService][WrapperAccountPattern][][isMainLoginType: type 0 MainLoginType 0 [MainType:0 AdvanceLoginType:1 BindTypeList:[]]
+[I][2022-02-11 +80 16:11:53.701][29344, 1*][main][VBWrapperLoginService][WrapperAccountPattern][][isMainLoginType: type 0 MainLoginType 0 [MainType:0 AdvanceLoginType:1 BindTypeList:[]]
+[I][2022-02-11 +80 16:11:53.715][29344, 1*][main][VBLoginBusiness][LoginManager][][onRefreshFinish(isMain=true, loginType=2, err=0)
+[I][2022-02-11 +80 16:11:53.724][29344, 1*][main][QAD][TENCENT_AD][][login callback:refreshTokenFinish-isMainAccount:true-type:1-errCode:0-errMsg:-userInfo:
+[I][2022-02-11 +80 16:11:53.729][29344, 1*][main][QAD][TENCENT_AD][][login callback:refreshTokenFinish-isMainAccount:true-type:1-errCode:0-errMsg:-userInfo:
+[I][2022-02-11 +80 16:11:53.732][29344, 24713][public_io_pool-155785][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:11:53.746][29344, 24713][public_io_pool-155785][ProtocolPackageHelper][][][readFromCache: readFile = true, bos.size = 230, cachePath = /storage/emulated/0/Android/data/com.tencent.qqlive/files/cache/38030485_userinfo.cache
+[I][2022-02-11 +80 16:11:53.838][29344, 24713][public_io_pool-155785][NXNetwork_Transport_TransportManager][][][getTransportAutoIncrementId() request id:2
+[I][2022-02-11 +80 16:11:53.840][29344, 1*][main][WebUtils][][][-->synCookies needClear:false
+[I][2022-02-11 +80 16:11:53.841][29344, 1*][main][WebUtils][][][-->synMttWebCookies() needClear:false
+[I][2022-02-11 +80 16:11:53.852][29344, 24713][public_io_pool-155785][NXNetwork_JCE_CmdAssist][][][getCmdId() requestClassName: GetUserProfileRequest,responseClassName: GetUserProfile,cmdId: 60674
+[I][2022-02-11 +80 16:11:53.854][29344, 24713][public_io_pool-155785][NXNetwork_JCE_CmdAssist][][][getCmdId() requestClassName: GetUserProfileRequest,responseClassName: GetUserProfile,cmdId: 60674
+[I][2022-02-11 +80 16:11:53.854][29344, 24713][public_io_pool-155785][NXNetwork_JCE_CmdAssist][][][getCmdId() requestClassName: GetUserProfileRequest,responseClassName: GetUserProfile,cmdId: 60674
+[I][2022-02-11 +80 16:11:53.857][29344, 24713][public_io_pool-155785][MedalInfoModel][][][get vcuid failed, mCreatorStatusModel is null
+[I][2022-02-11 +80 16:11:53.860][29344, 24714][public_io_pool-155786][NXNetwork_JCE_StructPackage][][][[GetUserProfileRequest#60674]-2 JceStruct --> byte[]
+[I][2022-02-11 +80 16:11:53.862][29344, 24714][public_io_pool-155786][NXNetwork_JCE_HeaderPackage][][][[GetUserProfileRequest#60674]-2 package request header
+[I][2022-02-11 +80 16:11:53.869][29344, 24714][public_io_pool-155786][PlatformInfo_Device][][][getDeviceType() get from callback
+[I][2022-02-11 +80 16:11:53.901][29344, 24714][public_io_pool-155786][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:11:53.905][29344, 24714][public_io_pool-155786][NXNetwork_JCE_HeaderPackage][][][[GetUserProfileRequest#60674]-2 common header:requestId:2,[SafeInfo]SafeKey:,[SafeInfo]type3,contentType:0,appId:1000005,guid:925ad63f87c711ec89cd6c92bf48bcb2,cmdId:60674,isSupportDolby:0,oemPlatform:0,isAuto:0,callType:self,channelId:228,extent:,from:,mid:0,pageId:,pid:,refPageId:,vid:,pageStep:0,appSubVersion:,channelId:228,clientKey:,deviceId:,deviceModel:EBG-AN10,extent:,idfa:,imei:,imsi:,mac:,omgId:fbfa97874c6c954bf9c86e24cf65d7177892001021641b,platformVersion:EBG-AN10,29,10,platform:3,serverid:,v4ip:112.97.63.47,versionCode:26553,versionName:8.5.41.26553,areaMode:0,accuracy:0.0,latitude:0.0,longitude:0.0,type:0,countryCode:0,densityDpi:480,deviceType:1,[ExtentData]bucketId:4,[QUA]extInfo:{QIMEI36=5e4e85959d6d5953eb833efe10001031531d, qadId=016F5333DEE4D71E61D3E9F2478A1FE7, installTime=1644204083, brandAndModel=EBG-AN10, preview_mode=0, manufacturer=HUAWEI, teenGuardSessionCode=6FE74FDCE5B491B871F229AD042AB2B4917271DB9D77ED0D1D8BF9F8950CD60270AA19CD88D854247B463EE1AEDB295B7ED34F5FD324D235A0CB32370DDB08D097BDF1513E7A8B89D188C9E878B7F280F3B07F173375CADADE0263ED842FD35C35B6E4217402E8EB07166FEA, usid=},langCode:0,markerId:1,mobileISP:0,screenHeight:2214,screenWidth:1080,networkMode:3
+[I][2022-02-11 +80 16:11:53.905][29344, 24714][public_io_pool-155786][NXNetwork_JCE_PackageImpl][][][[GetUserProfileRequest#60674]-2 package header:43ms
+[I][2022-02-11 +80 16:11:53.906][29344, 24714][public_io_pool-155786][NXNetwork_JCE_JCEFramePackage][][][[GetUserProfileRequest#60674]-2 package jce frameÔºårequest bytes size:952
+[I][2022-02-11 +80 16:11:53.906][29344, 24714][public_io_pool-155786][NXNetwork_JCE_QmfFramePackage][][][[GetUserProfileRequest#60674]-2 package qmf frame ÔºåcmdId:60674,request bytes size:969
+[I][2022-02-11 +80 16:11:53.906][29344, 24714][public_io_pool-155786][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:11:53.907][29344, 24714][public_io_pool-155786][NXNetwork_Network_NetworkServiceManager][][][getNetworkManagerWithRequest, domain is null, request id: 2
+[I][2022-02-11 +80 16:11:53.915][29344, 24714][public_io_pool-155786][NXNetwork_Network_NetworkServiceManager][][][getDefaultServerDomain, returns domain : acc.qq.com
+[I][2022-02-11 +80 16:11:53.915][29344, 24714][public_io_pool-155786][NXNetwork_Network_NetworkServiceManager][][][getNetworkManagerWithDomain, domain : acc.qq.com
+[I][2022-02-11 +80 16:11:53.916][29344, 24714][public_io_pool-155786][NXNetwork_Network_TaskManager][][][[GetUserProfileRequest#60674]-2 onTaskBegin()
+[I][2022-02-11 +80 16:11:53.916][29344, 24714][public_io_pool-155786][NXNetwork_Network_Task][][][[GetUserProfileRequest#60674]-2 execute(), state:DEFAULT, domain: acc.qq.com, address:, url: null, contentType: BINARY
+[I][2022-02-11 +80 16:11:53.916][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2 isConnectionReuseEnable:true
+[I][2022-02-11 +80 16:11:53.916][29344, 24714][public_io_pool-155786][NXNetwork_Transport_TransportManager][][][[GetUserProfileRequest#60674]-2 protocol type: http
+[I][2022-02-11 +80 16:11:53.916][29344, 24714][public_io_pool-155786][NXNetwork_Transport_TaskManager][][][[GetUserProfileRequest#60674]-2 onTaskBegin()
+[I][2022-02-11 +80 16:11:53.919][29344, 24714][public_io_pool-155786][NXNetwork_Transport_Task][][][[GetUserProfileRequest#60674]-2 run() 
+[I][2022-02-11 +80 16:11:53.919][29344, 24714][public_io_pool-155786][NXNetwork_Transport_Task][][][[GetUserProfileRequest#60674]-2 sendRequest()
+[I][2022-02-11 +80 16:11:53.951][29344, 24714][public_io_pool-155786][NXNetwork_Transport_Task][][][[GetUserProfileRequest#60674]-2 httpHeaderKey = JceGodId;httpHeaderValue = 60674
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_TypeAssist][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  callStart()
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  intercept() retry enable: true
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  dnsStart(), domain:acc.qq.com
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][lookup() hostname:acc.qq.com
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][lookup() ip:Êó†Â∑≤ÈÄâip
+[I][2022-02-11 +80 16:11:53.952][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][lookup() timeout config:0ms
+[I][2022-02-11 +80 16:11:53.954][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  connectStart()
+[I][2022-02-11 +80 16:11:54.139][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:11:54.146][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:11:54.147][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 1
+[I][2022-02-11 +80 16:11:54.155][29344, 1*][main][WebUtils][][][-->synMttWebCookies() cookie:video_omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b;guid=925ad63f87c711ec89cd6c92bf48bcb2;vuserid=38030485;usid=;us_stamp=1644566639588;ussn=0;ctime=1644567114145;zdtime=0;vusession=TxYjBGFcnc0Kp96i82tnBw..;video_platform=3;video_appid=1000005;vdevice_qimei36=5e4e85959d6d5953eb833efe10001031531d;video_omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b;vcuid=;vqq_appid=101795054;vqq_openid=04BF6F0447720EABB6A4A921C6FB1DEB;vqq_access_token=500FBA1C36A9C45556197FFFAD6CFAB3;vqq_vuserid=38030485;vqq_vusession=TxYjBGFcnc0Kp96i82tnBw..;app_ver=8.5.41;main_login=qq;plat_bucketid=4;teenGuardSessionCode=6FE74FDCE5B491B871F229AD042AB2B4917271DB9D77ED0D1D8BF9F8950CD60270AA19CD88D854247B463EE1AEDB295B7ED34F5FD324D235A0CB32370DDB08D097BDF1513E7A8B89D188C9E878B7F280F3B07F173375CADADE0263ED842FD35C35B6E4217402E8EB07166FEA;recommend_switch_value=1;call_type=1;recommend_setting_code=31;ip=112.97.63.47;isDarkMode=0;
+[I][2022-02-11 +80 16:11:54.307][29344, 1*][main][WebUtils][][][-->synMttWebCookies hasSetCookie:video_omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b; guid=925ad63f87c711ec89cd6c92bf48bcb2; vuserid=38030485; usid=; ussn=0; zdtime=0; video_platform=3; video_appid=1000005; vdevice_qimei36=5e4e85959d6d5953eb833efe10001031531d; vcuid=; vqq_appid=101795054; vqq_openid=04BF6F0447720EABB6A4A921C6FB1DEB; vqq_access_token=500FBA1C36A9C45556197FFFAD6CFAB3; vqq_vuserid=38030485; app_ver=8.5.41; main_login=qq; plat_bucketid=4; recommend_switch_value=1; call_type=1; recommend_setting_code=31; isDarkMode=0; ip=112.97.63.47; us_stamp=1644498134967; ctime=1644498161992; vusession=5Fa6KGU3GhY0IU9KrChwVA..; vqq_vusession=5Fa6KGU3GhY0IU9KrChwVA..; teenGuardSessionCode=840070F1D958ED045DA211EB383992252A2A996EC2F3A56F4A3CB0400490D7F9C1B44CA4C5CAC8CF110A30DF12D9CD7CE019DD87CC06514335E0790F7D87A70217AAF2821D50D70C47E721052092BE5776CA38C2994CEF0C0466B5AB105A2D69E10855EEB7370C5D0F1853BD
+[I][2022-02-11 +80 16:11:54.308][29344, 1*][main][WebUtils][][][-->synSysWebCookies() needClear:false
+[I][2022-02-11 +80 16:11:54.308][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:11:54.309][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-11 +80 16:11:54.309][29344, 1*][main][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 1
+[I][2022-02-11 +80 16:11:54.309][29344, 1*][main][WebUtils][][][-->synSysWebCookies cookie:video_omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b;guid=925ad63f87c711ec89cd6c92bf48bcb2;vuserid=38030485;usid=;us_stamp=1644566639588;ussn=0;ctime=1644567114308;zdtime=0;vusession=TxYjBGFcnc0Kp96i82tnBw..;video_platform=3;video_appid=1000005;vdevice_qimei36=5e4e85959d6d5953eb833efe10001031531d;video_omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b;vcuid=;vqq_appid=101795054;vqq_openid=04BF6F0447720EABB6A4A921C6FB1DEB;vqq_access_token=500FBA1C36A9C45556197FFFAD6CFAB3;vqq_vuserid=38030485;vqq_vusession=TxYjBGFcnc0Kp96i82tnBw..;app_ver=8.5.41;main_login=qq;plat_bucketid=4;teenGuardSessionCode=6FE74FDCE5B491B871F229AD042AB2B4917271DB9D77ED0D1D8BF9F8950CD60270AA19CD88D854247B463EE1AEDB295B7ED34F5FD324D235A0CB32370DDB08D097BDF1513E7A8B89D188C9E878B7F280F3B07F173375CADADE0263ED842FD35C35B6E4217402E8EB07166FEA;recommend_switch_value=1;call_type=1;recommend_setting_code=31;ip=112.97.63.47;isDarkMode=0;
+[I][2022-02-11 +80 16:11:54.436][29344, 1*][main][WebUtils][][][-->synSysWebCookies hasSetCookie:video_omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b; guid=925ad63f87c711ec89cd6c92bf48bcb2; vuserid=38030485; usid=; ussn=0; zdtime=0; video_platform=3; video_appid=1000005; vdevice_qimei36=5e4e85959d6d5953eb833efe10001031531d; vcuid=; vqq_appid=101795054; vqq_openid=04BF6F0447720EABB6A4A921C6FB1DEB; vqq_access_token=500FBA1C36A9C45556197FFFAD6CFAB3; vqq_vuserid=38030485; app_ver=8.5.41; main_login=qq; plat_bucketid=4; recommend_switch_value=1; call_type=1; recommend_setting_code=31; isDarkMode=0; ip=112.97.63.47; us_stamp=1644566639588; ctime=1644567114308; vusession=TxYjBGFcnc0Kp96i82tnBw..; vqq_vusession=TxYjBGFcnc0Kp96i82tnBw..; teenGuardSessionCode=6FE74FDCE5B491B871F229AD042AB2B4917271DB9D77ED0D1D8BF9F8950CD60270AA19CD88D854247B463EE1AEDB295B7ED34F5FD324D235A0CB32370DDB08D097BDF1513E7A8B89D188C9E878B7F280F3B07F173375CADADE0263ED842FD35C35B6E4217402E8EB07166FEA
+[I][2022-02-11 +80 16:11:54.511][29344, 24713][public_io_pool-155785][VBLoginService][AccountManager][][onLoginStoreChange type: 0 accountJson {"accountType":0,"openId":"04BF6F0447720EABB6A4A921C6FB1DEB","accessToken":"500FBA1C36A9C45556197FFFAD6CFAB3","im_token":"eAEtzUsLgkAUBeD-MttC77ycQWgRRFEIPRe1FOYat7KG0SKJ-numLs85fJwPO2T76IWBpUxEwMZdrtw1954cS7kC0MB5YvuFHN5rKqgD0oIEZfWgaiqxFYlSOjGcy17g21P490ZqAQDDA53bxzI8Zrd46yo0mFlYyHhui3WAeDPF3eUpRk1uQrNaVsfThH1-9Hswhg__","refreshToken":"6F83B0879A9649ABC097307F6213A87A","nickName":"Â§©‰∏äÁôΩÁéâ‰∫¨","headImgUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=pEHhcofrDMqX0UN33DwFAg&s=140&t=1571914754","videoUserId":38030485,"videoSessionKey":"TxYjBGFcnc0Kp96i82tnBw..","videoCreateTime":1644567113496,"videoExpireTime":6106000,"accessTokenExpireTime":0,"overdue":false,"appid":"101795054","authCode":"FE4BCCF7CD80389DED52DE39D47D94C4","QQAccessToken":"","QQOpenId":"04BF6F0447720EABB6A4A921C6FB1DEB","QQExpireTime":7776000}
+[I][2022-02-11 +80 16:11:54.672][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  connectionAcquired()
+[I][2022-02-11 +80 16:11:54.672][29344, 24714][public_io_pool-155786][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  log request server info
+[I][2022-02-11 +80 16:11:54.674][29344, 24713][VBTransportService-155785][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  getIp info...
+[I][2022-02-11 +80 16:11:54.675][29344, 24713][VBTransportService-155785][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  getIp info:183.3.226.75
+[I][2022-02-11 +80 16:11:54.675][29344, 24713][VBTransportService-155785][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  getHost info...
+[I][2022-02-11 +80 16:11:54.675][29344, 24713][VBTransportService-155785][NXNetwork_Transport_HttpImpl][][][[GetUserProfileRequest#60674]-2  getHost info:acc.qq.com
+[I][2022-02-11 +80 16:11:54.707][29344, 24713][public_io_pool-155785][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:11:54.707][29344, 24713][public_io_pool-155785][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName = java.util.HashMap callerProcessName = com.tencent.qqlive:mini1 fileName = com.tencent.qqlive_preferences key = vb_wrapperloginservice_atomicinfo , please check context
+[I][2022-02-11 +80 16:11:54.733][29344, 24714][public_io_pool-155786][NXNetwork_Transport_Task][][][[GetUserProfileRequest#60674]-2 execute() request succ: https://acc.qq.com/ ,networkState:NETWORK_STATE_WIFI, cellular strength level:2, cellular connected:DISCONNECTED, wifi connected:CONNECTED
+[I][2022-02-11 +80 16:11:54.733][29344, 24714][public_io_pool-155786][NXNetwork_Transport_Task][][][[GetUserProfileRequest#60674]-2 run() task state is done , call listener
+[I][2022-02-11 +80 16:11:54.733][29344, 24714][public_io_pool-155786][NXNetwork_Network_Task][][][[GetUserProfileRequest#60674]-2 notifyListener() task state is done , call listener
+[I][2022-02-11 +80 16:11:54.734][29344, 24714][public_io_pool-155786][NXNetwork_JCE_QmfFramePackage][][][[GetUserProfileRequest#60674]-2 unpackage qmf frame ,response bytes size:381
+[I][2022-02-11 +80 16:11:54.734][29344, 24714][public_io_pool-155786][NXNetwork_JCE_JCEFramePackage][][][[GetUserProfileRequest#60674]-2 unpackage jce frame,response bytes size:283
+[I][2022-02-11 +80 16:11:54.734][29344, 24714][public_io_pool-155786][NXNetwork_JCE_HeaderPackage][][][[GetUserProfileRequest#60674]-2 unpackage response header
+[I][2022-02-11 +80 16:11:54.734][29344, 24714][public_io_pool-155786][NXNetwork_JCE_StructPackage][][][[GetUserProfileRequest#60674]-2 byte[] --> JceStruct
+[I][2022-02-11 +80 16:11:54.734][29344, 24714][public_io_pool-155786][NXNetwork_JCE_StructPackage][][][[GetUserProfileRequest#60674]-2 find response class name from default strategy :com.tencent.qqlive.ona.protocol.jce.GetUserProfileResponse
+[I][2022-02-11 +80 16:11:54.735][29344, 24714][public_io_pool-155786][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-11 +80 16:11:54.739][29344, 24714][public_io_pool-155786][NXNetwork_JCE_TaskManager][][][removeTask() requestId :2
+[I][2022-02-11 +80 16:11:54.739][29344, 24714][public_io_pool-155786][NXNetwork_Network_TaskManager][][][[GetUserProfileRequest#60674]-2 onTaskFinish()
+[I][2022-02-11 +80 16:11:54.739][29344, 24714][public_io_pool-155786][NXNetwork_Transport_TaskManager][][][[GetUserProfileRequest#60674]-2 onTaskFinish()
+[I][2022-02-11 +80 16:11:54.774][29344, 24714][public_io_pool-155786][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-11 +80 16:11:54.774][29344, 24714][public_io_pool-155786][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMf3xbwSEN34xbwS , please check context
+[I][2022-02-11 +80 16:11:57.974][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:58.000][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:00.995][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:03.989][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:04.008][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:06.995][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:09.993][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:10.005][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:12.995][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:26.653][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:36.820][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:37.020][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:43.018][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:49.043][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.488][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.796][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.797][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.797][29344, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.797][29344, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.pandora.device.WifiInfoManager.getConnectionInfo(Unknown Source:97)
+	at com.tencent.qqlive.pandora.Pandora.getConnectionInfo(Unknown Source:85)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:81)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at com.tencent.qqlive.whitecrash.CrashCatcher$1.run(Unknown Source:65)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+[I][2022-02-11 +80 16:31:23.798][29344, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isAppOnForeground(Unknown Source:144)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isBackgroundRequestProcess(Unknown Source:33)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:87)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at com.tencent.qqlive.whitecrash.CrashCatcher$1.run(Unknown Source:65)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+~~~~~ end of mmap ~~~~~[6713,6713][2022-02-12 +0800 08:42:15]

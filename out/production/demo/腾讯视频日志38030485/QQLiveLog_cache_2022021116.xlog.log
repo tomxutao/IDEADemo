@@ -1,0 +1,370 @@
+~~~~~ begin of mmap ~~~~~
+[I][2022-02-10 +80 21:26:09.282][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.328][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.341][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.359][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.385][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.413][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.421][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.434][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.441][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.446][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.457][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.465][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 141, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:09.469][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.469][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 106, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1657MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:09.469][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 105, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1657MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:09.472][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.474][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.479][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.482][8532, 1*][main][tpdlcore][][][downloadcore.cpp:610][INFO][TVDLProxy_PushEvent]receive event:19, screen on or off
+[I][2022-02-10 +80 21:26:09.483][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.484][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.486][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.487][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.491][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.492][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.493][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.494][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.495][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.496][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.497][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.498][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.500][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.501][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.506][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.506][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.510][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.512][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.515][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.515][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.518][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.520][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.521][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.523][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.524][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.525][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.525][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.527][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.528][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.530][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.532][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.535][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.540][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.547][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.549][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.551][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.552][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.554][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.557][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.560][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.565][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.568][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.569][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.575][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.576][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.577][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.578][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.580][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.581][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.583][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.584][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.585][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.587][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.589][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.591][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.592][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.594][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.596][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.601][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.604][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.605][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.609][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.613][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.621][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.673][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.675][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.682][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.684][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.691][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.699][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.706][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.711][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.715][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.718][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.722][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.726][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.728][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.730][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.732][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.743][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.745][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.766][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.773][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.778][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.781][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.785][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.787][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.793][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.798][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.800][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.803][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.805][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.808][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.809][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.815][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.818][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.822][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.827][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.830][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.834][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.837][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.840][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.844][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.848][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.853][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.856][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.860][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.864][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.884][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.887][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.894][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.897][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.899][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.902][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.905][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.908][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.910][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.912][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.914][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.916][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.918][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.921][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.922][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.927][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.931][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.932][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.940][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.941][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.942][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.944][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.946][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.947][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.949][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.953][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:09.954][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:10.353][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:10.435][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:10.476][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 142, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:10.476][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 107, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:10.476][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 106, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:10.852][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:11.005][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:11.481][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 143, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:11.481][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 108, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:11.481][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 107, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1670MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:11.565][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:11.739][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:12.307][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:12.484][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 144, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1748MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:12.484][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 109, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1748MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:12.484][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 108, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1748MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:12.544][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:13.266][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:13.456][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:14.988][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 145, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1535MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:14.996][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:14.999][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:26:15.005][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 110, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1530MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:15.008][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 109, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1529MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:26:15.140][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.737][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.754][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.770][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.786][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.795][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.797][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.806][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.811][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.821][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.826][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.828][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 146, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1240MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:29.831][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 111, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1210MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:29.831][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 110, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1209MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:29.841][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.850][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.861][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.866][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.874][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.882][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.894][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.904][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.907][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.914][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.920][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.929][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.937][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.949][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.961][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.965][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.969][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.982][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:29.998][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.001][8532, 1*][main][tpdlcore][][][downloadcore.cpp:610][INFO][TVDLProxy_PushEvent]receive event:20, screen on or off
+[I][2022-02-10 +80 21:32:30.003][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.014][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.016][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.016][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.018][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.018][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.019][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.020][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.020][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.021][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.021][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.022][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.023][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.023][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.033][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.039][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.040][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.041][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.043][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.043][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.043][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.043][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.044][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.044][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.045][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.045][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.045][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.047][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.047][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.048][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.049][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.049][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.054][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.055][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.056][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.057][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.058][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.060][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.060][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.061][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.064][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.064][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.066][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.073][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.074][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.080][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.087][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.088][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.090][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.092][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.098][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.109][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.112][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.124][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.126][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.130][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.133][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.142][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.146][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.147][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.152][8532, 1*][main][tpdlcore][][][downloadcore.cpp:610][INFO][TVDLProxy_PushEvent]receive event:19, screen on or off
+[I][2022-02-10 +80 21:32:30.160][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.163][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.164][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.166][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.167][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.171][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.175][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.176][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.178][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.180][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.187][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.192][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.193][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.195][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.196][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.197][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.197][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.198][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.198][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.199][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.200][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.201][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.202][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.209][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.216][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.216][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.217][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.219][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.219][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.223][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.224][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.226][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.227][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.229][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.232][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.236][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.237][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.241][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.243][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.252][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.253][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.254][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.256][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.257][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.258][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.260][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.260][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.260][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.263][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.264][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.265][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.267][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.270][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.273][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.276][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.288][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.291][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.294][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.296][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.300][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.303][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.306][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.308][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.309][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:30.832][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 147, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1341MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:30.832][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 112, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1341MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:30.934][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 111, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1338MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:31.115][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:31.839][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 148, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1422MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:31.839][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 113, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1422MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:31.941][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 112, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1341MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:32.639][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:32.848][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 149, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1621MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:32.848][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 114, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1621MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:34.430][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 150, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1642MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:34.440][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:34.448][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:34.451][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 115, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1639MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:34.451][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 113, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1639MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:34.456][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:35.455][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53piaboaaagiajfs5snvq4a6wdc6laae2a.f322013.hls, taskID: 600021, type: 5, WatchTime: 151, RemainTime(0, 0, 82),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1543MB), CodeRate: 38 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:35.455][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53dmaaqaaasqahnrp2ufq4ag6dbbvqadca.f322013.hls, taskID: 600031, type: 5, WatchTime: 116, RemainTime(0, 0, 31),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1543MB), CodeRate: 223 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:35.455][8532, 22205][TVKDL-Timer][tpdlcore][][][HLSVodScheduler.cpp:272][INFO][OnSchedule]P2PKey: 0b53viaaoaaaheanvcgcsvq4bkwda7naaa2a.f322013.hls, taskID: 600039, type: 5, WatchTime: 114, RemainTime(0, 0, 35),  Adv(0), P2PTime(90, 120), Speed(0.00KB/S, 0.00KB/S, 0.00KB/S, 0.00KB/S), MemInfo(38MB, 75MB, 1542MB), CodeRate: 62 KB/s, peer:0/0/0, lowSpeed:1, p2pLow:0, Qos: 10000, Mode:2, SeedSuper(0/0), SeedNormal(0/0)
+[I][2022-02-10 +80 21:32:35.611][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 21:32:35.632][8532, 22115][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+~~~~~ end of mmap ~~~~~[26999,26999][2022-02-11 +0800 16:03:40]
+^^^^^^^^^^Sep  7 2021^^^14:05:59^^^^^^^^^^[26999,26999][2022-02-11 +0800 16:03:40]
+get mmap time: 6
+MARS_URL: 
+MARS_PATH: master_android
+MARS_REVISION: a7ee7a4
+MARS_BUILD_TIME: 2021-09-07 14:05:12
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:245001879552 free:69832200192 available:69832200192
+log dir space info, capacity:244980908032 free:69811228672 available:69811228672

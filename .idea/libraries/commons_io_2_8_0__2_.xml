@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-io-2.8.0 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/asm/commons-io-2.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

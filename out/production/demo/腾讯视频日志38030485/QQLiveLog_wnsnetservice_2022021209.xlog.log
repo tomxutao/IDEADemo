@@ -1,0 +1,1065 @@
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Sep  7 2021^^^14:05:59^^^^^^^^^^[8800,8800][2022-02-12 +0800 08:43:38]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master_android
+MARS_REVISION: a7ee7a4
+MARS_BUILD_TIME: 2021-09-07 14:05:12
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:245001879552 free:69315170304 available:69315170304
+log dir space info, capacity:244980908032 free:69294198784 available:69294198784
+[I][2022-02-12 +80 08:43:38.322][8800, 1*][main][InitializerABTestSwitch][][][getThreadpoolConfig >>> jsonStr = {}
+[I][2022-02-12 +80 08:43:38.322][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.322][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.322][8800, 1*][main][LoadLibraryHooker][][][load so c++_shared
+[I][2022-02-12 +80 08:43:38.322][8800, 1*][main][LoadLibraryHooker][][][load so mmkv
+[I][2022-02-12 +80 08:43:38.324][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.325][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.325][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.325][8800, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-12 +80 08:43:38.325][8800, 1*][main][LaunchTaskConfigImpl][][][getSubThreadCore = 1
+[I][2022-02-12 +80 08:43:38.325][8800, 1*][main][Tab][][][getConfigInt-----sTabSDKManager == null, key = private_protocol_dialog_enable
+[I][2022-02-12 +80 08:43:38.325][8800, 1*][main][PrivateProtocolDialogManager][][][PrivateProtocolDialogManager : setValue --> false
+[I][2022-02-12 +80 08:43:38.327][8800, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-12 +80 08:43:38.327][8800, 1*][main][Tab][][][isToggleOn-----sTabSDKManager == null, key = monitor_subprocess_threadinfo_enable
+[I][2022-02-12 +80 08:43:38.327][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.328][8800, 27180][launch-thread-0][Tab][][][getABCloudConfigInt-----sTabSDKManager == null, key = acc_client_max_conn_pool_idle_size
+[I][2022-02-12 +80 08:43:38.328][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.328][8800, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.328][8800, 27180][launch-thread-0][Tab][][][getABCloudConfigInt-----sTabSDKManager == null, key = acc_client_conn_pool_alive_second_time
+[I][2022-02-12 +80 08:43:38.328][8800, 27180][launch-thread-0][Tab][][][getABCloudConfigBoolean-----sTabSDKManager == null, key = acc_client_http2_switch
+[I][2022-02-12 +80 08:43:38.328][8800, 27180][launch-thread-0][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.328][8800, 27180][launch-thread-0][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:43:38.329][8800, 27180][launch-thread-0][Tab][][][getConfigBool-----sTabSDKManager == null, key = transportservice_remove_sensitive_info_enable
+[I][2022-02-12 +80 08:43:38.329][8800, 1*][main][TabSDKManager][][][init: mOmgidSwitchQimei36=false
+[I][2022-02-12 +80 08:43:38.330][8800, 27180][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][getDefaultServerDomain, returns domain : acc.qq.com
+[I][2022-02-12 +80 08:43:38.330][8800, 27180][launch-thread-0][NXNetwork_Network_TaskManager][][][create() new instance, domain : acc.qq.com
+[I][2022-02-12 +80 08:43:38.330][8800, 27180][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-12 +80 08:43:38.330][8800, 27180][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-12 +80 08:43:38.334][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-12 +80 08:43:38.334][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-12 +80 08:43:38.334][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-12 +80 08:43:38.334][8800, 27180][launch-thread-0][UniCmdSolutionSelector][][][initSolution:UniCmdInitConfig(initHttpConfig=UniCmdInitHttpConfig(enableHttpSolution=true, httpSolutionProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdHttpSolutionDefault@caa34b6), initWnsConfig=UniCmdInitWnsConfig(enableWnsSolution=false, wnsSolutionProxy=null), reportProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$reportProxy$1@8d3124, tabConfigProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$tabConfigProxy$1@6ef148d, logProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdLogProxyDefault@e1ce642, executorProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdExecutorProxyDefault@9825653, netProbeProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdNetProbeProxyDefault@9fe3b90, platformInfoProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdPlatformInfoProxyDefault@8c56c89)
+[I][2022-02-12 +80 08:43:38.334][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644550535
+[I][2022-02-12 +80 08:43:38.334][8800, 27180][launch-thread-0][UniCmdInitTask][][][UniCmdInitTask init cost:0ms
+[I][2022-02-12 +80 08:43:38.334][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644550535
+[I][2022-02-12 +80 08:43:38.334][8800, 27180][launch-thread-0][VBUniCmdServiceImpl][][][init finish, use inner:false
+[I][2022-02-12 +80 08:43:38.334][8800, 27180][launch-thread-0][UniCmdMgr][][][UniCmdMgr init
+[I][2022-02-12 +80 08:43:38.334][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 421
+[I][2022-02-12 +80 08:43:38.335][8800, 27182][com.getkeepsafe.relinker.e][LoadLibraryHooker][][][load so tquic
+[I][2022-02-12 +80 08:43:38.336][8800, 27180][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-12 +80 08:43:38.336][8800, 27180][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-12 +80 08:43:38.336][8800, 27180][launch-thread-0][VBPBTabConfig][][][isRemoveSensitiveInformation:true
+[I][2022-02-12 +80 08:43:38.336][8800, 27187][VBPBService-158259][NXNetwork_Network_StateMonitor][][][create state monitor sdkversion:29
+[I][2022-02-12 +80 08:43:38.336][8800, 27187][VBPBService-158259][NXNetwork_Network_StateMonitor][][][network state monitor stop
+[I][2022-02-12 +80 08:43:38.337][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 421
+[I][2022-02-12 +80 08:43:38.337][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-12 +80 08:43:38.339][8800, 27180][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-12 +80 08:43:38.339][8800, 27180][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-12 +80 08:43:38.339][8800, 27189][public_io_pool-158261][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-12 +80 08:43:38.339][8800, 27189][public_io_pool-158261][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-12 +80 08:43:38.339][8800, 27189][public_io_pool-158261][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-12 +80 08:43:38.339][8800, 27187][VBPBService-158259][NXNetwork_Network_StateMonitor][][][network state monitor stop fail, network callback is not registered
+[I][2022-02-12 +80 08:43:38.339][8800, 27187][VBPBService-158259][NXNetwork_Network_StateMonitor][][][network state monitor start
+[I][2022-02-12 +80 08:43:38.339][8800, 1*][main][InitWNSSubProcessTask][][][initIsAllowWnsSDK: enable log 
+[I][2022-02-12 +80 08:43:38.339][8800, 1*][main][ActivityStackImpl][][][init activity stack, size=0
+[I][2022-02-12 +80 08:43:38.339][8800, 1*][main][PlatformIdConfig][][][platform init:false true
+[I][2022-02-12 +80 08:43:38.341][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-12 +80 08:43:38.341][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-12 +80 08:43:38.341][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-12 +80 08:43:38.341][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644582246
+[I][2022-02-12 +80 08:43:38.341][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644582246
+[I][2022-02-12 +80 08:43:38.341][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabToggleControlInfo {  mData = value, mEnableReport = false, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-12 +80 08:43:38.342][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-12 +80 08:43:38.342][8800, 27178][public_io_pool-158250][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.342][8800, 27178][public_io_pool-158250][TabToggleDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.342][8800, 27178][public_io_pool-158250][TabToggleDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.342][8800, 27178][public_io_pool-158250][TabToggleDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.342][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 584
+[I][2022-02-12 +80 08:43:38.344][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 584
+[I][2022-02-12 +80 08:43:38.344][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-12 +80 08:43:38.345][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:38.345][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabConfigControlInfo {  mData = value, mEnableReport = true, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-12 +80 08:43:38.345][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-12 +80 08:43:38.345][8800, 27188][public_io_pool-158260][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.345][8800, 27188][public_io_pool-158260][TabConfigDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.345][8800, 27188][public_io_pool-158260][TabConfigDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.345][8800, 27188][public_io_pool-158260][TabConfigDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:43:38.346][8800, 1*][main][QQLiveApplication][][][ApplicationOnCreate, processName = com.tencent.qqlive:wnsnetservice, flavor = , buildType = iconRelease64, versionName = 8.5.41.26553
+[I][2022-02-12 +80 08:43:38.346][8800, 27186][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onAvailable()
+[I][2022-02-12 +80 08:43:38.347][8800, 27186][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:38.347][8800, 27186][ConnectivityThread][NXNetwork_Network_StateManager][][][notify network state change, curr state:NETWORK_STATE_4G
+[I][2022-02-12 +80 08:43:38.347][8800, 27186][ConnectivityThread][NXNetwork_Network_NetworkServiceManager][][][setNacList, nacMap null!
+[I][2022-02-12 +80 08:43:38.347][8800, 27186][ConnectivityThread][NXNetwork_Network_AddressManager][][][setNacList() version:1
+[I][2022-02-12 +80 08:43:38.347][8800, 27186][ConnectivityThread][NXNetwork_Network_StateMachine][][][resetState()
+[I][2022-02-12 +80 08:43:38.347][8800, 27186][ConnectivityThread][NXNetwork_Network_NacManager][][][clear()
+[I][2022-02-12 +80 08:43:38.348][8800, 27186][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-12 +80 08:43:38.348][8800, 27186][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-12 +80 08:43:38.348][8800, 27186][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onLinkPropertiesChanged()
+[I][2022-02-12 +80 08:43:38.348][8800, 27186][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:38.348][8800, 27186][ConnectivityThread][NXNetwork_Network_StateManager][][][network state not change, curr state:NETWORK_STATE_4G
+[I][2022-02-12 +80 08:43:38.349][8800, 1*][main][[wns2]DomainManager][][][startDefaultdnsThread
+[I][2022-02-12 +80 08:43:38.353][8800, 1*][main][[wns2]WnsAlarm][][][Heartbeat Alarm Enabled :)
+[I][2022-02-12 +80 08:43:38.354][8800, 27194][com.tencent.wnsnetsdk.network.DomainManager][[wns2]NetworkDash][][][imsi: 46001
+[I][2022-02-12 +80 08:43:38.355][8800, 1*][main][[wns2]SessionManager][][][setState mState = 0,newState = 0
+[I][2022-02-12 +80 08:43:38.357][8800, 1*][main][[wns2]SessionManager][][][recovery, customServer = [type = wns.debug.ip, accAddress = , bizBuf.len = 0operator = 0]
+[I][2022-02-12 +80 08:43:38.357][8800, 1*][main][[wns2]SessionManager][][][forceOpen session, uin = 0 openType:0
+[I][2022-02-12 +80 08:43:38.358][8800, 27196][SessionManager][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_RUN_START time:4341225651
+[I][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]ConfigManager][][][/data/user/0/com.tencent.qqlive/files/WNSNetSdk_configWnsV1 not exist
+[E][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]ConfigManager][][][config file not exists!
+[I][2022-02-12 +80 08:43:38.359][8800, 27196][SessionManager][[wns2]SessionManager][][][open session, internalOpen with mState = 0 openType:0
+[E][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]WnsBinder][][][Client Protection Loaded : 10000078;26553;8.5.41.26553;200067;V1_IPH_QZ_8.3.0_1_APP_A;0;0;0;
+[I][2022-02-12 +80 08:43:38.359][8800, 27196][SessionManager][[wns2]SessionManager][][][return MutiServerManager
+[I][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]WnsBinder][][][WnsBinder start from client:10000078;26553;8.5.41.26553;200067;V1_IPH_QZ_8.3.0_1_APP_A;0;0;0;,msg:null
+[I][2022-02-12 +80 08:43:38.359][8800, 27196][SessionManager][[wns2]SettingManager][][][load setting from DB, START
+[E][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]WnsBinder][][][Client Protection Saved : 10000078;26553;8.5.41.26553;200067;V1_IPH_QZ_8.3.0_1_APP_A;0;0;0;
+[I][2022-02-12 +80 08:43:38.359][8800, 27198][Tencent_WnsThreadPool #1][[wns2]WnsNotify][][][sendEvent messenger is null , event=17 ,arg1=18 ,obj=4341225651 ,ext=null
+[I][2022-02-12 +80 08:43:38.359][8800, 27199][WNSThread#Setting#Load][[wns2]SettingManager][][][load setting from DB, finished
+[I][2022-02-12 +80 08:43:38.359][8800, 27199][WNSThread#Setting#Load][[wns2]ParamContent][][][received new json data:{"code":0,"data":{"PingInterval":"150000","disable_WnsService":"0","disable_child_process":"0","ipc_transfer_request_timeout_ext":"80000","privacy_control":"0","report_all_events":"0","start_WnsProxyService":"0","start_child_process":"1","start_service_without_proc":"1","timeout":"1200"},"confVersion":"v_20211122103145_release\/1\/121\/167\/170\/171\/172\/173\/174\/177\/2","updateTime":"","extra":{}}
+[I][2022-02-12 +80 08:43:38.359][8800, 27199][WNSThread#Setting#Load][[wns2]ParamContent][][][old json data:null
+[I][2022-02-12 +80 08:43:38.359][8800, 27196][SessionManager][[wns2]SettingManager][][][load setting from DB, cost:1
+[I][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.359][8800, 1*][main][[wns2]WnsBinder][][][WnsBinder: forbiddenIpv6IfNecessary = 0
+[I][2022-02-12 +80 08:43:38.360][8800, 1*][main][[wns2]AccessCollector][][][initWNSReporter, version:5.2.1.46
+[I][2022-02-12 +80 08:43:38.361][8800, 27196][SessionManager][LoadLibraryHooker][][][load so wnsnet
+[I][2022-02-12 +80 08:43:38.361][8800, 27196][SessionManager][[wns2]ConnectionImpl][][][loadLibrary return true
+[I][2022-02-12 +80 08:43:38.362][8800, 1*][main][SimpleBroadcastManager][][][onServiceConnected
+[I][2022-02-12 +80 08:43:38.362][8800, 1*][main][SimpleBroadcastManager][][][onServiceConnected
+[I][2022-02-12 +80 08:43:38.364][8800, 1*][main][[wns2]SessionManager][][][NetworkChangeReceiver [type: MOBILE[LTE], state: CONNECTED/CONNECTED, reason: connected, extra: ***, failover: false, available: true, roaming: false]
+[I][2022-02-12 +80 08:43:38.365][8800, 1*][main][[wns2]SessionManager][][][forceOpen session, uin = 0 openType:16
+[I][2022-02-12 +80 08:43:38.365][8800, 27193][Tencent_base.clock.service][[wns2]SessionManager][][][wifi auth detect not wifi 
+[I][2022-02-12 +80 08:43:38.365][8800, 27180][launch-thread-0][LocationGetTask][][][enableRequestLocation:false
+[I][2022-02-12 +80 08:43:38.365][8800, 27192][launch-idle71][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleMiddle, threadStrategy = SubThread
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][needForbiddenIpv6: false
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][scheIP list = [ScheIP{ip='157.148.45.38', type=1, idc=深圳市_中国联通}, ScheIP{ip='157.148.45.193', type=1, idc=深圳市_中国联通}, ScheIP{ip='116.128.184.243', type=2, idc=上海市_中国联通}, ScheIP{ip='116.128.184.244', type=2, idc=上海市_中国联通}]
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheManager][][][decodeScheJSON:ScheInfo{clientIP='112.97.63.164', clientOper=中国#广东省#中国联通#, domainList=[v6-accvideo.wns.qq.com], tcpScheUnits={v6-accvideo.wns.qq.com=ScheUnit{scheUnitName='12183', schUnitCode='12183_qnYaljpQteqeJQnQPnJCLg==_2/', schCreateTime='2022-02-08 15:23:45.0', tcpPort=[443, 8080, 14000, 80], accIPList=[ScheIP{ip='157.148.45.38', type=1, idc=深圳市_中国联通}, ScheIP{ip='157.148.45.193', type=1, idc=深圳市_中国联通}, ScheIP{ip='116.128.184.243', type=2, idc=上海市_中国联通}, ScheIP{ip='116.128.184.244', type=2, idc=上海市_中国联通}], bgpIPList=[]}}, httpScheUnits={}, failScheIP={}, recentSuccIP='null', scheUnits={12183=ScheUnit{scheUnitName='12183', schUnitCode='12183_qnYaljpQteqeJQnQPnJCLg==_2/', schCreateTime='2022-02-08 15:23:45.0', tcpPort=[443, 8080, 14000, 80], accIPList=[ScheIP{ip='157.148.45.38', type=1, idc=深圳市_中国联通}, ScheIP{ip='157.148.45.193', type=1, idc=深圳市_中国联通}, ScheIP{ip='116.128.184.243', type=2, idc=上海市_中国联通}, ScheIP{ip='116.128.184.244', type=2, idc=上海市_中国联通}], bgpIPList=[]}}} apnName:apn_3gnet
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]MutiServerManager][][][ignore updateRecentlyServerProfile as disable use recent ip
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheJsonDecoder][][][needForbiddenIpv6: false
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]ScheManager][][][convertScheInfoToTcpServerLists: [sIP = 157.148.45.38,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = opt, sIP = 157.148.45.193,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = opt, sIP = v6-accvideo.wns.qq.com,sPort = 14000,pIP = null,pPort = 0,protocol = tcp,type = dns, sIP = v6-accvideo.wns.qq.com,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = dns, sIP = v6-accvideo.wns.qq.com,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = dns, sIP = v6-accvideo.wns.qq.com,sPort = 80,pIP = null,pPort = 0,protocol = tcp,type = dns, sIP = 116.128.184.243,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.243,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.243,sPort = 14000,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.243,sPort = 80,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.244,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.244,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.244,sPort = 14000,pIP = null,pPort = 0,protocol = tcp,type = bak, sIP = 116.128.184.244,sPort = 80,pIP = null,pPort = 0,protocol = tcp,type = bak]
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]MutiServerManager][][][initTcpServerList: ipStack = 3
+[I][2022-02-12 +80 08:43:38.366][8800, 27196][SessionManager][[wns2]MutiServerManager][][][reset isBackGroud = false,has no recently server, so try 2+0,{[sIP = 157.148.45.38,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = opt, sIP = 157.148.45.193,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = opt]} apnKey:apn_3gnet
+[I][2022-02-12 +80 08:43:38.367][8800, 27196][SessionManager][[wns2]wnsnetwork][][][wnsjni:@debug@ setWnsEngine engine old=0, new=535671973920
+[I][2022-02-12 +80 08:43:38.369][8800, 27204][Thread-8][[wns2]wnsnetwork][][][TcpConn:Thread Run......
+[I][2022-02-12 +80 08:43:38.369][8800, 27205][Thread-9][[wns2]Session][][][[Session No:1] connect sIP = 157.148.45.38,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = opt
+[I][2022-02-12 +80 08:43:38.369][8800, 27205][Thread-9][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_CONNECT_START time:4341225660
+[I][2022-02-12 +80 08:43:38.369][8800, 27206][Tencent_WnsThreadPool #2][[wns2]WnsNotify][][][sendEvent messenger is null , event=17 ,arg1=19 ,obj=4341225660 ,ext=null
+[I][2022-02-12 +80 08:43:38.370][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][WnsBinder start from client:10000078;26553;8.5.41.26553;200067;V1_IPH_QZ_8.3.0_1_APP_A;0;0;0;,msg:android.os.Messenger@f5c8168
+[E][2022-02-12 +80 08:43:38.370][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][Client Protection Saved : 10000078;26553;8.5.41.26553;200067;V1_IPH_QZ_8.3.0_1_APP_A;0;0;0;
+[I][2022-02-12 +80 08:43:38.370][8800, 27159][Binder:8800_2][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.370][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][WnsBinder: forbiddenIpv6IfNecessary = 0
+[I][2022-02-12 +80 08:43:38.370][8800, 27159][Binder:8800_2][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SERVICE_CLIENT_BIND time:4341225662
+[I][2022-02-12 +80 08:43:38.370][8800, 27159][Binder:8800_2][[wns2]MonitorHelper][][][notifyNetServiceEvent:INIT time:4341225630
+[I][2022-02-12 +80 08:43:38.371][8800, 27205][Thread-9][[wns2]wnsnetwork][][][wnsjni:@debug@ Java_com_tencent_wnsnetsdk_network_ConnectionImpl_connect start 1004567219
+[I][2022-02-12 +80 08:43:38.371][8800, 27205][Thread-9][[wns2]wnsnetwork][][][NetworkEngine:@debug@ NetworkEngine::connect start
+[I][2022-02-12 +80 08:43:38.371][8800, 27196][SessionManager][LoadLibraryHooker][][][load so wnscrypt
+[I][2022-02-12 +80 08:43:38.371][8800, 27161][Binder:8800_3][[wns2]WnsBinder][][][registerStartServiceCmdCallback register:1644626618131,com.tencent.wnsnetsdk.ipc.IRemoteCallback$Stub$Proxy@7352b2, cache size before:0
+[I][2022-02-12 +80 08:43:38.372][8800, 27197][Tencent_wns_background][[wns2]WnsBinder][][][registerStartServiceCmdCallback clear:1644626618131,com.tencent.wnsnetsdk.ipc.IRemoteCallback$Stub$Proxy@7352b2, cache size after:0
+[I][2022-02-12 +80 08:43:38.372][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:hasv4(3) 
+[I][2022-02-12 +80 08:43:38.372][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:++serverIP(157.148.45.38):cnt(0) 
+[I][2022-02-12 +80 08:43:38.372][8800, 27205][Thread-9][[wns2]wnsnetwork][][][network:saddr.s_addr !=-1
+[I][2022-02-12 +80 08:43:38.372][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:SO_SNDBUF=524288
+[I][2022-02-12 +80 08:43:38.372][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:SO_RCVBUF=4194304
+[I][2022-02-12 +80 08:43:38.373][8800, 27210][Tencent_WnsThreadPool #6][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SERVICE_START time:4341225641
+[I][2022-02-12 +80 08:43:38.373][8800, 27210][Tencent_WnsThreadPool #6][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_RUN_START time:4341225651
+[I][2022-02-12 +80 08:43:38.374][8800, 27210][Tencent_WnsThreadPool #6][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SERVICE_END time:4341225653
+[I][2022-02-12 +80 08:43:38.374][8800, 27210][Tencent_WnsThreadPool #6][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_CONNECT_START time:4341225660
+[I][2022-02-12 +80 08:43:38.375][8800, 27196][SessionManager][[wns2]SecurityBuilder][][][load securityInfoFromDB:true
+[I][2022-02-12 +80 08:43:38.375][8800, 27196][SessionManager][[wns2]SecurityBuilder][][][init nativeRef:533452960768
+[I][2022-02-12 +80 08:43:38.375][8800, 27196][SessionManager][[wns2]SecurityBuilder][][][securityState: old:STATE_INIT -->STATE_0RTT_Handshake
+[I][2022-02-12 +80 08:43:38.375][8800, 27196][SessionManager][[wns2]wnsnetwork][][][wnsjni:@debug@ setWnsEngine engine old=0, new=535671973952
+[I][2022-02-12 +80 08:43:38.376][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_imp, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341225427,isMonitor:false
+[I][2022-02-12 +80 08:43:38.376][8800, 27207][Tencent_WnsThreadPool #3][[wns2]DeviceInfos][][][[Priv]device=i=N/A&m=&o=10&a=29&n=4g&sc=1&sd=0&p=1080*2214&f=&d=3.0&pid=com.tencent.qqlive&aid=&rom=102.0.0,HUAWEIEBG-AN10&cc=8&cf=-1&mm=-1&&appState=1&
+[I][2022-02-12 +80 08:43:38.376][8800, 27196][SessionManager][[wns2]SecurityBuilder][][][init nativeRef:533452961088
+[I][2022-02-12 +80 08:43:38.376][8800, 27196][SessionManager][[wns2]SecurityBuilder][][][securityState: old:STATE_INIT -->STATE_0RTT_Handshake
+[I][2022-02-12 +80 08:43:38.376][8800, 27196][SessionManager][[wns2]SessionManager][][][setState mState = 0,newState = 1
+[I][2022-02-12 +80 08:43:38.376][8800, 27196][SessionManager][[wns2]WnsBinder][][][Session State Changed From 0 → 1
+[I][2022-02-12 +80 08:43:38.377][8800, 27196][SessionManager][[wns2]SessionManager][][][open session, internalOpen with mState = 1 openType:16
+[I][2022-02-12 +80 08:43:38.377][8800, 27218][Thread-13][[wns2]wnsnetwork][][][TcpConn:Thread Run......
+[I][2022-02-12 +80 08:43:38.377][8800, 27196][SessionManager][[wns2]SessionManager][][][internalOpen cache open request in mState = 1
+[I][2022-02-12 +80 08:43:38.377][8800, 27219][Thread-14][[wns2]Session][][][[Session No:2] connect sIP = 157.148.45.193,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = opt
+[I][2022-02-12 +80 08:43:38.377][8800, 27219][Thread-14][[wns2]MonitorHelper][][][record fail, we have contained event:NET_SERVICE_SESSION_CONNECT_START
+[I][2022-02-12 +80 08:43:38.377][8800, 27219][Thread-14][[wns2]wnsnetwork][][][wnsjni:@debug@ Java_com_tencent_wnsnetsdk_network_ConnectionImpl_connect start 1004567219
+[I][2022-02-12 +80 08:43:38.377][8800, 27219][Thread-14][[wns2]wnsnetwork][][][NetworkEngine:@debug@ NetworkEngine::connect start
+[I][2022-02-12 +80 08:43:38.378][8800, 27159][Binder:8800_2][[wns2]Biz.999][][][recv 0 pushes from 1
+[I][2022-02-12 +80 08:43:38.378][8800, 27159][Binder:8800_2][[wns2]Biz.999][][][sdk cache push closed
+[I][2022-02-12 +80 08:43:38.378][8800, 27159][Binder:8800_2][[wns2]Biz.999][][][there's no push to main proc
+[I][2022-02-12 +80 08:43:38.379][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.379][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:hasv4(3) 
+[I][2022-02-12 +80 08:43:38.379][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:++serverIP(157.148.45.193):cnt(0) 
+[I][2022-02-12 +80 08:43:38.379][8800, 27219][Thread-14][[wns2]wnsnetwork][][][network:saddr.s_addr !=-1
+[I][2022-02-12 +80 08:43:38.380][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:SO_SNDBUF=524288
+[I][2022-02-12 +80 08:43:38.380][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:SO_RCVBUF=4194304
+[I][2022-02-12 +80 08:43:38.380][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:1] [C:bls.longconnection.dt_imp] handleRequest: session not ready, cache request; uin = 999
+[I][2022-02-12 +80 08:43:38.399][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:connect_nonb connect success
+[I][2022-02-12 +80 08:43:38.399][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:++success to connect 157.148.45.38:443!MAX_SERVER_IP_LEN = 45
+[I][2022-02-12 +80 08:43:38.399][8800, 27205][Thread-9][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_CONNECTED time:4341225691
+[I][2022-02-12 +80 08:43:38.399][8800, 27205][Thread-9][[wns2]Session][][][[Session No:1] connect result:[sIP = 157.148.45.38,sPort = 443,pIP = null,pPort = 0,protocol = tcp,type = opt, signalStrength = 4,timecost = 31ms,errorCode = 541]
+[I][2022-02-12 +80 08:43:38.400][8800, 27205][Thread-9][[wns2]Session][][][[Session No:1] sendHandShake
+[I][2022-02-12 +80 08:43:38.400][8800, 27205][Thread-9][[wns2]Session][][][handshake timeout:30000
+[I][2022-02-12 +80 08:43:38.400][8800, 27205][Thread-9][[wns2]Session][][][[Session No:1] [S:2] [C:wns.consult] handleRequest
+[I][2022-02-12 +80 08:43:38.402][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.402][8800, 27205][Thread-9][[wns2]Session][][][[Session No:1] [S:3] [C:wns.handshake] handleRequest
+[I][2022-02-12 +80 08:43:38.402][8800, 27205][Thread-9][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.402][8800, 27205][Thread-9][[wns2]wnsnetwork][][][NetworkEngine:@debug@ NetworkEngine::connect end
+[I][2022-02-12 +80 08:43:38.402][8800, 27205][Thread-9][[wns2]wnsnetwork][][][wnsjni:@debug@ Java_com_tencent_wnsnetsdk_network_ConnectionImpl_connect end 1004567219
+[I][2022-02-12 +80 08:43:38.402][8800, 27225][Thread-17][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.402][8800, 27226][Thread-18][[wns2]RequestManager][][][ping or securityHandshake has no sessionid
+[I][2022-02-12 +80 08:43:38.403][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:connect_nonb connect success
+[I][2022-02-12 +80 08:43:38.403][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:++success to connect 157.148.45.193:8080!MAX_SERVER_IP_LEN = 45
+[I][2022-02-12 +80 08:43:38.403][8800, 27219][Thread-14][[wns2]MonitorHelper][][][record fail, we have contained event:NET_SERVICE_SESSION_CONNECTED
+[I][2022-02-12 +80 08:43:38.403][8800, 27226][Thread-18][[wns2]SecurityJCEHelper][][][makeClientHello handshake versions:[0] isDebug:false
+[I][2022-02-12 +80 08:43:38.404][8800, 27226][Thread-18][[wns2]SecurityBuilder][][][securityState: old:STATE_0RTT_Handshake -->STATE_0RTT_Handshake_Wait
+[I][2022-02-12 +80 08:43:38.404][8800, 27219][Thread-14][[wns2]Session][][][[Session No:2] connect result:[sIP = 157.148.45.193,sPort = 8080,pIP = null,pPort = 0,protocol = tcp,type = opt, signalStrength = 4,timecost = 27ms,errorCode = 541]
+[I][2022-02-12 +80 08:43:38.404][8800, 27219][Thread-14][[wns2]Session][][][[Session No:2] sendHandShake
+[I][2022-02-12 +80 08:43:38.405][8800, 27219][Thread-14][[wns2]Session][][][handshake timeout:30000
+[I][2022-02-12 +80 08:43:38.405][8800, 27219][Thread-14][[wns2]Session][][][[Session No:2] [S:4] [C:wns.consult] handleRequest
+[I][2022-02-12 +80 08:43:38.405][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.408][8800, 27219][Thread-14][[wns2]Session][][][[Session No:2] [S:5] [C:wns.handshake] handleRequest
+[I][2022-02-12 +80 08:43:38.408][8800, 27227][Thread-19][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.408][8800, 27229][Thread-21][[wns2]wnsnetwork][][][TcpConn:send over [2],sendLen=428
+[I][2022-02-12 +80 08:43:38.408][8800, 27231][Thread-23][[wns2]HandShakeRequest][][][[Session No:1] [S:3] getBusiData needRedirect = false,ipPrinciple = 1,apnType =2,isBackground = 0
+[I][2022-02-12 +80 08:43:38.408][8800, 27233][Thread-25][[wns2]wnsnetwork][][][TcpConn:send over [3],sendLen=359
+[I][2022-02-12 +80 08:43:38.408][8800, 27219][Thread-14][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.408][8800, 27219][Thread-14][[wns2]wnsnetwork][][][NetworkEngine:@debug@ NetworkEngine::connect end
+[I][2022-02-12 +80 08:43:38.408][8800, 27219][Thread-14][[wns2]wnsnetwork][][][wnsjni:@debug@ Java_com_tencent_wnsnetsdk_network_ConnectionImpl_connect end 1004567219
+[I][2022-02-12 +80 08:43:38.408][8800, 27235][Thread-27][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.408][8800, 27236][Thread-28][[wns2]RequestManager][][][ping or securityHandshake has no sessionid
+[I][2022-02-12 +80 08:43:38.408][8800, 27236][Thread-28][[wns2]SecurityJCEHelper][][][makeClientHello handshake versions:[0] isDebug:false
+[I][2022-02-12 +80 08:43:38.408][8800, 27236][Thread-28][[wns2]SecurityBuilder][][][securityState: old:STATE_0RTT_Handshake -->STATE_0RTT_Handshake_Wait
+[I][2022-02-12 +80 08:43:38.408][8800, 27237][Thread-29][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.408][8800, 27239][Thread-31][[wns2]wnsnetwork][][][TcpConn:send over [4],sendLen=428
+[I][2022-02-12 +80 08:43:38.408][8800, 27241][Thread-33][[wns2]HandShakeRequest][][][[Session No:2] [S:5] getBusiData needRedirect = false,ipPrinciple = 1,apnType =2,isBackground = 0
+[I][2022-02-12 +80 08:43:38.408][8800, 27243][Thread-35][[wns2]wnsnetwork][][][TcpConn:send over [5],sendLen=359
+[I][2022-02-12 +80 08:43:38.448][8800, 27245][Thread-37][[wns2]WakeLockManager][][][wakeLock seq=1 acquired
+[I][2022-02-12 +80 08:43:38.455][8800, 27245][Thread-37][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 189]
+[I][2022-02-12 +80 08:43:38.455][8800, 27245][Thread-37][[wns2]SecurityJCEHelper][][][rsp_curVersion:null
+[I][2022-02-12 +80 08:43:38.456][8800, 27245][Thread-37][[wns2]SecurityJCEHelper][][][rsp_new_versions:null
+[I][2022-02-12 +80 08:43:38.456][8800, 27245][Thread-37][[wns2]SecurityBuilder][][][securityState: old:STATE_0RTT_Handshake_Wait -->STATE_0RTT_Data
+[I][2022-02-12 +80 08:43:38.456][8800, 27245][Thread-37][[wns2]RequestManager][][][[Session No:1] [S:2] [C:wns.consult] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:38.457][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:2] [C:wns.consult |ALL = 56ms |INIT = 4ms |QUEUE = 1ms|SENT = 1ms|NETWORK = 50ms |RECV = 0ms |REQ_SIZE = 428b |RSP SIZE = 0b]
+[I][2022-02-12 +80 08:43:38.457][8800, 27245][Thread-37][[wns2]WakeLockManager][][][wakeLock seq=1 released
+[I][2022-02-12 +80 08:43:38.457][8800, 27196][SessionManager][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_SECURITY_HANDSHAKED time:4341225749
+[I][2022-02-12 +80 08:43:38.457][8800, 27196][SessionManager][[wns2]Session][][][No:1 SecurityHandshake onDataSendSuccess.. mSecurityState:1
+[I][2022-02-12 +80 08:43:38.458][8800, 27246][Thread-38][[wns2]WakeLockManager][][][wakeLock seq=2 acquired
+[I][2022-02-12 +80 08:43:38.458][8800, 27246][Thread-38][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 189]
+[I][2022-02-12 +80 08:43:38.458][8800, 27246][Thread-38][[wns2]SecurityJCEHelper][][][rsp_curVersion:null
+[I][2022-02-12 +80 08:43:38.458][8800, 27246][Thread-38][[wns2]SecurityJCEHelper][][][rsp_new_versions:null
+[I][2022-02-12 +80 08:43:38.458][8800, 27246][Thread-38][[wns2]SecurityBuilder][][][securityState: old:STATE_0RTT_Handshake_Wait -->STATE_0RTT_Data
+[I][2022-02-12 +80 08:43:38.458][8800, 27246][Thread-38][[wns2]RequestManager][][][[Session No:2] [S:4] [C:wns.consult] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:38.459][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:2] [S:4] [C:wns.consult |ALL = 54ms |INIT = 2ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 50ms |RECV = 1ms |REQ_SIZE = 428b |RSP SIZE = 0b]
+[I][2022-02-12 +80 08:43:38.459][8800, 27196][SessionManager][[wns2]MonitorHelper][][][record fail, we have contained event:NET_SERVICE_SESSION_SECURITY_HANDSHAKED
+[I][2022-02-12 +80 08:43:38.459][8800, 27196][SessionManager][[wns2]Session][][][No:2 SecurityHandshake onDataSendSuccess.. mSecurityState:1
+[I][2022-02-12 +80 08:43:38.459][8800, 27246][Thread-38][[wns2]WakeLockManager][][][wakeLock seq=2 released
+[I][2022-02-12 +80 08:43:38.470][8800, 27180][launch-thread-0][LoadLibraryHooker][][][load so gradishwrapper
+[I][2022-02-12 +80 08:43:38.475][8800, 27248][Thread-39][[wns2]WakeLockManager][][][wakeLock seq=3 acquired
+[I][2022-02-12 +80 08:43:38.475][8800, 27248][Thread-39][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 206]
+[I][2022-02-12 +80 08:43:38.476][8800, 27248][Thread-39][[wns2]RequestManager][][][[Session No:1] [S:3] [C:wns.handshake] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:38.476][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:3] [C:wns.handshake |ALL = 76ms |INIT = 6ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 68ms |RECV = 1ms |REQ_SIZE = 359b |RSP SIZE = 32b]
+[I][2022-02-12 +80 08:43:38.476][8800, 27196][SessionManager][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_HANDSHAKED time:4341225768
+[I][2022-02-12 +80 08:43:38.476][8800, 27196][SessionManager][[wns2]Session][][][No:1 Handshake onDataSendSuccess.. when:mCurState:1 mSecurityState:2
+[I][2022-02-12 +80 08:43:38.477][8800, 27196][SessionManager][[wns2]com.tencent.wnsnetsdk.config.ExtraConfig][][][begin load extracfg file
+[I][2022-02-12 +80 08:43:38.477][8800, 27248][Thread-39][[wns2]WakeLockManager][][][wakeLock seq=3 released
+[I][2022-02-12 +80 08:43:38.481][8800, 27196][SessionManager][[wns2]NetworkDash][][][imsi: 46001
+[I][2022-02-12 +80 08:43:38.481][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:3] HandShake success [clientinfo = 112.97.63.164/42/15/10/5,uprinciple = 0,cross_opr = 1]
+[I][2022-02-12 +80 08:43:38.481][8800, 27196][SessionManager][[wns2]SessionManager][][][setState mState = 1,newState = 2
+[I][2022-02-12 +80 08:43:38.481][8800, 27196][SessionManager][[wns2]WnsBinder][][][Session State Changed From 1 → 2
+[I][2022-02-12 +80 08:43:38.481][8800, 27196][SessionManager][[wns2]MutiServerManager][][][ignore save recent ip as disable use recent ip
+[I][2022-02-12 +80 08:43:38.481][8800, 27202][launch-idle81][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleLow, threadStrategy = SubThread
+[I][2022-02-12 +80 08:43:38.487][8800, 27250][Thread-40][[wns2]WakeLockManager][][][wakeLock seq=4 acquired
+[I][2022-02-12 +80 08:43:38.487][8800, 27250][Thread-40][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 207]
+[I][2022-02-12 +80 08:43:38.487][8800, 27250][Thread-40][[wns2]RequestManager][][][[Session No:2] [S:5] [C:wns.handshake] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:38.488][8800, 27250][Thread-40][[wns2]WakeLockManager][][][wakeLock seq=4 released
+[I][2022-02-12 +80 08:43:38.492][8800, 27196][SessionManager][[wns2]WnsBinder][][][onMasterSessionUpdate sendEvent to client
+[I][2022-02-12 +80 08:43:38.492][8800, 27196][SessionManager][[wns2]SessionManager][][][setState mState = 2,newState = 3
+[I][2022-02-12 +80 08:43:38.492][8800, 27196][SessionManager][[wns2]WnsBinder][][][Session State Changed From 2 → 3
+[I][2022-02-12 +80 08:43:38.492][8800, 27196][SessionManager][[wns2]Biz.999][][][onSessionStateChanged:old:2 new:3 pushReqState:NotDone
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]PushNotifyManager][][][notifyPush:uid:fbfa97874c6c954bf9c86e24cf65d7177892001021641b isAnony:true wnsCode:0 bizCode:0 pushScene:0
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]MonitorHelper][][][notifyNetServiceEvent:NET_SERVICE_SESSION_RUN_END time:4341225781
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]SessionManager][][][onOpenSessionResult : mNeedReopenSession = false
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]WnsBinder][][][OpenSession ret = 0
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]Biz.999][][][heartbeat to update login state
+[E][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]Biz.999][][][No Push Registered, No HeartBeat
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]SessionManager][][][sendCacheRequest size = 1
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:1] [C:bls.longconnection.dt_imp] handleRequest
+[I][2022-02-12 +80 08:43:38.493][8800, 27251][Thread-41][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.493][8800, 27254][Thread-44][[wns2]wnsnetwork][][][TcpConn:send over [1],sendLen=2894
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]SessionManager][][][startPingTimer, timeout = 30000, pingInternal = 150000
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:2] [S:5] [C:wns.handshake |ALL = 82ms |INIT = 3ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 79ms |RECV = 0ms |REQ_SIZE = 359b |RSP SIZE = 32b]
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]MonitorHelper][][][record fail, we have contained event:NET_SERVICE_SESSION_HANDSHAKED
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]Session][][][No:2 Handshake onDataSendSuccess.. when:mCurState:1 mSecurityState:2
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]NetworkDash][][][imsi: 46001
+[I][2022-02-12 +80 08:43:38.493][8800, 27196][SessionManager][[wns2]Session][][][[Session No:2] [S:5] HandShake success [clientinfo = 112.97.59.164/42/15/10/5,uprinciple = 0,cross_opr = 1]
+[I][2022-02-12 +80 08:43:38.498][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.499][8800, 27257][Thread-46][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.499][8800, 27258][Thread-47][[wns2]wnsnetwork][][][TcpConn:Thread Exit!!!!
+[I][2022-02-12 +80 08:43:38.499][8800, 27259][Thread-48][[wns2]wnsnetwork][][][TcpConn:disconnect
+[I][2022-02-12 +80 08:43:38.500][8800, 27260][Thread-49][[wns2]Session][][][[Session No:2] OnDisconnect
+[I][2022-02-12 +80 08:43:38.508][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:6] [C:wns.anony.heartbeat] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:38.508][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:6] [C:wns.anony.heartbeat] handleRequest
+[I][2022-02-12 +80 08:43:38.508][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:38.508][8800, 27261][Thread-50][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:38.508][8800, 27262][Thread-51][[wns2]RequestManager][][][ping or securityHandshake has no sessionid
+[I][2022-02-12 +80 08:43:38.508][8800, 27262][Thread-51][[wns2]Request][][][set Ping flag, command = wns.anony.heartbeat
+[I][2022-02-12 +80 08:43:38.509][8800, 27264][Thread-53][[wns2]wnsnetwork][][][TcpConn:send over [6],sendLen=351
+[I][2022-02-12 +80 08:43:38.539][8800, 27266][Thread-55][[wns2]WakeLockManager][][][wakeLock seq=5 acquired
+[I][2022-02-12 +80 08:43:38.539][8800, 27266][Thread-55][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 274]
+[I][2022-02-12 +80 08:43:38.539][8800, 27266][Thread-55][[wns2]RequestManager][][][[Session No:1] [S:1] [C:bls.longconnection.dt_imp] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:38.539][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:1] [C:bls.longconnection.dt_imp |ALL = 160ms |INIT = 112ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 48ms |RECV = 0ms |REQ_SIZE = 2894b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:38.539][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341225668
+[I][2022-02-12 +80 08:43:38.539][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341225427
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341225428
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341225427
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = enter_send_thread, getNodeTime = 4341225672
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341225668
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_send_start, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = enter_send_thread, getNodeTime = 4341225672
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_send_end, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_send_start, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = resp_from_native_start, getNodeTime = 4341225831
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_send_end, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = resp_handle_end, getNodeTime = 4341225831
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = resp_from_native_start, getNodeTime = 4341225831
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626618, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_imp, 0, 48, 2894, 27, 157.148.45.38, 443, [Session No:1] [S:1] [C:bls.longconnection.dt_imp |ALL = 160ms |INIT = 112ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 48ms |RECV = 0ms |REQ_SIZE = 2894b |RSP SIZE = 27b], 1, 0, 112.97.59.164, null]}, map = {B97=1, B43=1, B80=60000, B91=4, B92=111, B71=404, B93=0, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=48, B40=13, B95=0, B96=241}
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341225427
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341225668
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = enter_send_thread, getNodeTime = 4341225672
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_call_native_api, getNodeTime = 4341225782
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = enter_request_queue_native, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_send_start, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = req_send_end, getNodeTime = 4341225783
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = resp_from_native_start, getNodeTime = 4341225831
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 1, nodeEvent = resp_handle_end, getNodeTime = 4341225831
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:38.540][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:13, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_imp
+[I][2022-02-12 +80 08:43:38.540][8800, 27266][Thread-55][[wns2]WakeLockManager][][][wakeLock seq=5 released
+[I][2022-02-12 +80 08:43:38.560][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheHandler][][][update sche info..when clientIp:112.97.63.164 currentApn:apn_3gnet appId:10000078
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][not need Rollback ipv6 fun
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][needForbiddenIpv6: false
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheJsonDecoder][][][scheIP list = [ScheIP{ip='157.148.45.38', type=1, idc=深圳市_中国联通}, ScheIP{ip='157.148.45.193', type=1, idc=深圳市_中国联通}, ScheIP{ip='116.128.184.244', type=2, idc=上海市_中国联通}, ScheIP{ip='220.196.132.86', type=2, idc=上海市_中国联通}]
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ScheManager][][][decodeScheJSON:ScheInfo{clientIP='112.97.63.164', clientOper=中国#广东省#中国联通#, domainList=[v6-accvideo.wns.qq.com], tcpScheUnits={v6-accvideo.wns.qq.com=ScheUnit{scheUnitName='12183', schUnitCode='12183_qnYaljpQteqeJQnQPnJCLg==_2/', schCreateTime='2022-02-08 15:23:45.0', tcpPort=[443, 8080, 14000, 80], accIPList=[ScheIP{ip='157.148.45.38', type=1, idc=深圳市_中国联通}, ScheIP{ip='157.148.45.193', type=1, idc=深圳市_中国联通}, ScheIP{ip='116.128.184.244', type=2, idc=上海市_中国联通}, ScheIP{ip='220.196.132.86', type=2, idc=上海市_中国联通}], bgpIPList=[]}}, httpScheUnits={}, failScheIP={}, recentSuccIP='null', scheUnits={12183=ScheUnit{scheUnitName='12183', schUnitCode='12183_qnYaljpQteqeJQnQPnJCLg==_2/', schCreateTime='2022-02-08 15:23:45.0', tcpPort=[443, 8080, 14000, 80], accIPList=[ScheIP{ip='157.148.45.38', type=1, idc=深圳市_中国联通}, ScheIP{ip='157.148.45.193', type=1, idc=深圳市_中国联通}, ScheIP{ip='116.128.184.244', type=2, idc=上海市_中国联通}, ScheIP{ip='220.196.132.86', type=2, idc=上海市_中国联通}], bgpIPList=[]}}} apnName:apn_3gnet
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]SettingHandler][][][onHttpRsp jsonStr:{"code":0,"data":{"PingInterval":"150000","disable_WnsService":"0","disable_child_process":"0","ipc_transfer_request_timeout_ext":"80000","privacy_control":"0","report_all_events":"0","start_WnsProxyService":"0","start_child_process":"1","start_service_without_proc":"1","timeout":"1200"},"confVersion":"v_20211122103145_release\/1\/121\/167\/170\/171\/172\/173\/174\/177\/2","updateTime":"","extra":{}}
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]SettingHandler][][][update setting..
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ParamContent][][][received new json data:{"code":0,"data":{"PingInterval":"150000","disable_WnsService":"0","disable_child_process":"0","ipc_transfer_request_timeout_ext":"80000","privacy_control":"0","report_all_events":"0","start_WnsProxyService":"0","start_child_process":"1","start_service_without_proc":"1","timeout":"1200"},"confVersion":"v_20211122103145_release\/1\/121\/167\/170\/171\/172\/173\/174\/177\/2","updateTime":"","extra":{}}
+[I][2022-02-12 +80 08:43:38.562][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ParamContent][][][old json data:{"code":0,"data":{"PingInterval":"150000","disable_WnsService":"0","disable_child_process":"0","ipc_transfer_request_timeout_ext":"80000","privacy_control":"0","report_all_events":"0","start_WnsProxyService":"0","start_child_process":"1","start_service_without_proc":"1","timeout":"1200"},"confVersion":"v_20211122103145_release\/1\/121\/167\/170\/171\/172\/173\/174\/177\/2","updateTime":"","extra":{}}
+[I][2022-02-12 +80 08:43:38.563][8800, 27209][Tencent_WnsThreadPool #5][[wns2]ParamContent][][][updated json data:{"code":0,"data":{"PingInterval":"150000","disable_WnsService":"0","disable_child_process":"0","ipc_transfer_request_timeout_ext":"80000","privacy_control":"0","report_all_events":"0","start_WnsProxyService":"0","start_child_process":"1","start_service_without_proc":"1","timeout":"1200"},"confVersion":"v_20211122103145_release\/1\/121\/167\/170\/171\/172\/173\/174\/177\/2","updateTime":"","extra":{},"createTime":""}
+[I][2022-02-12 +80 08:43:38.608][8800, 27267][Thread-56][[wns2]WakeLockManager][][][wakeLock seq=6 acquired
+[I][2022-02-12 +80 08:43:38.608][8800, 27267][Thread-56][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 351]
+[I][2022-02-12 +80 08:43:38.608][8800, 27267][Thread-56][[wns2]com.tencent.wnsnetsdk.util.Parser][][][this is ping request
+[I][2022-02-12 +80 08:43:38.608][8800, 27267][Thread-56][[wns2]RequestManager][][][remove seqNo = 6, cmd = wns.anony.heartbeat
+[I][2022-02-12 +80 08:43:38.609][8800, 27267][Thread-56][[wns2]WakeLockManager][][][wakeLock seq=6 released
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:wnsnetservice fileName = com.tencent.qqlive_preferences key = setting_preferences_private_protocol_is_show , please check context
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:wnsnetservice fileName = vb_platformInfo key = vb_platformInfo_version_code , please check context
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:wnsnetservice fileName = vb_platformInfo key = vb_platformInfo_version_name , please check context
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:43:39.328][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:wnsnetservice fileName = vb_platformInfo key = vb_platformInfo_app_id , please check context
+[I][2022-02-12 +80 08:43:39.376][8800, 27207][Tencent_WnsThreadPool #3][[wns2]ConfigManager][][][/data/user/0/com.tencent.qqlive/files/WNSNetSdk_configBusiV1 not exist
+[E][2022-02-12 +80 08:43:39.377][8800, 27207][Tencent_WnsThreadPool #3][[wns2]ConfigManager][][][busi config file not exists!
+[I][2022-02-12 +80 08:43:39.745][8800, 27220][Binder:8800_4][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_video_start, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341227033,isMonitor:false
+[I][2022-02-12 +80 08:43:39.748][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:7] [C:bls.longconnection.dt_video_start] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:39.748][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:7] [C:bls.longconnection.dt_video_start] handleRequest
+[I][2022-02-12 +80 08:43:39.749][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:39.749][8800, 27268][Thread-57][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:39.749][8800, 27271][Thread-60][[wns2]wnsnetwork][][][TcpConn:send over [7],sendLen=3178
+[I][2022-02-12 +80 08:43:39.804][8800, 27273][Thread-62][[wns2]WakeLockManager][][][wakeLock seq=7 acquired
+[I][2022-02-12 +80 08:43:39.805][8800, 27273][Thread-62][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 290]
+[I][2022-02-12 +80 08:43:39.805][8800, 27273][Thread-62][[wns2]RequestManager][][][[Session No:1] [S:7] [C:bls.longconnection.dt_video_start] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:39.806][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:7] [C:bls.longconnection.dt_video_start |ALL = 59ms |INIT = 3ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 56ms |RECV = 0ms |REQ_SIZE = 3178b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:39.806][8800, 27273][Thread-62][[wns2]WakeLockManager][][][wakeLock seq=7 released
+[I][2022-02-12 +80 08:43:39.806][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227037
+[I][2022-02-12 +80 08:43:39.806][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227033
+[I][2022-02-12 +80 08:43:39.806][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341227037
+[I][2022-02-12 +80 08:43:39.806][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227033
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = enter_send_thread, getNodeTime = 4341227040
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227037
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_send_start, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = enter_send_thread, getNodeTime = 4341227040
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_send_end, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_send_start, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = resp_from_native_start, getNodeTime = 4341227097
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_send_end, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.807][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = resp_handle_end, getNodeTime = 4341227097
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = resp_from_native_start, getNodeTime = 4341227097
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626619, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_video_start, 0, 56, 3178, 27, 157.148.45.38, 443, [Session No:1] [S:7] [C:bls.longconnection.dt_video_start |ALL = 59ms |INIT = 3ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 56ms |RECV = 0ms |REQ_SIZE = 3178b |RSP SIZE = 27b], 7, 0, 112.97.59.164, null]}, map = {B97=4, B43=1, B80=60000, B91=3, B92=1, B71=64, B93=0, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=56, B40=10, B95=0, B96=4}
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227033
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227037
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = enter_send_thread, getNodeTime = 4341227040
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_call_native_api, getNodeTime = 4341227040
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = enter_request_queue_native, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_send_start, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = req_send_end, getNodeTime = 4341227041
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = resp_from_native_start, getNodeTime = 4341227097
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 7, nodeEvent = resp_handle_end, getNodeTime = 4341227097
+[I][2022-02-12 +80 08:43:39.808][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:39.809][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:10, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_video_start
+[I][2022-02-12 +80 08:43:40.218][8800, 27156][FinalizerDaemon][[wns2]wnsnetwork][][][wnsjni:Java_com_tencent_wnsnetsdk_network_ConnectionImpl_native_1finalize
+[I][2022-02-12 +80 08:43:40.219][8800, 27156][FinalizerDaemon][[wns2]wnsnetwork][][][wnsjni:@debug@ setWnsEngine engine old=535671973952, new=0
+[I][2022-02-12 +80 08:43:40.219][8800, 27156][FinalizerDaemon][[wns2]SecurityBuilder][][][finalize, nativeRef:533452961088
+[I][2022-02-12 +80 08:43:40.233][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_video_end, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341227523,isMonitor:false
+[I][2022-02-12 +80 08:43:40.241][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:8] [C:bls.longconnection.dt_video_end] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:40.241][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:8] [C:bls.longconnection.dt_video_end] handleRequest
+[I][2022-02-12 +80 08:43:40.241][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:40.241][8800, 27274][Thread-63][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:40.241][8800, 27277][Thread-66][[wns2]wnsnetwork][][][TcpConn:send over [8],sendLen=3276
+[I][2022-02-12 +80 08:43:40.284][8800, 27279][Thread-68][[wns2]WakeLockManager][][][wakeLock seq=8 acquired
+[I][2022-02-12 +80 08:43:40.284][8800, 27279][Thread-68][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 286]
+[I][2022-02-12 +80 08:43:40.284][8800, 27279][Thread-68][[wns2]RequestManager][][][[Session No:1] [S:8] [C:bls.longconnection.dt_video_end] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:40.285][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:8] [C:bls.longconnection.dt_video_end |ALL = 52ms |INIT = 8ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 43ms |RECV = 0ms |REQ_SIZE = 3276b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:40.285][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227524
+[I][2022-02-12 +80 08:43:40.285][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227523
+[I][2022-02-12 +80 08:43:40.285][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341227523
+[I][2022-02-12 +80 08:43:40.285][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227523
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = enter_send_thread, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227524
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_send_start, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = enter_send_thread, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_send_end, getNodeTime = 4341227533
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_send_start, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = resp_from_native_start, getNodeTime = 4341227576
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_send_end, getNodeTime = 4341227533
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = resp_handle_end, getNodeTime = 4341227577
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = resp_from_native_start, getNodeTime = 4341227576
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626620, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_video_end, 0, 43, 3276, 27, 157.148.45.38, 443, [Session No:1] [S:8] [C:bls.longconnection.dt_video_end |ALL = 52ms |INIT = 8ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 43ms |RECV = 0ms |REQ_SIZE = 3276b |RSP SIZE = 27b], 8, 0, 112.97.59.164, null]}, map = {B97=0, B43=1, B80=60000, B91=8, B92=0, B71=54, B93=1, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=43, B40=12, B95=1, B96=1}
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227523
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227524
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = enter_send_thread, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_call_native_api, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = enter_request_queue_native, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_send_start, getNodeTime = 4341227532
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = req_send_end, getNodeTime = 4341227533
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = resp_from_native_start, getNodeTime = 4341227576
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 8, nodeEvent = resp_handle_end, getNodeTime = 4341227577
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:40.286][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:12, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_video_end
+[I][2022-02-12 +80 08:43:40.287][8800, 27279][Thread-68][[wns2]WakeLockManager][][][wakeLock seq=8 released
+[I][2022-02-12 +80 08:43:40.440][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_imp, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341227731,isMonitor:false
+[I][2022-02-12 +80 08:43:40.440][8800, 27159][Binder:8800_2][[wns2]PushNotifyManager][][][notifyPush:uid:fbfa97874c6c954bf9c86e24cf65d7177892001021641b isAnony:true wnsCode:0 bizCode:0 pushScene:7
+[I][2022-02-12 +80 08:43:40.444][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:9] [C:bls.longconnection.dt_imp] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:40.444][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:9] [C:bls.longconnection.dt_imp] handleRequest
+[I][2022-02-12 +80 08:43:40.444][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:40.444][8800, 27280][Thread-69][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:40.444][8800, 27283][Thread-72][[wns2]wnsnetwork][][][TcpConn:send over [9],sendLen=2925
+[I][2022-02-12 +80 08:43:40.486][8800, 27285][Thread-74][[wns2]WakeLockManager][][][wakeLock seq=9 acquired
+[I][2022-02-12 +80 08:43:40.487][8800, 27285][Thread-74][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 274]
+[I][2022-02-12 +80 08:43:40.487][8800, 27285][Thread-74][[wns2]RequestManager][][][[Session No:1] [S:9] [C:bls.longconnection.dt_imp] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:9] [C:bls.longconnection.dt_imp |ALL = 46ms |INIT = 2ms |QUEUE = 1ms|SENT = 0ms|NETWORK = 43ms |RECV = 0ms |REQ_SIZE = 2925b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227732
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227731
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341227732
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227731
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = enter_send_thread, getNodeTime = 4341227735
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227732
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_send_start, getNodeTime = 4341227736
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = enter_send_thread, getNodeTime = 4341227735
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_send_end, getNodeTime = 4341227736
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_send_start, getNodeTime = 4341227736
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = resp_from_native_start, getNodeTime = 4341227779
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_send_end, getNodeTime = 4341227736
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = resp_handle_end, getNodeTime = 4341227779
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = resp_from_native_start, getNodeTime = 4341227779
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626620, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_imp, 0, 43, 2925, 27, 157.148.45.38, 443, [Session No:1] [S:9] [C:bls.longconnection.dt_imp |ALL = 46ms |INIT = 2ms |QUEUE = 1ms|SENT = 0ms|NETWORK = 43ms |RECV = 0ms |REQ_SIZE = 2925b |RSP SIZE = 27b], 9, 0, 112.97.59.164, null]}, map = {B97=1, B43=1, B80=60000, B91=3, B92=1, B71=48, B93=0, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=43, B40=12, B95=0, B96=1}
+[I][2022-02-12 +80 08:43:40.487][8800, 27285][Thread-74][[wns2]WakeLockManager][][][wakeLock seq=9 released
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341227731
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341227732
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = enter_send_thread, getNodeTime = 4341227735
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_call_native_api, getNodeTime = 4341227735
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = enter_request_queue_native, getNodeTime = 4341227735
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_send_start, getNodeTime = 4341227736
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = req_send_end, getNodeTime = 4341227736
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = resp_from_native_start, getNodeTime = 4341227779
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 9, nodeEvent = resp_handle_end, getNodeTime = 4341227779
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:40.487][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:12, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_imp
+[I][2022-02-12 +80 08:43:40.602][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:40.991][8800, 27159][Binder:8800_2][[wns2]SessionManager][][][setWnsCustomServer:the same settings,不要继续往下走,return. customServer=[type = wns.debug.ip, accAddress = null, bizBuf.len = 0operator = 0]
+[I][2022-02-12 +80 08:43:41.025][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability, needCompress=false, timeout=15000, retryFlag=0, retryCount=0, retryPkgId=0, isTlv=false,priority=0,anonymousId=device_5e4e85959d6d5953eb833efe10001031531d, bizData=true ,tokeninfo=null], initTime=4341228316,isMonitor:false
+[I][2022-02-12 +80 08:43:41.030][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:10] [C:ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:41.030][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:10] [C:ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability] handleRequest
+[I][2022-02-12 +80 08:43:41.030][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:41.035][8800, 27286][Thread-75][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:41.035][8800, 27289][Thread-78][[wns2]wnsnetwork][][][TcpConn:send over [10],sendLen=2736
+[I][2022-02-12 +80 08:43:41.138][8800, 27291][Thread-80][[wns2]WakeLockManager][][][wakeLock seq=10 acquired
+[I][2022-02-12 +80 08:43:41.138][8800, 27291][Thread-80][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 377]
+[I][2022-02-12 +80 08:43:41.144][8800, 27291][Thread-80][[wns2]RequestManager][][][[Session No:1] [S:10] [C:ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:41.144][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:10] [C:ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability |ALL = 114ms |INIT = 9ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 103ms |RECV = 1ms |REQ_SIZE = 2736b |RSP SIZE = 16b]
+[I][2022-02-12 +80 08:43:41.145][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341228317
+[I][2022-02-12 +80 08:43:41.145][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341228316
+[I][2022-02-12 +80 08:43:41.145][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341228316
+[I][2022-02-12 +80 08:43:41.145][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341228316
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = enter_send_thread, getNodeTime = 4341228322
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341228317
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_send_start, getNodeTime = 4341228326
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = enter_send_thread, getNodeTime = 4341228322
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_send_end, getNodeTime = 4341228327
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_send_start, getNodeTime = 4341228326
+[I][2022-02-12 +80 08:43:41.146][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = resp_from_native_start, getNodeTime = 4341228430
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_send_end, getNodeTime = 4341228327
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = resp_handle_end, getNodeTime = 4341228431
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = resp_from_native_start, getNodeTime = 4341228430
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626621, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, device_5e4e85959d6d5953eb833efe10001031531d, ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability, 0, 103, 2736, 16, 157.148.45.38, 443, [Session No:1] [S:10] [C:ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability |ALL = 114ms |INIT = 9ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 103ms |RECV = 1ms |REQ_SIZE = 2736b |RSP SIZE = 16b], 10, 0, 112.97.59.164, null]}, map = {B97=0, B43=1, B80=15000, B91=5, B92=4, B71=115, B93=1, B82=device_5e4e85959d6d5953eb833efe10001031531d, B94=103, B40=60, B95=1, B96=1}
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341228316
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341228317
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = enter_send_thread, getNodeTime = 4341228322
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_call_native_api, getNodeTime = 4341228322
+[I][2022-02-12 +80 08:43:41.149][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = enter_request_queue_native, getNodeTime = 4341228326
+[I][2022-02-12 +80 08:43:41.150][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_send_start, getNodeTime = 4341228326
+[I][2022-02-12 +80 08:43:41.150][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = req_send_end, getNodeTime = 4341228327
+[I][2022-02-12 +80 08:43:41.150][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = resp_from_native_start, getNodeTime = 4341228430
+[I][2022-02-12 +80 08:43:41.150][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 10, nodeEvent = resp_handle_end, getNodeTime = 4341228431
+[I][2022-02-12 +80 08:43:41.150][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:41.150][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=16, svrIp:157.148.45.38, accCost:60, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=ilive.commproxy.trpc.ilive_av-live_codec_capability_manager-LiveCodecCapabilityManager-GetCodecCapability
+[I][2022-02-12 +80 08:43:41.150][8800, 27291][Thread-80][[wns2]WakeLockManager][][][wakeLock seq=10 released
+[I][2022-02-12 +80 08:43:43.100][8800, 27220][Binder:8800_4][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_imp, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341230390,isMonitor:false
+[I][2022-02-12 +80 08:43:43.104][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:11] [C:bls.longconnection.dt_imp] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:43.104][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:11] [C:bls.longconnection.dt_imp] handleRequest
+[I][2022-02-12 +80 08:43:43.105][8800, 27292][Thread-81][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:43.106][8800, 27295][Thread-84][[wns2]wnsnetwork][][][TcpConn:send over [11],sendLen=2912
+[I][2022-02-12 +80 08:43:43.106][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:43.153][8800, 27297][Thread-86][[wns2]WakeLockManager][][][wakeLock seq=11 acquired
+[I][2022-02-12 +80 08:43:43.153][8800, 27297][Thread-86][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 274]
+[I][2022-02-12 +80 08:43:43.154][8800, 27297][Thread-86][[wns2]RequestManager][][][[Session No:1] [S:11] [C:bls.longconnection.dt_imp] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:11] [C:bls.longconnection.dt_imp |ALL = 54ms |INIT = 5ms |QUEUE = 1ms|SENT = 0ms|NETWORK = 48ms |RECV = 0ms |REQ_SIZE = 2912b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341230392
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341230390
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341230392
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341230390
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = enter_send_thread, getNodeTime = 4341230396
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341230392
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_send_start, getNodeTime = 4341230398
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = enter_send_thread, getNodeTime = 4341230396
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_send_end, getNodeTime = 4341230398
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_send_start, getNodeTime = 4341230398
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = resp_from_native_start, getNodeTime = 4341230446
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_send_end, getNodeTime = 4341230398
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = resp_handle_end, getNodeTime = 4341230446
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = resp_from_native_start, getNodeTime = 4341230446
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626623, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_imp, 0, 48, 2912, 27, 157.148.45.38, 443, [Session No:1] [S:11] [C:bls.longconnection.dt_imp |ALL = 54ms |INIT = 5ms |QUEUE = 1ms|SENT = 0ms|NETWORK = 48ms |RECV = 0ms |REQ_SIZE = 2912b |RSP SIZE = 27b], 11, 0, 112.97.59.164, null]}, map = {B97=2, B43=1, B80=60000, B91=4, B92=2, B71=56, B93=0, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=48, B40=11, B95=0, B96=2}
+[I][2022-02-12 +80 08:43:43.155][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341230390
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341230392
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = enter_send_thread, getNodeTime = 4341230396
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_call_native_api, getNodeTime = 4341230396
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = enter_request_queue_native, getNodeTime = 4341230397
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_send_start, getNodeTime = 4341230398
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = req_send_end, getNodeTime = 4341230398
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = resp_from_native_start, getNodeTime = 4341230446
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 11, nodeEvent = resp_handle_end, getNodeTime = 4341230446
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:43.156][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:11, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_imp
+[I][2022-02-12 +80 08:43:43.156][8800, 27297][Thread-86][[wns2]WakeLockManager][][][wakeLock seq=11 released
+[I][2022-02-12 +80 08:43:43.253][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:43.321][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_video_start, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341230613,isMonitor:false
+[I][2022-02-12 +80 08:43:43.324][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:12] [C:bls.longconnection.dt_video_start] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:43.324][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:12] [C:bls.longconnection.dt_video_start] handleRequest
+[I][2022-02-12 +80 08:43:43.324][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:43.325][8800, 27300][Thread-87][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:43.325][8800, 27303][Thread-90][[wns2]wnsnetwork][][][TcpConn:send over [12],sendLen=3178
+[I][2022-02-12 +80 08:43:43.395][8800, 27305][Thread-92][[wns2]WakeLockManager][][][wakeLock seq=12 acquired
+[I][2022-02-12 +80 08:43:43.395][8800, 27305][Thread-92][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 290]
+[I][2022-02-12 +80 08:43:43.395][8800, 27305][Thread-92][[wns2]RequestManager][][][[Session No:1] [S:12] [C:bls.longconnection.dt_video_start] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:12] [C:bls.longconnection.dt_video_start |ALL = 73ms |INIT = 3ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 70ms |RECV = 0ms |REQ_SIZE = 3178b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = enter_send_thread, getNodeTime = 4341230616
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_send_start, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = enter_send_thread, getNodeTime = 4341230616
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_send_end, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_send_start, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = resp_from_native_start, getNodeTime = 4341230687
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_send_end, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = resp_handle_end, getNodeTime = 4341230688
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = resp_from_native_start, getNodeTime = 4341230687
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626623, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_video_start, 0, 70, 3178, 27, 157.148.45.38, 443, [Session No:1] [S:12] [C:bls.longconnection.dt_video_start |ALL = 73ms |INIT = 3ms |QUEUE = 0ms|SENT = 0ms|NETWORK = 70ms |RECV = 0ms |REQ_SIZE = 3178b |RSP SIZE = 27b], 12, 0, 112.97.59.164, null]}, map = {B97=0, B43=1, B80=60000, B91=3, B92=1, B71=75, B93=0, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=70, B40=10, B95=1, B96=0}
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341230613
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = enter_send_thread, getNodeTime = 4341230616
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_call_native_api, getNodeTime = 4341230616
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = enter_request_queue_native, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_send_start, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = req_send_end, getNodeTime = 4341230617
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = resp_from_native_start, getNodeTime = 4341230687
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 12, nodeEvent = resp_handle_end, getNodeTime = 4341230688
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:43.396][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:10, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_video_start
+[I][2022-02-12 +80 08:43:43.396][8800, 27305][Thread-92][[wns2]WakeLockManager][][][wakeLock seq=12 released
+[I][2022-02-12 +80 08:43:44.370][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:44.770][8800, 27159][Binder:8800_2][[wns2]WnsBinder][][][BEGIN transferAnonymous => TransferArgs [uid=null, command=bls.longconnection.dt_video_end, needCompress=true, timeout=0, retryFlag=0, retryCount=2, retryPkgId=0, isTlv=false,priority=0,anonymousId=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bizData=true ,tokeninfo=null], initTime=4341232057,isMonitor:false
+[I][2022-02-12 +80 08:43:44.775][8800, 27196][SessionManager][[wns2]SessionManager][][][[S:13] [C:bls.longconnection.dt_video_end] handleRequest: session is ready, uin = 999
+[I][2022-02-12 +80 08:43:44.776][8800, 27196][SessionManager][[wns2]Session][][][[Session No:1] [S:13] [C:bls.longconnection.dt_video_end] handleRequest
+[I][2022-02-12 +80 08:43:44.776][8800, 27196][SessionManager][[wns2]wnsnetwork][][][TcpConn:wakeup write=1
+[I][2022-02-12 +80 08:43:44.786][8800, 27306][Thread-93][[wns2]wnsnetwork][][][TcpConn:wakeup now read=1
+[I][2022-02-12 +80 08:43:44.786][8800, 27309][Thread-96][[wns2]wnsnetwork][][][TcpConn:send over [13],sendLen=3282
+[I][2022-02-12 +80 08:43:44.886][8800, 27311][Thread-98][[wns2]WakeLockManager][][][wakeLock seq=13 acquired
+[I][2022-02-12 +80 08:43:44.886][8800, 27311][Thread-98][[wns2]WupBuffer][][][parseNormalPacket [packetLen = 286]
+[I][2022-02-12 +80 08:43:44.886][8800, 27311][Thread-98][[wns2]RequestManager][][][[Session No:1] [S:13] [C:bls.longconnection.dt_video_end] handleResponse [WnsCode = 0], isTlvPack = false
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]Statistic.Request.Counter][][][[Session No:1] [S:13] [C:bls.longconnection.dt_video_end |ALL = 115ms |INIT = 6ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 107ms |RECV = 1ms |REQ_SIZE = 3282b |RSP SIZE = 27b]
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341232063
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341232057
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = enter_client_transfer_thread, getNodeTime = 4341232058
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341232057
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = enter_send_thread, getNodeTime = 4341232067
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341232063
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_send_start, getNodeTime = 4341232070
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = enter_send_thread, getNodeTime = 4341232067
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_send_end, getNodeTime = 4341232071
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_send_start, getNodeTime = 4341232070
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = resp_from_native_start, getNodeTime = 4341232178
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_send_end, getNodeTime = 4341232071
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = resp_handle_end, getNodeTime = 4341232179
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = resp_from_native_start, getNodeTime = 4341232178
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]Request][][][statisticData = Statistic{next=null, values=[3gnet, 1644626624, 10000078, 8.5.41.26553, 200067, V1_IPH_QZ_8.3.0_1_APP_A, 0, , null, fbfa97874c6c954bf9c86e24cf65d7177892001021641b, bls.longconnection.dt_video_end, 0, 107, 3282, 27, 157.148.45.38, 443, [Session No:1] [S:13] [C:bls.longconnection.dt_video_end |ALL = 115ms |INIT = 6ms |QUEUE = 0ms|SENT = 1ms|NETWORK = 107ms |RECV = 1ms |REQ_SIZE = 3282b |RSP SIZE = 27b], 13, 0, 112.97.59.164, null]}, map = {B97=1, B43=1, B80=60000, B91=4, B92=3, B71=122, B93=1, B82=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, B94=107, B40=6, B95=1, B96=6}
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = call_transfer_ipc_client, getNodeTime = 4341232057
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = call_transfer_ipc_server, getNodeTime = 4341232063
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = enter_send_thread, getNodeTime = 4341232067
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_call_native_api, getNodeTime = 4341232068
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = enter_request_queue_native, getNodeTime = 4341232070
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_send_start, getNodeTime = 4341232070
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = req_send_end, getNodeTime = 4341232071
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = resp_from_native_start, getNodeTime = 4341232178
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][getNodeTime: seqNo = 13, nodeEvent = resp_handle_end, getNodeTime = 4341232179
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]TimeRecorder][][][Record Map clean...
+[I][2022-02-12 +80 08:43:44.887][8800, 27196][SessionManager][[wns2]Biz.999][][][END Transfer(S) => TransferResult [wnsCode=0, bizCode=0, bizMsg=, bizBuffer=true, isTlv=false, hasNext=false, bizBufferLen=27, svrIp:157.148.45.38, accCost:6, runMode:0,startServiceCmdSeq:-1],uid=999,cmd=bls.longconnection.dt_video_end
+[I][2022-02-12 +80 08:43:44.889][8800, 27311][Thread-98][[wns2]WakeLockManager][][][wakeLock seq=13 released
+[I][2022-02-12 +80 08:43:46.431][8800, 27177][public_io_pool-158249][NXNetwork_PB_Nac][][][sub process receive nac update event
+[I][2022-02-12 +80 08:43:46.431][8800, 27177][public_io_pool-158249][NXNetwork_Network_AddressManager][][][setNacList() version:2
+[I][2022-02-12 +80 08:43:46.431][8800, 27177][public_io_pool-158249][NXNetwork_Network_StateMachine][][][resetState()
+[I][2022-02-12 +80 08:43:46.431][8800, 27177][public_io_pool-158249][NXNetwork_Network_NacManager][][][clear()
+[I][2022-02-12 +80 08:43:47.751][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:47.751][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_sp_storage key = splash_step_one_play_round , please check context
+[I][2022-02-12 +80 08:43:48.213][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:50.788][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CP-70b8SEJS90b8S , please check context
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJ3NxL8SENLOxL8S , please check context
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKXXwr8SEP7Xwr8S , please check context
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.819][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIDZyMASEJvdyMAS , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKeR98ASEN6S98AS , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMzD5cASENDF5cAS , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIf3jLwSEPv6jLwS , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKf19b8SEMr89b8S , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CN3Ay78SEKzBy78S , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CNGDy78SELOEy78S , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPXs0L8SENTv0L8S , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJLb8sASEJrd8sAS , please check context
+[I][2022-02-12 +80 08:43:52.820][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.821][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CI_Svr8SENbTvr8S , please check context
+[I][2022-02-12 +80 08:43:52.821][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.821][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CLSp88ASEO2q88AS , please check context
+[I][2022-02-12 +80 08:43:52.829][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.829][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CLTZv78SELvbv78S , please check context
+[I][2022-02-12 +80 08:43:52.829][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.829][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CL-Our8SENePur8S , please check context
+[I][2022-02-12 +80 08:43:52.829][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMTczMASEIDjzMAS , please check context
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJm9u78SENe9u78S , please check context
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CNa9wb8SEMG-wb8S , please check context
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:52.830][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJ_6vb8SEPj6vb8S , please check context
+[I][2022-02-12 +80 08:43:53.821][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKTa9sASEL3b9sAS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPyd9sASEPGe9sAS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CP_v0b8SEO_w0b8S , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKf-4ZkSEOr_4ZkS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CN-21ZwSEOC41ZwS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIG99cASEJO_9cAS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJG3w8ASEIi6w8AS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIqh_sASEJui_sAS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJDCxb8SEPTCxb8S , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKa91pwSEJi_1pwS , please check context
+[I][2022-02-12 +80 08:43:53.822][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COG3ur8SEKe7ur8S , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COXnxsASENLqxsAS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJbpv7wSEKftv7wS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIa41JwSEIm51JwS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COTz2JwSEMX02JwS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CKmZ6vkQELTu1YgS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIiG-LwSEOTE9r0S , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CImA94wSEK2A94wS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPW7_bsSENvN_bsS , please check context
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:53.823][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMqgo7USELGho7US , please check context
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COC-uLwSEJC_uLwS , please check context
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COv9_5ISELf-_5IS , please check context
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COv9_5ISELb-_5IS , please check context
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJOVo7USEL-Vo7US , please check context
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.826][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CK7TnowSENLVnowS , please check context
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIjopesREMzopesR , please check context
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPH_7_4REPOE8P4R , please check context
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPuzn70SEOK9n70S , please check context
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = NwAAAAAAAAA= , please check context
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJLS9cASEIrU9cAS , please check context
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COXO9cASENzQ9cAS , please check context
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMTJsI4SEJ_KsI4S , please check context
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COC-uLwSEJK_uLwS , please check context
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPDDsI4SENTEsI4S , please check context
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJXO9cASEPXP9cAS , please check context
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CN3DsI4SELbEsI4S , please check context
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIqqkrwSEJCrkrwS , please check context
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJvGsI4SEO3GsI4S , please check context
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COKI97ESEM6J97ES , please check context
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:54.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CL_3xbwSEL74xbwS , please check context
+[I][2022-02-12 +80 08:43:55.827][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMf3xbwSEN34xbwS , please check context
+[I][2022-02-12 +80 08:43:55.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = COquk44SEIuvk44S , please check context
+[I][2022-02-12 +80 08:43:55.828][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.834][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CK7ng7YSEMXog7YS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIW-ubgSEIrAubgS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMm7ubgSEJu-ubgS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMW17rgSEPW37rgS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CM_1spYSEOn3spYS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CNG-nowSENXAnowS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJWp-ZgSEJyq-ZgS , please check context
+[I][2022-02-12 +80 08:43:55.835][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJPRnowSELfUnowS , please check context
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIKcsbcSEMCcsbcS , please check context
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CLHWt7QSEO3Wt7QS , please check context
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CN7l3rkSEJbm3rkS , please check context
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJ_2sbcSEK33sbcS , please check context
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CODD3pYSELXI3pYS , please check context
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.836][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CNGvt7QSEJ6wt7QS , please check context
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CO2LgrsSEO6MgrsS , please check context
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CM_Ek44SEMvFk44S , please check context
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIzft7QSENrft7QS , please check context
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:55.837][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CPzbsbESENbcsbES , please check context
+[I][2022-02-12 +80 08:43:56.844][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.844][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CLizgpUSEKG0gpUS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMy17rgSEJq47rgS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMGJ-ZgSEMSP-ZgS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CJbBnowSEPrCnowS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CM-V2O0RELaY2O0R , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CIjt5rsSEM_t5rsS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMqY87gSEMWZ87gS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMGm2pkSEOKn2pkS , please check context
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.845][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CNeC8boSEKWJ8boS , please check context
+[I][2022-02-12 +80 08:43:56.846][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-12 +80 08:43:56.846][8800, 27177][public_io_pool-158249][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_sp_storage key = splash_step_two_play_round , please check context
+[I][2022-02-12 +80 09:06:06.454][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.463][8800, 27313][Thread-99][[wns2]wnsnetwork][][][TCP:OnReceive doDivideReceivedBuffer nReadCount=-1,errno=103
+[I][2022-02-12 +80 09:06:06.463][8800, 27322][Thread-100][[wns2]wnsnetwork][][][TcpConn:OnClose
+[I][2022-02-12 +80 09:06:06.463][8800, 27323][Thread-101][[wns2]wnsnetwork][][][TcpConn:disconnect
+[I][2022-02-12 +80 09:06:06.463][8800, 27324][Thread-102][[wns2]Session][][][[Session No:1] OnDisconnect
+[I][2022-02-12 +80 09:06:06.523][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.530][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.542][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.577][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.589][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.595][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.596][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.599][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.603][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[E][2022-02-12 +80 09:06:06.604][8800, 27193][Tencent_base.clock.service][[wns2]WnsNotify][][][sendEvent failedandroid.os.DeadObjectException
+[I][2022-02-12 +80 09:06:06.610][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[E][2022-02-12 +80 09:06:06.613][8800, 27325][Thread-103][[wns2]Session][][][[Session No:1] onError socketStatus 0
+[I][2022-02-12 +80 09:06:06.614][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.618][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[E][2022-02-12 +80 09:06:06.623][8800, 27196][SessionManager][[wns2]SessionManager][][][MSG_TYPE_SESSION_ERROR reason = 0
+[I][2022-02-12 +80 09:06:06.627][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.631][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.636][8800, 27196][SessionManager][[wns2]SessionManager][][][setState mState = 3,newState = 0
+[I][2022-02-12 +80 09:06:06.636][8800, 27196][SessionManager][[wns2]WnsBinder][][][Session State Changed From 3 → 0
+[I][2022-02-12 +80 09:06:06.643][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.661][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.666][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[E][2022-02-12 +80 09:06:06.670][8800, 27196][SessionManager][[wns2]WnsNotify][][][sendEvent failedandroid.os.DeadObjectException
+[I][2022-02-12 +80 09:06:06.671][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.672][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.673][8800, 27327][Thread-104][[wns2]wnsnetwork][][][TcpConn:Thread Exit!!!!
+[I][2022-02-12 +80 09:06:06.673][8800, 27328][Thread-105][[wns2]wnsnetwork][][][TcpConn:disconnect
+[I][2022-02-12 +80 09:06:06.680][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.682][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.704][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.710][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.713][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.721][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.723][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.726][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.732][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.735][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.744][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.753][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.761][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.763][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.766][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.770][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.777][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.782][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.788][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.793][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.798][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.803][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.807][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.811][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.814][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.817][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.819][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.825][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.843][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.848][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.852][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.855][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.860][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.865][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.878][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.886][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.890][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.895][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.906][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.910][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.914][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.920][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.925][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.932][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.936][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.938][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.940][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.949][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.953][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.958][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.965][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.969][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.971][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.973][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.975][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.978][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.981][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.987][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.990][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.992][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.997][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:06.999][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.005][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.013][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.014][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.016][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.034][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.038][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.041][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.045][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.051][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.054][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.063][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.066][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.074][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.079][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.080][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.084][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.086][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.090][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.094][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.098][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.100][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.104][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.107][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.108][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.112][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.114][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.115][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.118][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.121][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.124][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.132][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.134][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.135][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.138][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.140][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.141][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.142][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.144][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.146][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.148][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.151][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.153][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.155][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.157][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.159][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.160][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.163][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.166][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.168][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.169][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.171][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.173][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.177][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.178][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.180][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.182][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.184][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.187][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.190][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.191][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.193][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.194][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.195][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.197][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.198][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.200][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.201][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.204][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.205][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.206][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.207][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.209][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.211][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.212][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.214][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.215][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.218][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.220][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.224][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.226][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.228][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.232][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.247][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.268][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.295][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.304][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.305][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.314][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.316][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.320][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.322][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.323][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.328][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.329][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.330][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.333][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.334][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.335][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.339][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.340][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.341][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.343][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.344][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.349][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.351][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.352][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.353][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.355][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.356][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.357][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.359][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.360][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.362][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.362][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.364][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.365][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.366][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.366][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.368][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.368][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.369][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.370][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.372][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.373][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.375][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.376][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.380][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.380][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.380][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.382][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.383][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.385][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.385][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.386][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.387][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.388][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.390][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.391][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.392][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:07.393][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:09.344][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:12.346][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 09:06:12.362][8800, 27184][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+~~~~~ end of mmap ~~~~~[7523,7523][2022-02-12 +0800 09:41:47]

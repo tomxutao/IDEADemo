@@ -1,0 +1,350 @@
+[I][2022-02-10 +80 17:56:20.603][19057, 22112][public_io_pool-153184][NXNetwork_Transport_Task][][][[WatchRecordUploadV1Request#61225]-209 execute() request succ: https://acc.qq.com/ ,networkState:NETWORK_STATE_4G, cellular strength level:2, cellular connected:CONNECTED, wifi connected:DISCONNECTED
+[I][2022-02-10 +80 17:56:20.603][19057, 22112][public_io_pool-153184][NXNetwork_Transport_Task][][][[WatchRecordUploadV1Request#61225]-209 run() task state is done , call listener
+[I][2022-02-10 +80 17:56:20.605][19057, 22112][public_io_pool-153184][NXNetwork_Network_Task][][][[WatchRecordUploadV1Request#61225]-209 notifyListener() task state is done , call listener
+[I][2022-02-10 +80 17:56:20.605][19057, 22112][public_io_pool-153184][NXNetwork_JCE_QmfFramePackage][][][[WatchRecordUploadV1Request#61225]-209 unpackage qmf frame ,response bytes size:251
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_JCE_JCEFramePackage][][][[WatchRecordUploadV1Request#61225]-209 unpackage jce frame,response bytes size:143
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_JCE_HeaderPackage][][][[WatchRecordUploadV1Request#61225]-209 unpackage response header
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_JCE_StructPackage][][][[WatchRecordUploadV1Request#61225]-209 byte[] --> JceStruct
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_JCE_StructPackage][][][[WatchRecordUploadV1Request#61225]-209 find response class name from default strategy :com.tencent.qqlive.ona.protocol.jce.WatchRecordUploadV1Response
+[E][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][VBWatchHistoryServiceAndroid][][][[WatchRecordCloudOperator]UPDATE 请求成功，recordList size:1
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_JCE_TaskManager][][][removeTask() requestId :209
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_Network_TaskManager][][][[WatchRecordUploadV1Request#61225]-209 onTaskFinish()
+[I][2022-02-10 +80 17:56:20.606][19057, 22112][public_io_pool-153184][NXNetwork_Transport_TaskManager][][][[WatchRecordUploadV1Request#61225]-209 onTaskFinish()
+[I][2022-02-10 +80 17:56:20.606][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchRecordSyncCenter]mergeWatchRecords 开始进行数据合并
+[I][2022-02-10 +80 17:56:20.606][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryKVManager]updateWatchRecord record:VBWatchRecord{recordId='mzc002007vd7hwb', lid='', cid='mzc002007vd7hwb', vid='t0042xr7p23', videoTime=1681, viewDate=1644247486475, pid='', plid='', fromContext='', recordType=0, iHD=3, playFrom=3, totalWatchTime=663, status=WATCH_RECORD_KV_STATUS_SYNC, title=null}
+[I][2022-02-10 +80 17:56:20.606][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryKVManager]getIndexInValidSortedListByRecordId exist in sortedList,index=14,recordKeyId=mzc002007vd7hwb
+[E][2022-02-10 +80 17:56:20.606][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryKVManager]updateWatchRecordWhenExist status=WATCH_RECORD_KV_STATUS_SYNC,the viewDate is smaller than exist one
+[I][2022-02-10 +80 17:56:20.606][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryKVManager]updateWatchRecord update finished,userId=38030485,size1=1,syncSize=499,tmpSize=2,size2=500
+[I][2022-02-10 +80 17:56:20.606][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchRecordSyncCenter]mergeKvUpdateList 观看历史云同步本地内存数据更新完成 更新条数:1
+[I][2022-02-10 +80 17:56:20.607][19057, 22121][VBTransportService-153193][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.pandora.device.WifiInfoManager.getConnectionInfo(Unknown Source:97)
+	at com.tencent.qqlive.pandora.Pandora.getConnectionInfo(Unknown Source:85)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:81)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$5.run(Unknown Source:348)
+	at com.tencent.qqlive.modules.vb.threadservice.impl.VBExecuteRunnable.run(Unknown Source:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:929)
+[I][2022-02-10 +80 17:56:20.607][19057, 22121][VBTransportService-153193][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isAppOnForeground(Unknown Source:144)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isBackgroundRequestProcess(Unknown Source:33)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:87)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$5.run(Unknown Source:348)
+	at com.tencent.qqlive.modules.vb.threadservice.impl.VBExecuteRunnable.run(Unknown Source:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:929)
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_Transport_Task][][][[ReddotCleanRequest]-211 execute() request succ: https://acc.qq.com/ ,networkState:NETWORK_STATE_4G, cellular strength level:2, cellular connected:CONNECTED, wifi connected:DISCONNECTED
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_Transport_Task][][][[ReddotCleanRequest]-211 run() task state is done , call listener
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_Network_Task][][][[ReddotCleanRequest]-211 notifyListener() task state is done , call listener
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][UniCmdHandler][][][onCmdResponse:211|115, code:0, cost:366 responsed:false
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_PB_PBTask][][][[ReddotCleanRequest]-211 onRequestFinish()
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_PB_PBTask][][][[ReddotCleanRequest]-211 onRequestFinish() resultCode:0,errDesc:
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_PB_PBPackageImpl][][][[ReddotCleanRequest]-211 unpackage qmf frame
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_PB_PBPackageImpl][][][[ReddotCleanRequest]-211 unpackage pb frame
+[I][2022-02-10 +80 17:56:20.607][19057, 22110][VBPBService-153182][NXNetwork_PB_PBPackageImpl][][][[ReddotCleanRequest]-211 unpackage business data
+[I][2022-02-10 +80 17:56:20.608][19057, 22110][VBPBService-153182][NXNetwork_PB_PBPackageImpl][][][[ReddotCleanRequest]-211 byte[] --> pbmessage
+[I][2022-02-10 +80 17:56:20.608][19057, 22110][VBPBService-153182][NXNetwork_PB_PBPackageImpl][][][[ReddotCleanRequest]-211 unpackage done
+[I][2022-02-10 +80 17:56:20.615][19057, 22110][VBPBService-153182][NXNetwork_PB_PBTask][][][[ReddotCleanRequest]-211 onRequestFinish() unpackage err code: 0
+[I][2022-02-10 +80 17:56:20.615][19057, 22110][VBPBService-153182][NXNetwork_PB_PBTask][][][[ReddotCleanRequest]-211 onBusiCallback() call listener onSuccess()
+[I][2022-02-10 +80 17:56:20.615][19057, 22110][VBPBService-153182][NXNetwork_PB_PBTask][][][[ReddotCleanRequest]-211 report() call report listener
+[I][2022-02-10 +80 17:56:20.615][19057, 22110][VBPBService-153182][UniCmdHandler][][][responseBusiness:211|115, code:0, cost:0, response:UniCmdResponse(resultCode=0, errorCodeType=, resultMsg=, responseBody=192, uniCmdSolutionType=http, responseHttpExtra=null, responseWnsExtra=null), statistics:UniCmdStatistics(common=UniCmdStatisticsCommon(uniCmdSolutionType=UniCmdSolutionTypeHttp, clientIp=null, targetIp=2408:8756:3af0:10::194, targetIpSrc=null, transProtocol=HTTP, upStreamSize=0, downStreamSize=0, requestSize=1518, responseSize=192, uniCmdCostMs=366, solutionCostMs=366, dnsCostMs=0, connCostMs=0, sslCostMs=0, queueCostMs=0, sendCostMs=245, backEndCostMs=-1, firstByteCostMs=-1, recvCostMs=112, hitReport=false, reportRatio=100), businessExtra=UniCmdStatisticsBusinessExtra(busiProtocolType=1, busiCode=0, packCostMs=3, unPackCostMs=0, customKV={pack_head_cost=3, pack_pb_frame_cost=0, pack_qmf_cost=0, unpack_head_cost=0, unpack_pb_frame_cost=0, unpack_qmf_cost=0, qmf_cmd_id=65281, pb_cmd_id=25196, callee=trpc.service.reddot.RedDotV2, func=/trpc.service.reddot.RedDotV2/cleanDot, bucket_id=4}), httpExtra=UniCmdStatisticsHttpExtra(isHttps=true, transportErrCode=0, transportErrMsg=, hostState=3, stateMachineState=V6, transportCostMs=365, rttCostMs=245, realCallCostMs=357, requestDomain=2408:8756:3af0:10::194, httpVersion=HTTP_2), wnsExtra=null)
+[I][2022-02-10 +80 17:56:20.616][19057, 22110][VBPBService-153182][UniCmdHandler][][][report:211|115, hit:false, code:0, ratio:100
+[I][2022-02-10 +80 17:56:20.616][19057, 22110][VBPBService-153182][NXNetwork_Network_TaskManager][][][[ReddotCleanRequest]-211 onTaskFinish()
+[I][2022-02-10 +80 17:56:20.616][19057, 22110][VBPBService-153182][NXNetwork_Transport_TaskManager][][][[ReddotCleanRequest]-211 onTaskFinish()
+[I][2022-02-10 +80 17:56:20.616][19057, 1*][main][AutoPlayTag][][][QQLiveAttachPlayMgrWrapper:pauseWhileInvisibleRunnable isHadBackground trueisFullScreenModel: falseH5TabFragment{c51b6ae} (e9c59f6f-83a3-4a84-adb5-0f173c3c84e1 id=0x7f0b1f10)
+[E][2022-02-10 +80 17:56:20.619][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryRecordKvHelper]get bytes is null,key=key_data_version
+[I][2022-02-10 +80 17:56:20.622][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryKVManager]clearAllKVDataWithServerTime all remove count:0
+[I][2022-02-10 +80 17:56:20.622][19057, 21550][VBWatchRecord][VBWatchHistoryServiceAndroid][][][[WatchHistoryKVManager]clearAllKVDataWithServerTime all remove count:0
+[I][2022-02-10 +80 17:56:20.623][19057, 22121][public_task_pool-153193][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-10 +80 17:56:20.623][19057, 22121][public_task_pool-153193][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 1
+[I][2022-02-10 +80 17:56:20.623][19057, 22121][public_task_pool-153193][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-10 +80 17:56:20.623][19057, 22121][public_task_pool-153193][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-10 +80 17:56:20.623][19057, 22114][public_task_pool-153186][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo
+[I][2022-02-10 +80 17:56:20.623][19057, 22114][public_task_pool-153186][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 1
+[I][2022-02-10 +80 17:56:20.623][19057, 22114][public_task_pool-153186][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-10 +80 17:56:20.623][19057, 22114][public_task_pool-153186][VBWrapperLoginService][WrapperLoginProxy][][getLoginAccountInfo type 0
+[I][2022-02-10 +80 17:56:20.623][19057, 22114][public_task_pool-153186][QAD][InnerAdReportCheckHandler][][release could not validate
+[I][2022-02-10 +80 17:56:20.675][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:20.716][19057, 1*][main][ExposureReporter][][][com.tencent.qqlive.exposure_report.ExposureReporter@4eb8c66, reportMoveDirection() after, mIsReportMvDirection = false, mvDirection = 0, mMoveAllNumber = 0, mMoveDirectTopNumber = 0
+[I][2022-02-10 +80 17:56:20.716][19057, 1*][main][ExposureReporter][][][com.tencent.qqlive.exposure_report.ExposureReporter@962d47e, reportMoveDirection() after, mIsReportMvDirection = false, mvDirection = 0, mMoveAllNumber = 0, mMoveDirectTopNumber = 0
+[I][2022-02-10 +80 17:56:20.717][19057, 1*][main][ExposureReporter][][][com.tencent.qqlive.exposure_report.ExposureReporter@b55ccfc, reportMoveDirection() after, mIsReportMvDirection = false, mvDirection = 0, mMoveAllNumber = 0, mMoveDirectTopNumber = 0
+[I][2022-02-10 +80 17:56:20.717][19057, 1*][main][ExposureReporter][][][com.tencent.qqlive.exposure_report.ExposureReporter@dd25e52, reportMoveDirection() after, mIsReportMvDirection = false, mvDirection = 0, mMoveAllNumber = 0, mMoveDirectTopNumber = 0
+[I][2022-02-10 +80 17:56:20.717][19057, 1*][main][ExposureReporter][][][com.tencent.qqlive.exposure_report.ExposureReporter@f6215dc, reportMoveDirection() after, mIsReportMvDirection = false, mvDirection = 0, mMoveAllNumber = 0, mMoveDirectTopNumber = 0
+[I][2022-02-10 +80 17:56:20.717][19057, 1*][main][ExposureReporter][][][com.tencent.qqlive.exposure_report.ExposureReporter@8811a8d, reportMoveDirection() after, mIsReportMvDirection = false, mvDirection = 0, mMoveAllNumber = 0, mMoveDirectTopNumber = 0
+[I][2022-02-10 +80 17:56:20.775][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:20.875][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:20.975][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.075][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.176][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.276][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.377][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.478][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.578][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.680][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.781][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.881][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:21.981][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.082][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.183][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.283][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.384][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.484][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.584][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.684][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.785][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.886][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:22.985][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.086][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.186][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.285][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.322][19057, 1*][main][PBVideoDetailDiskCacheManager][][][mClearVideoDetailCacheExecutor 2, mDelayTimes = 1
+[I][2022-02-10 +80 17:56:23.323][19057, 22114][public_io_pool-153186][PBVideoDetailDiskCacheManager][][][clearVideoDetailCache 1
+[I][2022-02-10 +80 17:56:23.323][19057, 22114][public_io_pool-153186][PBVideoDetailDiskCacheManager][][][clearVideoDetailCache 2
+[I][2022-02-10 +80 17:56:23.324][19057, 22114][public_io_pool-153186][PBVideoDetailDiskCacheManager][][][clearVideoDetailCache 3
+[I][2022-02-10 +80 17:56:23.324][19057, 22114][public_io_pool-153186][PBFileCacheManager][][][removePBStructFolder
+[I][2022-02-10 +80 17:56:23.329][19057, 22114][public_io_pool-153186][FileUtil][][][deleteFiles start...
+[I][2022-02-10 +80 17:56:23.330][19057, 22114][public_io_pool-153186][FileUtil][][][delete file totalCount-->0
+[I][2022-02-10 +80 17:56:23.330][19057, 22114][public_io_pool-153186][FileUtil][][][deleteFiles end...
+[I][2022-02-10 +80 17:56:23.386][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.487][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.588][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.689][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.789][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.889][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:23.989][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.090][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.190][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.291][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.392][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.494][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.594][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.695][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.795][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.895][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:24.996][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.096][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.196][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.296][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.396][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.496][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.596][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.696][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:25.812][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.074][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.175][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.275][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.376][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.476][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.576][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.676][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 17:56:27.777][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:48.541][19057, 21806][com.tencent.qqlive.tvkplayer.tools.utils.t-1][TVK][TVKPlayer[TVKServerTimeGetter.java]][][[ServerTime] request url = https://vv.video.qq.com/checktime
+[I][2022-02-10 +80 18:36:48.543][19057, 21806][com.tencent.qqlive.tvkplayer.tools.utils.t-1][TVK][TVKPlayer[TVKServerTimeGetter.java]][][[ServerTime] request requestParams = {randnum=0.5138367188577722, guid=925ad63f87c711ec89cd6c92bf48bcb2, otype=json}
+[I][2022-02-10 +80 18:36:48.544][19057, 21806][com.tencent.qqlive.tvkplayer.tools.utils.t-1][TVK][TVKPlayer[TVKServerTimeGetter.java]][][[ServerTime] getRequestUrl: https://vv.video.qq.com/checktime?randnum=0.5138367188577722&guid=925ad63f87c711ec89cd6c92bf48bcb2&otype=json
+[I][2022-02-10 +80 18:36:48.544][19057, 21806][com.tencent.qqlive.tvkplayer.tools.utils.t-1][TVK][TVKPlayer[TVKHttpClient]][][httpMethodAsync, add request to queue, url=https://vv.video.qq.com/checktime?randnum=0.5138367188577722&guid=925ad63f87c711ec89cd6c92bf48bcb2&otype=json
+[I][2022-02-10 +80 18:36:48.544][19057, 21379][RAFTTabSDKDataRollHandlerThread][TabToggleDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----sendRollMessageDelayed-----delayMillis = 1800000
+[I][2022-02-10 +80 18:36:48.544][19057, 21379][RAFTTabSDKDataRollHandlerThread][TabConfigDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----sendRollMessageDelayed-----delayMillis = 1800000
+[I][2022-02-10 +80 18:36:48.544][19057, 22170][public_io_pool-153242][TabConfigDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----refreshData-----, requestDataVersion = 1644484353, isDefaultRequestDataVersion = false
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][TabConfigDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----createRequestParams tabRemoteConfigRequest=GetTabRemoteConfigRequest{app_id=5608, app_key=487129304eca93e3646dd0c7dd441bf5, guid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, config_version=1644484353, sdk_version=3.1.0.4, platform=DEVICE_TYPE_ANDROID, language=zh, profiles={device_dpi=480, app_version=8.5.41.26553, device_model=EBG-AN10, qq_openid=04BF6F0447720EABB6A4A921C6FB1DEB, app_version_build=26553, device_manufacturer=HUAWEI, wx_openid=, device_abis='arm64-v8a','armeabi-v7a','armeabi', android_sdk_int=29, device_brand=HONOR, vuserid=38030485, app_version_short=8.5.41, main_login=2}, scene_ids=[560811], model_server_params={omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, vuid=38030485}, extra_params={new_id=5e4e85959d6d5953eb833efe10001031531d}}
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][TabConfigDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetch-----configVersion = 1644484353
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_TransportManager][][][getTransportAutoIncrementId() request id:213
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_HttpImpl][][][-213 isConnectionReuseEnable:true
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_HttpImpl][][][-213 has customTimeoutConfig, need create new okhttpclient
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_HttpImpl][][][-213 isTryUseCellularNetwork, need create new okhttpclient
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_HttpImpl][][][getTimeoutInfo() network state:NETWORK_STATE_4G,readWrite timeout:20,connect timeout:10
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_TransportManager][][][-213 protocol type: http
+[I][2022-02-10 +80 18:36:48.545][19057, 22170][public_io_pool-153242][NXNetwork_Transport_TaskManager][][][-213 onTaskBegin()
+[I][2022-02-10 +80 18:36:48.546][19057, 22110][public_io_pool-153182][TabToggleDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----refreshData-----, requestDataVersion = 1644474327, isDefaultRequestDataVersion = false
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][TabToggleDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----createRequestParams tabToggleRequest=GetTabToggleRequest{app_id=5608, app_key=487129304eca93e3646dd0c7dd441bf5, guid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, toggle_version=1644474327, sdk_version=3.1.0.4, platform=DEVICE_TYPE_ANDROID, language=zh, profiles={device_dpi=480, app_version=8.5.41.26553, device_model=EBG-AN10, qq_openid=04BF6F0447720EABB6A4A921C6FB1DEB, app_version_build=26553, device_manufacturer=HUAWEI, wx_openid=, device_abis='arm64-v8a','armeabi-v7a','armeabi', android_sdk_int=29, device_brand=HONOR, vuserid=38030485, app_version_short=8.5.41, main_login=2}, scene_ids=[560811], model_server_params={omgid=fbfa97874c6c954bf9c86e24cf65d7177892001021641b, vuid=38030485}, extra_params={new_id=5e4e85959d6d5953eb833efe10001031531d}}
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][TabToggleDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetch-----toggleVersion = 1644474327
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_TransportManager][][][getTransportAutoIncrementId() request id:214
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_HttpImpl][][][-214 isConnectionReuseEnable:true
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_HttpImpl][][][-214 has customTimeoutConfig, need create new okhttpclient
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_HttpImpl][][][-214 isTryUseCellularNetwork, need create new okhttpclient
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_HttpImpl][][][getTimeoutInfo() network state:NETWORK_STATE_4G,readWrite timeout:20,connect timeout:10
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_TransportManager][][][-214 protocol type: http
+[I][2022-02-10 +80 18:36:48.547][19057, 22110][public_io_pool-153182][NXNetwork_Transport_TaskManager][][][-214 onTaskBegin()
+[I][2022-02-10 +80 18:36:48.549][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.551][19057, 21644][NetProberSDK][NetProbe/ApMonitor][][][phoneSignalLevel update:5 > 5|NetType_4g
+[I][2022-02-10 +80 18:36:48.551][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.551][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.551][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.553][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.554][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.557][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.557][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.558][19057, 21799][TVK_NetworkDispatcher][TVK][TVKPlayer[NetworkDispatcher]][][processRequest, before sendRequest, url=https://vv.video.qq.com/checktime?randnum=0.5138367188577722&guid=925ad63f87c711ec89cd6c92bf48bcb2&otype=json this address=Thread[TVK_NetworkDispatcher,5,main]
+[I][2022-02-10 +80 18:36:48.559][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.560][19057, 22173][VBTransportService-153245][NXNetwork_Transport_Task][][][-214 run() 
+[I][2022-02-10 +80 18:36:48.560][19057, 22173][VBTransportService-153245][NXNetwork_Transport_Task][][][-214 sendRequest()
+[I][2022-02-10 +80 18:36:48.560][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.561][19057, 21799][TVK_NetworkDispatcher][TVK][[TVKHttpDataSource]_1009][][before makeConnection, uri=https://vv.video.qq.com/checktime?randnum=0.5138367188577722&guid=925ad63f87c711ec89cd6c92bf48bcb2&otype=json
+[I][2022-02-10 +80 18:36:48.561][19057, 21799][TVK_NetworkDispatcher][TVK][[TVKDnsResolver.java]][][dns cache hit. hostname=vv.video.qq.com, ip=157.255.202.157
+[I][2022-02-10 +80 18:36:48.562][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[E][2022-02-10 +80 18:36:48.563][19057, 21811][TVK-HighPriorityThread3][TVK][[TVKDnsResolver.java]][][HttpDns resolver is null, please use local dns.
+[I][2022-02-10 +80 18:36:48.563][19057, 21799][TVK_NetworkDispatcher][TVK][[TVKHttpDataSource]_1009][][dnsLookUpCost=2 mIsIpConnect=true url=https://vv.video.qq.com/checktime?randnum=0.5138367188577722&guid=925ad63f87c711ec89cd6c92bf48bcb2&otype=json
+[I][2022-02-10 +80 18:36:48.573][19057, 22174][VBTransportService-153246][NXNetwork_Transport_Task][][][-213 run() 
+[I][2022-02-10 +80 18:36:48.578][19057, 22174][VBTransportService-153246][NXNetwork_Transport_Task][][][-213 sendRequest()
+[I][2022-02-10 +80 18:36:48.578][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][-214  callStart()
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][-214  intercept() retry enable: true
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][-214  dnsStart(), domain:config.ab.qq.com
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][lookup() hostname:config.ab.qq.com
+[I][2022-02-10 +80 18:36:48.578][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][lookup() ip:无已选ip
+[I][2022-02-10 +80 18:36:48.578][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][lookup() timeout config:0ms
+[I][2022-02-10 +80 18:36:48.578][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.578][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.578][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][-213  callStart()
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][-213  intercept() retry enable: true
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][-213  dnsStart(), domain:config.ab.qq.com
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][lookup() hostname:config.ab.qq.com
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][lookup() ip:无已选ip
+[I][2022-02-10 +80 18:36:48.580][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][lookup() timeout config:0ms
+[I][2022-02-10 +80 18:36:48.580][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.582][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.584][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.586][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.590][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.591][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.592][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.593][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.594][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.595][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.596][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.596][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.597][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.600][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.603][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.604][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.605][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.606][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.608][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.609][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.610][19057, 21811][TVK-HighPriorityThread3][TVK][[TVKDnsResolver.java]][][query host: vv.video.qq.com, ip size: 6, SystemDns cost: 47
+[I][2022-02-10 +80 18:36:48.610][19057, 21811][TVK-HighPriorityThread3][TVK][[TVKDnsResolver.java]][][query hostname:vv.video.qq.com, lookup result size:6, speed probe:false
+[I][2022-02-10 +80 18:36:48.613][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.614][19057, 22173][VBTransportService-153245][NXNetwork_Transport_HttpImpl][][][-214  connectStart()
+[I][2022-02-10 +80 18:36:48.615][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.617][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.619][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.621][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.623][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.624][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.626][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.627][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.628][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.630][19057, 22174][VBTransportService-153246][NXNetwork_Transport_HttpImpl][][][-213  connectStart()
+[I][2022-02-10 +80 18:36:48.631][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.632][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.633][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.634][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.635][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.636][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.637][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.639][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.640][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.641][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.641][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.642][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.643][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.643][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.644][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.645][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.646][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.647][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.647][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.648][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.649][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.651][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.651][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.652][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.652][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.653][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.655][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.656][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.657][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.658][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.658][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.659][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.659][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.660][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.660][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.661][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.662][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.662][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.663][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.663][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.664][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.664][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.665][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.665][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.666][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.667][19057, 21377][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-10 +80 18:36:48.865][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:48.894][19057, 1*][main][AppLaunchManager][][][reopotAppToLight:1644489408893,gap:2428629
+[I][2022-02-10 +80 18:36:49.009][19057, 1*][main][DefaultImSdkListener][][][onConnecting: 
+[I][2022-02-10 +80 18:36:49.010][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:49.110][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:49.211][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:49.311][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:49.412][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.096][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.187][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.288][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.388][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.489][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.589][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.690][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.790][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:36:51.891][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.095][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.195][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.296][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.396][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.497][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.597][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.698][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.798][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.898][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:06.999][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.086][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.186][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.286][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.387][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.488][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.588][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.688][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.790][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:14.890][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.085][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.186][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.287][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.388][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.489][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.590][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.690][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.791][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.891][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:20.992][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.093][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.193][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.293][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.394][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.494][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.595][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.695][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:21.795][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9
+[I][2022-02-10 +80 18:37:24.084][19057, 1*][main][QAD][PosterFocusAdVM][][onNodeEvent:9

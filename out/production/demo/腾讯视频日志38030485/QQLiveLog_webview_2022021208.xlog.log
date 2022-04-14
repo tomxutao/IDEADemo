@@ -1,0 +1,468 @@
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Sep  7 2021^^^14:05:59^^^^^^^^^^[28901,28901][2022-02-11 +0800 16:03:57]
+get mmap time: 5
+MARS_URL: 
+MARS_PATH: master_android
+MARS_REVISION: a7ee7a4
+MARS_BUILD_TIME: 2021-09-07 14:05:12
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:245001879552 free:69808107520 available:69808107520
+log dir space info, capacity:244980908032 free:69787136000 available:69787136000
+[I][2022-02-11 +80 16:03:57.410][28901, 1*][main][InitializerABTestSwitch][][][getThreadpoolConfig >>> jsonStr = {}
+[I][2022-02-11 +80 16:03:57.410][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.410][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.411][28901, 1*][main][LoadLibraryHooker][][][load so c++_shared
+[I][2022-02-11 +80 16:03:57.412][28901, 1*][main][LoadLibraryHooker][][][load so mmkv
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][LaunchTaskConfigImpl][][][getSubThreadCore = 1
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][Tab][][][getConfigInt-----sTabSDKManager == null, key = private_protocol_dialog_enable
+[I][2022-02-11 +80 16:03:57.414][28901, 1*][main][PrivateProtocolDialogManager][][][PrivateProtocolDialogManager : setValue --> false
+[I][2022-02-11 +80 16:03:57.415][28901, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-11 +80 16:03:57.416][28901, 1*][main][Tab][][][isToggleOn-----sTabSDKManager == null, key = monitor_subprocess_threadinfo_enable
+[I][2022-02-11 +80 16:03:57.416][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.416][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.416][28901, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-11 +80 16:03:57.417][28901, 24659][launch-thread-0][Tab][][][getABCloudConfigInt-----sTabSDKManager == null, key = acc_client_max_conn_pool_idle_size
+[I][2022-02-11 +80 16:03:57.417][28901, 24659][launch-thread-0][Tab][][][getABCloudConfigInt-----sTabSDKManager == null, key = acc_client_conn_pool_alive_second_time
+[I][2022-02-11 +80 16:03:57.417][28901, 1*][main][TabSDKManager][][][init: mOmgidSwitchQimei36=false
+[I][2022-02-11 +80 16:03:57.420][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-11 +80 16:03:57.420][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-11 +80 16:03:57.420][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-11 +80 16:03:57.420][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644550535
+[I][2022-02-11 +80 16:03:57.420][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644550535
+[I][2022-02-11 +80 16:03:57.420][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 421
+[I][2022-02-11 +80 16:03:57.421][28901, 24659][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][getDefaultServerDomain, returns domain : acc.qq.com
+[I][2022-02-11 +80 16:03:57.421][28901, 24659][launch-thread-0][NXNetwork_Network_TaskManager][][][create() new instance, domain : acc.qq.com
+[I][2022-02-11 +80 16:03:57.421][28901, 24659][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-11 +80 16:03:57.421][28901, 24659][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-11 +80 16:03:57.422][28901, 1*][main][ActivityStackImpl][][][init activity stack, size=0
+[I][2022-02-11 +80 16:03:57.422][28901, 1*][main][PlatformIdConfig][][][platform init:false true
+[I][2022-02-11 +80 16:03:57.424][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 421
+[I][2022-02-11 +80 16:03:57.424][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-11 +80 16:03:57.425][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabToggleControlInfo {  mData = value, mEnableReport = false, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-11 +80 16:03:57.425][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-11 +80 16:03:57.425][28901, 24657][public_io_pool-155729][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.425][28901, 24657][public_io_pool-155729][TabToggleDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.425][28901, 24657][public_io_pool-155729][TabToggleDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.425][28901, 24657][public_io_pool-155729][TabToggleDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.425][28901, 1*][main][QQLiveApplication][][][ApplicationOnCreate, processName = com.tencent.qqlive:webview, flavor = , buildType = iconRelease64, versionName = 8.5.41.26553
+[I][2022-02-11 +80 16:03:57.425][28901, 24665][public_io_pool-155737][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:03:57.425][28901, 24665][public_io_pool-155737][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:03:57.425][28901, 24665][public_io_pool-155737][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:03:57.427][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-11 +80 16:03:57.427][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-11 +80 16:03:57.427][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-11 +80 16:03:57.427][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644560819
+[I][2022-02-11 +80 16:03:57.427][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644560819
+[I][2022-02-11 +80 16:03:57.427][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 584
+[I][2022-02-11 +80 16:03:57.433][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 584
+[I][2022-02-11 +80 16:03:57.433][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-11 +80 16:03:57.437][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabConfigControlInfo {  mData = value, mEnableReport = true, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-11 +80 16:03:57.438][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-11 +80 16:03:57.438][28901, 24664][public_io_pool-155736][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.438][28901, 24664][public_io_pool-155736][TabConfigDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.438][28901, 24664][public_io_pool-155736][TabConfigDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.438][28901, 24664][public_io_pool-155736][TabConfigDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-11 +80 16:03:57.438][28901, 24659][launch-thread-0][UniCmdSolutionSelector][][][initSolution:UniCmdInitConfig(initHttpConfig=UniCmdInitHttpConfig(enableHttpSolution=true, httpSolutionProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdHttpSolutionDefault@657daa7), initWnsConfig=UniCmdInitWnsConfig(enableWnsSolution=false, wnsSolutionProxy=null), reportProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$reportProxy$1@c312b54, tabConfigProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$tabConfigProxy$1@31b3afd, logProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdLogProxyDefault@b3f63f2, executorProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdExecutorProxyDefault@99d7a43, netProbeProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdNetProbeProxyDefault@61fa8c0, platformInfoProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdPlatformInfoProxyDefault@56589f9)
+[I][2022-02-11 +80 16:03:57.439][28901, 24659][launch-thread-0][UniCmdInitTask][][][UniCmdInitTask init cost:1ms
+[I][2022-02-11 +80 16:03:57.439][28901, 24659][launch-thread-0][VBUniCmdServiceImpl][][][init finish, use inner:false
+[I][2022-02-11 +80 16:03:57.439][28901, 24659][launch-thread-0][UniCmdMgr][][][UniCmdMgr init
+[I][2022-02-11 +80 16:03:57.442][28901, 24659][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-11 +80 16:03:57.442][28901, 24659][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-11 +80 16:03:57.442][28901, 24659][launch-thread-0][VBPBTabConfig][][][isRemoveSensitiveInformation:true
+[I][2022-02-11 +80 16:03:57.442][28901, 24664][VBPBService-155736][NXNetwork_Network_StateMonitor][][][create state monitor sdkversion:29
+[I][2022-02-11 +80 16:03:57.442][28901, 24664][VBPBService-155736][NXNetwork_Network_StateMonitor][][][network state monitor stop
+[I][2022-02-11 +80 16:03:57.443][28901, 1*][main][SimpleBroadcastManager][][][onServiceConnected
+[I][2022-02-11 +80 16:03:57.444][28901, 24659][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-11 +80 16:03:57.444][28901, 24659][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-11 +80 16:03:57.445][28901, 24664][VBPBService-155736][NXNetwork_Network_StateMonitor][][][network state monitor stop fail, network callback is not registered
+[I][2022-02-11 +80 16:03:57.445][28901, 24664][VBPBService-155736][NXNetwork_Network_StateMonitor][][][network state monitor start
+[I][2022-02-11 +80 16:03:57.446][28901, 24662][com.getkeepsafe.relinker.e][LoadLibraryHooker][][][load so tquic
+[I][2022-02-11 +80 16:03:57.446][28901, 24668][launch-idle61][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleHigh, threadStrategy = SubThread
+[I][2022-02-11 +80 16:03:57.452][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:03:57.452][28901, 24671][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onAvailable()
+[I][2022-02-11 +80 16:03:57.453][28901, 24671][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:03:57.454][28901, 24671][ConnectivityThread][NXNetwork_Network_StateManager][][][notify network state change, curr state:NETWORK_STATE_WIFI
+[I][2022-02-11 +80 16:03:57.454][28901, 24671][ConnectivityThread][NXNetwork_Network_NetworkServiceManager][][][setNacList, nacMap null!
+[I][2022-02-11 +80 16:03:57.454][28901, 24671][ConnectivityThread][NXNetwork_Network_AddressManager][][][setNacList() version:1
+[I][2022-02-11 +80 16:03:57.454][28901, 24671][ConnectivityThread][NXNetwork_Network_StateMachine][][][resetState()
+[I][2022-02-11 +80 16:03:57.454][28901, 24671][ConnectivityThread][NXNetwork_Network_NacManager][][][clear()
+[I][2022-02-11 +80 16:03:57.454][28901, 24671][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-11 +80 16:03:57.455][28901, 24671][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-11 +80 16:03:57.455][28901, 24671][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onLinkPropertiesChanged()
+[I][2022-02-11 +80 16:03:57.455][28901, 24671][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : WIFI
+[I][2022-02-11 +80 16:03:57.455][28901, 24671][ConnectivityThread][NXNetwork_Network_StateManager][][][network state not change, curr state:NETWORK_STATE_WIFI
+[I][2022-02-11 +80 16:03:57.549][28901, 24659][launch-thread-0][LocationGetTask][][][enableRequestLocation:false
+[I][2022-02-11 +80 16:03:57.549][28901, 24672][launch-idle71][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleMiddle, threadStrategy = SubThread
+[I][2022-02-11 +80 16:03:57.652][28901, 24659][launch-thread-0][LoadLibraryHooker][][][load so gradishwrapper
+[I][2022-02-11 +80 16:03:57.664][28901, 24673][launch-idle81][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleLow, threadStrategy = SubThread
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = com.tencent.qqlive_preferences key = setting_preferences_private_protocol_is_show , please check context
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = vb_platformInfo key = vb_platformInfo_version_code , please check context
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = vb_platformInfo key = vb_platformInfo_version_name , please check context
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-11 +80 16:03:58.422][28901, 24666][public_io_pool-155738][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = vb_platformInfo key = vb_platformInfo_app_id , please check context
+[I][2022-02-11 +80 16:03:58.485][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:03:59.478][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:00.926][28901, 24638][Binder:28901_1][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:04:00.926][28901, 24638][Binder:28901_1][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:04:00.926][28901, 24638][Binder:28901_1][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:04:05.482][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:11.493][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:11.527][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:17.490][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:17.529][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:20.533][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:23.504][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:26.061][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:29.503][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:32.489][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:36.296][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:38.511][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:38.531][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:44.503][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:44.536][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:47.504][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:53.497][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:04:59.538][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:05.543][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:15.974][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:28.256][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:29.474][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:38.538][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:44.543][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:50.531][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:50.550][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:56.530][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:05:56.557][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:01.479][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:02.559][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:05.564][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:11.557][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:13.054][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:19.418][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:21.971][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:23.038][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:23.230][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:26.512][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:30.441][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:32.512][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:35.518][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:35.566][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:38.525][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:41.580][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:44.522][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:47.532][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:50.534][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:51.405][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:54.539][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:56.534][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:06:56.600][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:07:02.541][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:07:02.592][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:07:08.603][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:51.620][28901, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.pandora.device.WifiInfoManager.getConnectionInfo(Unknown Source:97)
+	at com.tencent.qqlive.pandora.Pandora.getConnectionInfo(Unknown Source:85)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:81)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+[I][2022-02-11 +80 16:11:51.620][28901, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isAppOnForeground(Unknown Source:144)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isBackgroundRequestProcess(Unknown Source:33)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:87)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+[I][2022-02-11 +80 16:11:51.977][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:51.000][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:53.593][28901, 24678][Binder:28901_4][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:11:53.593][28901, 24678][Binder:28901_4][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:11:53.593][28901, 24678][Binder:28901_4][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-11 +80 16:11:54.768][28901, 24689][public_io_pool-155761][VBMMKV_BROADCAST][][][find nothing from kvfactory
+[I][2022-02-11 +80 16:11:54.768][28901, 24689][public_io_pool-155761][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive fileName = qad_splash_order_sp_storage key = CMf3xbwSEN34xbwS , please check context
+[I][2022-02-11 +80 16:11:57.974][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:11:57.999][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:00.993][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:03.996][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:04.006][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:06.995][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:09.989][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:10.009][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:12.995][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:26.655][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:36.818][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:37.021][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:43.019][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:12:49.033][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.401][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.415][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.415][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.415][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.415][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.415][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.420][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.422][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.423][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.424][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.446][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.447][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.448][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.448][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.449][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.451][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.464][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.466][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.468][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.469][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.493][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.503][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.504][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.588][28901, 24670][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-11 +80 16:31:23.752][28901, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.pandora.device.WifiInfoManager.getConnectionInfo(Unknown Source:97)
+	at com.tencent.qqlive.pandora.Pandora.getConnectionInfo(Unknown Source:85)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:81)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+[I][2022-02-11 +80 16:31:23.752][28901, 1*][main][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isAppOnForeground(Unknown Source:144)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isBackgroundRequestProcess(Unknown Source:33)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:87)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$1.onReceive(Unknown Source:43)
+	at android.app.LoadedApk$ReceiverDispatcher$Args.lambda$getRunnable$0$LoadedApk$ReceiverDispatcher$Args(LoadedApk.java:1786)
+	at android.app.-$$Lambda$LoadedApk$ReceiverDispatcher$Args$_BumDX2UKsnxLVrE6UJsJZkotuA.run(Unknown Source:2)
+	at android.os.Handler.handleCallback(Handler.java:900)
+	at android.os.Handler.dispatchMessage(Handler.java:103)
+	at android.os.Looper.loop(Looper.java:219)
+	at android.app.ActivityThread.main(ActivityThread.java:8668)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:513)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1109)
+~~~~~ end of mmap ~~~~~[6495,6495][2022-02-12 +0800 08:42:13]
+^^^^^^^^^^Sep  7 2021^^^14:05:59^^^^^^^^^^[6495,6495][2022-02-12 +0800 08:42:13]
+get mmap time: 83
+MARS_URL: 
+MARS_PATH: master_android
+MARS_REVISION: a7ee7a4
+MARS_BUILD_TIME: 2021-09-07 14:05:12
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:245001879552 free:69317365760 available:69317365760
+log dir space info, capacity:244980908032 free:69296394240 available:69296394240
+[I][2022-02-12 +80 08:42:13.836][6495, 1*][main][InitializerABTestSwitch][][][getThreadpoolConfig >>> jsonStr = {}
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][LoadLibraryHooker][][][load so c++_shared
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][LoadLibraryHooker][][][load so mmkv
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][LaunchTaskConfigImpl][][][getSubThreadCore = 1
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][Tab][][][getConfigInt-----sTabSDKManager == null, key = private_protocol_dialog_enable
+[I][2022-02-12 +80 08:42:13.837][6495, 1*][main][PrivateProtocolDialogManager][][][PrivateProtocolDialogManager : setValue --> false
+~~~~~ begin of mmap ~~~~~
+[I][2022-02-12 +80 08:42:13.846][6495, 1*][main][DetailCgiPreloadTask][][][not match process
+[I][2022-02-12 +80 08:42:13.853][6495, 1*][main][Tab][][][isToggleOn-----sTabSDKManager == null, key = monitor_subprocess_threadinfo_enable
+[I][2022-02-12 +80 08:42:13.853][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.853][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.853][6495, 1*][main][Tab][][][getConfigFloat-----sTabSDKManager == null, key = tv_reflect_report_sample_rate_android
+[I][2022-02-12 +80 08:42:13.853][6495, 1*][main][TabSDKManager][][][init: mOmgidSwitchQimei36=false
+[I][2022-02-12 +80 08:42:13.870][6495, 27132][VBTransportService-158204][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.pandora.device.WifiInfoManager.getConnectionInfo(Unknown Source:97)
+	at com.tencent.qqlive.pandora.Pandora.getConnectionInfo(Unknown Source:85)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:81)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$5.run(Unknown Source:348)
+	at com.tencent.qqlive.modules.vb.threadservice.impl.VBExecuteRunnable.run(Unknown Source:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:929)
+[I][2022-02-12 +80 08:42:13.870][6495, 27132][VBTransportService-158204][Pandora.BackgroundUtil][][][isOnBackground update Pandora
+java.lang.Throwable
+	at com.tencent.qqlive.pandora.util.BackgroundUtil.isOnBackgroud(Unknown Source:27)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isAppOnForeground(Unknown Source:144)
+	at com.tencent.qqlive.monitor.PrivacyUtil.isBackgroundRequestProcess(Unknown Source:33)
+	at com.tencent.qqlive.monitor.LocationMonitor.getConnectionInfo(Unknown Source:87)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant.getWifiStrengthLevel(Unknown Source:183)
+	at com.tencent.qqlive.modules.vb.transportservice.impl.VBTransportSignalStrengthAssistant$5.run(Unknown Source:348)
+	at com.tencent.qqlive.modules.vb.threadservice.impl.VBExecuteRunnable.run(Unknown Source:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:929)
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644582246
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644582246
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 584
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 584
+[I][2022-02-12 +80 08:42:13.875][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-12 +80 08:42:13.875][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageStart
+[I][2022-02-12 +80 08:42:13.875][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----isNeedToFetchStorage-----return true by is init fetch
+[I][2022-02-12 +80 08:42:13.875][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorage-----is need to fetch
+[I][2022-02-12 +80 08:42:13.875][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageDataVersion-----storageDataVersion = 1644550535
+[I][2022-02-12 +80 08:42:13.875][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----putMemoryDataVersion-----dataVersion = 1644550535
+[I][2022-02-12 +80 08:42:13.875][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----loadStorageData-----storageAllKeys length = 421
+[I][2022-02-12 +80 08:42:13.876][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:42:13.876][6495, 27137][com.getkeepsafe.relinker.e][LoadLibraryHooker][][][load so tquic
+[I][2022-02-12 +80 08:42:13.877][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----newDataMap Size = 421
+[I][2022-02-12 +80 08:42:13.878][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageData-----oldDataMap Size = 0
+[I][2022-02-12 +80 08:42:13.878][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabToggleControlInfo {  mData = value, mEnableReport = false, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-12 +80 08:42:13.884][6495, 27135][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][getDefaultServerDomain, returns domain : acc.qq.com
+[I][2022-02-12 +80 08:42:13.884][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-12 +80 08:42:13.884][6495, 27133][public_io_pool-158205][TabToggleDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.884][6495, 27133][public_io_pool-158205][TabToggleDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.884][6495, 27133][public_io_pool-158205][TabToggleDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.884][6495, 27133][public_io_pool-158205][TabToggleDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.884][6495, 27135][launch-thread-0][NXNetwork_Network_TaskManager][][][create() new instance, domain : acc.qq.com
+[I][2022-02-12 +80 08:42:13.884][6495, 27135][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-12 +80 08:42:13.884][6495, 27135][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-12 +80 08:42:13.891][6495, 27135][launch-thread-0][UniCmdSolutionSelector][][][initSolution:UniCmdInitConfig(initHttpConfig=UniCmdInitHttpConfig(enableHttpSolution=true, httpSolutionProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdHttpSolutionDefault@66a4d25), initWnsConfig=UniCmdInitWnsConfig(enableWnsSolution=false, wnsSolutionProxy=null), reportProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$reportProxy$1@e624efa, tabConfigProxy=com.tencent.qqlive.component.config.VBUniCmdInitConfig$tabConfigProxy$1@347fcab, logProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdLogProxyDefault@be4df08, executorProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdExecutorProxyDefault@49796a1, netProbeProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdNetProbeProxyDefault@5f660c6, platformInfoProxy=com.tencent.qqlive.modules.vb.unicmd.service.UniCmdPlatformInfoProxyDefault@a87b887)
+[I][2022-02-12 +80 08:42:13.892][6495, 27135][launch-thread-0][UniCmdInitTask][][][UniCmdInitTask init cost:0ms
+[I][2022-02-12 +80 08:42:13.892][6495, 27135][launch-thread-0][VBUniCmdServiceImpl][][][init finish, use inner:false
+[I][2022-02-12 +80 08:42:13.895][6495, 27135][launch-thread-0][UniCmdMgr][][][UniCmdMgr init
+[I][2022-02-12 +80 08:42:13.898][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----updateControlInfo = TabConfigControlInfo {  mData = value, mEnableReport = true, mRollInterval = 1800, mReportInterval = 300  }
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----fetchStorageEnd
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][public_io_pool-158204][TabConfigDataStorage][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][public_io_pool-158204][TabConfigDataFetcher][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][public_io_pool-158204][TabConfigDataRoller][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][public_io_pool-158204][TabConfigDataManager][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----initUse-----finish
+[I][2022-02-12 +80 08:42:13.899][6495, 27135][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-12 +80 08:42:13.899][6495, 27135][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-12 +80 08:42:13.899][6495, 27135][launch-thread-0][VBPBTabConfig][][][isRemoveSensitiveInformation:true
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][VBPBService-158204][NXNetwork_Network_StateMonitor][][][create state monitor sdkversion:29
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][VBPBService-158204][NXNetwork_Network_StateMonitor][][][network state monitor stop
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][VBPBService-158204][NXNetwork_Network_StateMonitor][][][network state monitor stop fail, network callback is not registered
+[I][2022-02-12 +80 08:42:13.899][6495, 27132][VBPBService-158204][NXNetwork_Network_StateMonitor][][][network state monitor start
+[I][2022-02-12 +80 08:42:13.899][6495, 27135][launch-thread-0][NXNetwork_Network_NetworkServiceManager][][][registerNetworkStateListener
+[I][2022-02-12 +80 08:42:13.899][6495, 27135][launch-thread-0][NXNetwork_Network_StateManager][][][register new callback
+[I][2022-02-12 +80 08:42:13.902][6495, 27139][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onAvailable()
+[I][2022-02-12 +80 08:42:13.904][6495, 27132][public_io_pool-158204][TabSDKManager][][][onOmgIdUpdate-----getOmgID = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-12 +80 08:42:13.904][6495, 27132][public_io_pool-158204][TabToggleComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-12 +80 08:42:13.904][6495, 27132][public_io_pool-158204][TabConfigComponent][][][[environment = release, appId = 5608, sceneId = 560811, guid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b]-----switchGuid-----guid equals, finalTargetGuid = fbfa97874c6c954bf9c86e24cf65d7177892001021641b
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_StateManager][][][notify network state change, curr state:NETWORK_STATE_4G
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_NetworkServiceManager][][][setNacList, nacMap null!
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_AddressManager][][][setNacList() version:1
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_StateMachine][][][resetState()
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_NacManager][][][clear()
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Transport_HttpImpl][][][reset() reset OkHttp Client
+[I][2022-02-12 +80 08:42:13.904][6495, 27139][ConnectivityThread][NXNetwork_Network_StateMonitor][][][onLinkPropertiesChanged()
+[I][2022-02-12 +80 08:42:13.906][6495, 27139][ConnectivityThread][NXNetwork_Network_TypeAssistant][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:42:13.906][6495, 27139][ConnectivityThread][NXNetwork_Network_StateManager][][][network state not change, curr state:NETWORK_STATE_4G
+[E][2022-02-12 +80 08:42:13.907][6495, 27134][public_io_pool-158206][SimpleBroadcastManager][][][java.lang.IllegalStateException: Not allowed to start service Intent { cmp=com.tencent.qqlive/.ipc.BroadcastService }: app is in background uid UidRecord{43fec77 u0a220 SVC  bg:+6s888ms idle change:idle procs:6 seq(0,0,0)}
+	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1744)
+	at android.app.ContextImpl.startService(ContextImpl.java:1699)
+	at android.content.ContextWrapper.startService(ContextWrapper.java:669)
+	at com.tencent.qqlive.ipc.SimpleBroadcastManager$2.INVOKEVIRTUAL_com_tencent_qqlive_ipc_SimpleBroadcastManager$2_com_tencent_qqlive_hook_service_StartServiceHooker_startService(Unknown Source:31)
+	at com.tencent.qqlive.ipc.SimpleBroadcastManager$2.run(Unknown Source:66)
+	at com.tencent.qqlive.modules.vb.threadservice.impl.VBExecuteRunnable.run(Unknown Source:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:929)
+[I][2022-02-12 +80 08:42:13.908][6495, 1*][main][ActivityStackImpl][][][init activity stack, size=0
+[E][2022-02-12 +80 08:42:13.909][6495, 27141][public_io_pool-158213][SimpleBroadcastManager][][][java.lang.IllegalStateException: Not allowed to start service Intent { cmp=com.tencent.qqlive/.ipc.BroadcastService }: app is in background uid UidRecord{43fec77 u0a220 SVC  bg:+6s890ms idle change:idle procs:6 seq(0,0,0)}
+	at android.app.ContextImpl.startServiceCommon(ContextImpl.java:1744)
+	at android.app.ContextImpl.startService(ContextImpl.java:1699)
+	at android.content.ContextWrapper.startService(ContextWrapper.java:669)
+	at com.tencent.qqlive.ipc.SimpleBroadcastManager$2.INVOKEVIRTUAL_com_tencent_qqlive_ipc_SimpleBroadcastManager$2_com_tencent_qqlive_hook_service_StartServiceHooker_startService(Unknown Source:31)
+	at com.tencent.qqlive.ipc.SimpleBroadcastManager$2.run(Unknown Source:66)
+	at com.tencent.qqlive.modules.vb.threadservice.impl.VBExecuteRunnable.run(Unknown Source:54)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:641)
+	at java.lang.Thread.run(Thread.java:929)
+[I][2022-02-12 +80 08:42:13.912][6495, 1*][main][PlatformIdConfig][][][platform init:false true
+[I][2022-02-12 +80 08:42:13.929][6495, 1*][main][QQLiveApplication][][][ApplicationOnCreate, processName = com.tencent.qqlive:webview, flavor = , buildType = iconRelease64, versionName = 8.5.41.26553
+[I][2022-02-12 +80 08:42:13.931][6495, 27135][launch-thread-0][GUIDManager][][][getGUID: 925ad63f87c711ec89cd6c92bf48bcb2
+[I][2022-02-12 +80 08:42:13.995][6495, 27135][launch-thread-0][LoadLibraryHooker][][][load so Bugly-rqd
+[I][2022-02-12 +80 08:42:14.015][6495, 27135][launch-thread-0][FileUtil][][][Crash get file null
+[I][2022-02-12 +80 08:42:14.020][6495, 27142][launch-idle61][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleHigh, threadStrategy = SubThread
+[I][2022-02-12 +80 08:42:14.122][6495, 27135][launch-thread-0][LocationGetTask][][][enableRequestLocation:false
+[I][2022-02-12 +80 08:42:14.122][6495, 27157][launch-idle71][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleMiddle, threadStrategy = SubThread
+[I][2022-02-12 +80 08:42:14.234][6495, 27135][launch-thread-0][LoadLibraryHooker][][][load so gradishwrapper
+[I][2022-02-12 +80 08:42:14.252][6495, 27159][launch-idle81][TaskExecuteMonitorImpl][][][onFinishDispatcher >>> loadType = IdleLow, threadStrategy = SubThread
+[I][2022-02-12 +80 08:42:14.845][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:42:14.845][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = com.tencent.qqlive_preferences key = setting_preferences_private_protocol_is_show , please check context
+[I][2022-02-12 +80 08:42:14.845][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:42:14.846][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = vb_platformInfo key = vb_platformInfo_version_code , please check context
+[I][2022-02-12 +80 08:42:14.846][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:42:14.846][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = vb_platformInfo key = vb_platformInfo_version_name , please check context
+[I][2022-02-12 +80 08:42:14.846][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][callerProcessName equals currentProcessName
+[I][2022-02-12 +80 08:42:14.846][6495, 27133][public_io_pool-158205][VBMMKV_BROADCAST][][][no need notify Observer,  valueObjectClassName =  callerProcessName = com.tencent.qqlive:webview fileName = vb_platformInfo key = vb_platformInfo_app_id , please check context
+[I][2022-02-12 +80 08:42:16.234][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.577][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.622][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.622][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.623][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.629][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.633][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.634][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.651][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.659][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.661][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.662][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.671][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.674][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.680][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.683][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.687][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.696][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:17.699][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+[I][2022-02-12 +80 08:43:23.956][6495, 27138][cellularStrengthThread][NXNetwork_Transport_TypeAssist][][][getNetworkType() : 4G
+~~~~~ end of mmap ~~~~~[9341,9341][2022-02-12 +0800 08:43:43]
+^^^^^^^^^^Sep  7 2021^^^14:05:59^^^^^^^^^^[9341,9341][2022-02-12 +0800 08:43:43]
+get mmap time: 2
+MARS_URL: 
+MARS_PATH: master_android
+MARS_REVISION: a7ee7a4
+MARS_BUILD_TIME: 2021-09-07 14:05:12
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+cache dir space info, capacity:245001879552 free:69314224128 available:69314224128
+log dir space info, capacity:244980908032 free:69293277184 available:69293277184

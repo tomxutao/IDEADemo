@@ -1,0 +1,1224 @@
+[I][2021-11-08 +80 11:51:47.439][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:48.457][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:48.458][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:51:49.466][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:50.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:51:50.478][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:51.492][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:52.509][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:53.518][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:53.518][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:51:54.531][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:55.538][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:56.545][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:57.557][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:58.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:51:58.569][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:51:58.569][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:51:59.576][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:00.585][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:01.595][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:02.604][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:03.610][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:03.610][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:04.620][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:05.629][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:06.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:06.638][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:07.646][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:08.653][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:08.654][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:09.662][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:10.669][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:11.679][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:12.688][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:13.698][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:13.698][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:14.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:14.705][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:15.716][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:16.724][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:17.731][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:18.739][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:18.739][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:19.749][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:20.764][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:21.765][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:22.357][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:22.773][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:23.780][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:23.781][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:24.789][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:25.798][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:26.814][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:27.830][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:28.838][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:28.838][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:29.844][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:30.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:30.851][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:31.858][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:32.866][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:33.873][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:33.873][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:34.885][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:35.894][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:36.903][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:37.910][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:38.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:38.917][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:38.918][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:39.929][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:40.937][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:41.943][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:42.950][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:43.956][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:43.956][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:44.964][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:45.971][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:46.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:46.989][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:48.001][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:49.013][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:49.013][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:50.021][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:51.029][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:52.037][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:53.044][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:54.058][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:54.058][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:52:54.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:52:55.067][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:56.075][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:57.082][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:58.090][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:59.096][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:52:59.097][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:00.106][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:01.116][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:02.126][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:02.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:03.138][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:04.147][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:04.148][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:05.154][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:06.159][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:07.167][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:08.185][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:09.194][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:09.194][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:10.202][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:10.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:11.208][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:12.221][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:13.231][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:14.243][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:14.243][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:15.257][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:16.268][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:17.279][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:18.286][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:18.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:19.303][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:19.304][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:20.317][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:21.329][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:22.344][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:23.356][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:24.367][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:24.370][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:25.388][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:26.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:26.397][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:27.408][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:28.421][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:29.434][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:29.435][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:30.446][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:31.457][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:32.467][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:33.474][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:34.357][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:34.490][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:34.491][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:35.497][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:36.511][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:37.524][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:38.537][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:39.549][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:39.550][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:40.561][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:41.572][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:42.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:42.580][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:43.604][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:44.623][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:44.623][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:45.640][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:46.657][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:47.680][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:48.685][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:49.693][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:49.694][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:50.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:50.701][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:51.708][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:52.716][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:53.725][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:54.732][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:54.733][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:53:55.741][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:56.748][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:57.756][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:58.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:53:58.766][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:59.773][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:53:59.774][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:00.781][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:01.789][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:02.797][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:03.806][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:04.815][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:04.815][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:05.823][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:06.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:06.830][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:07.837][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:08.850][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:09.858][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:09.859][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:10.865][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:11.875][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:12.882][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:13.889][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:14.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:14.897][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:14.898][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:15.906][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:16.913][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:17.922][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:18.930][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:19.939][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:19.939][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:20.946][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:21.954][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:22.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:22.962][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:23.970][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:24.979][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:24.980][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:25.988][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:27.001][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:28.012][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:29.025][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:30.034][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:30.035][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:30.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:31.048][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:32.063][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:33.070][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:34.078][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:35.084][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:35.085][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:36.097][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:37.105][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:38.113][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:38.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:39.125][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:40.133][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:40.134][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:41.141][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:42.149][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:43.158][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:44.165][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:45.172][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:45.173][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:46.183][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:46.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:47.190][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:48.198][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:49.206][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:50.214][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:50.214][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:51.221][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:52.230][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:53.238][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:54.245][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:54.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:54:55.252][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:55.253][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:54:56.262][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:57.269][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:58.277][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:54:59.286][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:00.294][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:00.295][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:01.302][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:02.309][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:02.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:03.317][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:04.324][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:05.331][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:05.332][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:06.340][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:07.348][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:08.354][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:09.363][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:10.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:10.370][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:10.370][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:11.381][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:12.388][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:13.396][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:14.404][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:15.414][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:15.415][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:16.422][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:17.430][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:18.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:18.437][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:19.444][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:20.454][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:20.454][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:21.463][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:22.473][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:23.484][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:24.492][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:25.500][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:25.501][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:26.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:26.509][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:27.517][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:28.525][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:29.533][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:30.542][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:30.543][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:31.549][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:32.557][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:33.566][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:34.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:34.577][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:35.584][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:35.585][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:36.594][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:37.602][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:38.610][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:39.617][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:40.625][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:40.626][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:41.634][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:42.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:42.640][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:43.647][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:44.653][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:45.662][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:45.663][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:46.670][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:47.678][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:48.685][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:49.693][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:50.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:50.703][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:50.704][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:51.711][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:52.718][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:53.724][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:54.734][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:55.742][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:55.743][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:55:56.752][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:57.760][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:58.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:55:58.767][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:55:59.775][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:00.782][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:00.783][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:01.790][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:02.797][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:03.805][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:04.812][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:05.820][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:05.820][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:06.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:06.829][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:07.837][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:08.846][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:09.853][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:10.861][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:10.862][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:11.868][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:12.877][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:13.883][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:14.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:14.892][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:15.901][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:15.901][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:16.910][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:17.918][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:18.926][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:19.933][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:20.942][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:20.942][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:21.951][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:22.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:22.966][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:23.972][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:24.980][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:25.989][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:25.989][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:26.998][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:28.005][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:29.013][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:30.021][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:30.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:31.033][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:31.034][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:32.041][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:33.049][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:34.060][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:35.068][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:36.077][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:36.077][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:37.086][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:38.096][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:38.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:39.104][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:40.112][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:41.124][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:41.124][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:42.133][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:43.141][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:44.149][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:45.158][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:46.164][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:46.165][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:46.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:47.174][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:48.180][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:49.188][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:50.196][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:51.206][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:51.206][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:52.221][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:53.230][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:54.241][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:54.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:56:55.255][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:56.263][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:56.264][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:56:57.275][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:58.284][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:56:59.292][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:00.303][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:01.314][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:01.315][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:02.321][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:02.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:03.330][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:04.337][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:05.345][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:06.351][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:06.352][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:07.365][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:08.377][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:09.384][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:10.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:10.391][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:11.399][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:11.399][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:12.412][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:13.417][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:14.425][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:15.434][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:16.444][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:16.445][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:17.453][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:18.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:18.461][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:19.468][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:20.476][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:21.485][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:21.485][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:22.493][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:23.504][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:24.521][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:25.532][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:26.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:26.578][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:26.579][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:27.592][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:28.601][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:29.608][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:30.616][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:31.623][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:31.624][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:32.632][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:33.638][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:34.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:34.650][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:35.666][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:36.673][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:36.673][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:37.684][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:38.690][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:39.696][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:40.702][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:41.714][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:41.714][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:42.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:42.720][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:43.728][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:44.737][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:45.762][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:46.774][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:46.775][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:47.785][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:48.801][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:49.809][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:50.358][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:50.818][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:51.829][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:51.829][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:52.835][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:53.845][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:54.852][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:55.864][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:56.872][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:56.874][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:57:57.888][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:58.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:57:58.895][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:57:59.903][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:00.910][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:01.922][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:01.922][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:02.930][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:03.937][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:04.946][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:05.952][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:06.357][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:06.960][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:06.961][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:07.969][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:08.977][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:09.984][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:10.999][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:12.007][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:12.008][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:13.014][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:14.021][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:14.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:15.029][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:16.038][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:17.043][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:17.044][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:18.055][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:19.066][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:20.077][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:21.084][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:22.103][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:22.104][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:22.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:23.109][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:24.120][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:25.127][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:26.134][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:27.142][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:27.143][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:28.151][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:29.160][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:30.175][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:30.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:31.182][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:32.191][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:32.192][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:33.201][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:34.209][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:35.217][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:36.229][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:37.236][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:37.237][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:38.247][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:38.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:39.254][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:40.264][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:41.273][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:42.282][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:42.282][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:43.291][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:44.300][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:45.312][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:46.319][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:46.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:47.326][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:47.326][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:48.334][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:49.341][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:50.351][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:51.364][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:52.377][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:52.377][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:53.390][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:54.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:58:54.399][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:55.406][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:56.414][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:57.421][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:57.421][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:58:58.430][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:58:59.438][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:00.445][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:01.456][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:02.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:02.468][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:02.468][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:03.477][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:04.485][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:05.497][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:06.504][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:07.512][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:07.513][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:08.520][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:09.529][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:10.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:10.537][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:11.544][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:12.552][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:12.552][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:13.564][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:14.572][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:15.580][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:16.590][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:17.598][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:17.598][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:18.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:18.607][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:19.613][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:20.620][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:21.628][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:22.635][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:22.635][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:23.643][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:24.656][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:25.666][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:26.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:26.676][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:27.684][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:27.685][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:28.693][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:29.704][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:30.711][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:31.719][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:32.729][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:32.730][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:33.736][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:34.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:34.746][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:35.757][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:36.764][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:37.776][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:37.776][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:38.785][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:39.793][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:40.802][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:41.811][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:42.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:42.818][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:42.818][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:43.825][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:44.832][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:45.840][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:46.847][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:47.854][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:47.854][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:48.865][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:49.875][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:50.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:50.883][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:51.891][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:52.898][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:52.898][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:53.906][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:54.916][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:55.928][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:56.936][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:57.944][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:57.944][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 11:59:58.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 11:59:58.953][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 11:59:59.963][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:00.970][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:01.977][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:02.985][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:02.986][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:03.992][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:05.000][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:06.007][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:06.357][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:07.015][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:08.024][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:08.025][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:09.031][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:10.042][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:11.049][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:12.057][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:13.066][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:13.066][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:14.073][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:14.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:15.081][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:16.088][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:17.100][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:18.107][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:18.108][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:19.116][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:20.125][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:21.137][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:22.144][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:22.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:23.156][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:23.157][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:24.164][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:25.174][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:26.181][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:27.193][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:28.203][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:28.204][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:29.228][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:30.232][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:30.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:31.252][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:32.262][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:33.266][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:33.267][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:34.278][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:35.268][3563, 0][main][TbsExtensionFunMana][][][TBS:bugly is forbiden!!
+[I][2021-11-08 +80 12:00:35.272][3563, 0][main][X5CoreEngine][][][TBS:init #1
+[I][2021-11-08 +80 12:00:35.277][3563, 0][main][SDKEngine][][][TBS:init -- context: com.tencent.qqlive.ona.base.QQLiveApplication@8873a4e, isPreIniting: false
+[I][2021-11-08 +80 12:00:35.280][3563, 0][main][TbsInstaller][][][TBS:Tbsinstaller installTbsCoreIfNeeded #1 
+[I][2021-11-08 +80 12:00:35.285][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:35.293][3563, 0][main][TbsInstaller][][][TBS:TbsInstaller-getTmpFolderCoreToRead, #3
+[I][2021-11-08 +80 12:00:35.299][3563, 0][main][TbsInstaller][][][TBS:Tbsinstaller installTbsCoreIfNeeded #1 
+[I][2021-11-08 +80 12:00:35.305][3563, 0][main][TbsInstaller][][][TBS:TbsInstaller-getTmpFolderCoreToRead, #3
+[I][2021-11-08 +80 12:00:35.351][3563, 0][main][SDKEngine][][][TBS:isTbsCoreLegal: true; cost: 11
+[I][2021-11-08 +80 12:00:35.354][3563, 0][main][X5CoreEngine][][][TBS:init  mCanUseX5 is true
+[I][2021-11-08 +80 12:00:35.355][3563, 0][main][X5CoreEngine][][][TBS:init  sTbsCoreLoadFileLock is sun.nio.ch.FileLockImpl[0:9223372036854775807 shared valid]
+[I][2021-11-08 +80 12:00:35.443][3563, 0][main][WebView][][][TBS:X5 WebView Created Success!!
+[I][2021-11-08 +80 12:00:35.480][3563, 0][main][TbsExtensionFunMana][][][TBS:bugly is forbiden!!
+[I][2021-11-08 +80 12:00:35.482][3563, 0][main][X5CoreEngine][][][TBS:init #1
+[I][2021-11-08 +80 12:00:35.484][3563, 0][main][SDKEngine][][][TBS:init -- context: com.tencent.qqlive.ona.base.QQLiveApplication@8873a4e, isPreIniting: false
+[I][2021-11-08 +80 12:00:35.491][3563, 0][main][TbsInstaller][][][TBS:Tbsinstaller installTbsCoreIfNeeded #1 
+[I][2021-11-08 +80 12:00:35.495][3563, 0][main][TbsInstaller][][][TBS:TbsInstaller-getTmpFolderCoreToRead, #3
+[I][2021-11-08 +80 12:00:35.498][3563, 0][main][TbsInstaller][][][TBS:Tbsinstaller installTbsCoreIfNeeded #1 
+[I][2021-11-08 +80 12:00:35.502][3563, 0][main][TbsInstaller][][][TBS:TbsInstaller-getTmpFolderCoreToRead, #3
+[I][2021-11-08 +80 12:00:35.585][3563, 0][main][SDKEngine][][][TBS:isTbsCoreLegal: true; cost: 20
+[I][2021-11-08 +80 12:00:35.589][3563, 0][main][X5CoreEngine][][][TBS:init  mCanUseX5 is true
+[I][2021-11-08 +80 12:00:35.598][3563, 0][main][X5CoreEngine][][][TBS:init  sTbsCoreLoadFileLock is sun.nio.ch.FileLockImpl[0:9223372036854775807 shared valid]
+[I][2021-11-08 +80 12:00:35.702][3563, 0][main][WebView][][][TBS:X5 WebView Created Success!!
+[I][2021-11-08 +80 12:00:35.754][3563, 0][main][TbsExtensionFunMana][][][TBS:bugly is forbiden!!
+[I][2021-11-08 +80 12:00:35.756][3563, 0][main][X5CoreEngine][][][TBS:init #1
+[I][2021-11-08 +80 12:00:35.763][3563, 0][main][SDKEngine][][][TBS:init -- context: com.tencent.qqlive.ona.base.QQLiveApplication@8873a4e, isPreIniting: false
+[I][2021-11-08 +80 12:00:35.767][3563, 0][main][TbsInstaller][][][TBS:Tbsinstaller installTbsCoreIfNeeded #1 
+[I][2021-11-08 +80 12:00:35.772][3563, 0][main][TbsInstaller][][][TBS:TbsInstaller-getTmpFolderCoreToRead, #3
+[I][2021-11-08 +80 12:00:35.774][3563, 0][main][TbsInstaller][][][TBS:Tbsinstaller installTbsCoreIfNeeded #1 
+[I][2021-11-08 +80 12:00:35.782][3563, 0][main][TbsInstaller][][][TBS:TbsInstaller-getTmpFolderCoreToRead, #3
+[I][2021-11-08 +80 12:00:35.837][3563, 0][main][SDKEngine][][][TBS:isTbsCoreLegal: true; cost: 22
+[I][2021-11-08 +80 12:00:35.839][3563, 0][main][X5CoreEngine][][][TBS:init  mCanUseX5 is true
+[I][2021-11-08 +80 12:00:35.841][3563, 0][main][X5CoreEngine][][][TBS:init  sTbsCoreLoadFileLock is sun.nio.ch.FileLockImpl[0:9223372036854775807 shared valid]
+[I][2021-11-08 +80 12:00:35.920][3563, 0][main][WebView][][][TBS:X5 WebView Created Success!!
+[I][2021-11-08 +80 12:00:36.300][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:37.309][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:38.326][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:38.327][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:38.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:39.339][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:40.346][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:41.352][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:42.363][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:43.376][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:43.376][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:44.383][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:45.396][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:46.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:46.408][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:47.421][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:48.435][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:48.436][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:49.441][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:50.450][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:51.034][3563, 0][main][QAD][[QAd]QAdActButtonBaseController][][actionTitle = , actionIcon = , defaultIcon = 2131232922
+[I][2021-11-08 +80 12:00:51.035][3563, 0][main][QAD][[QAd]QAdActButtonBaseController][][maskActionTitle = 立即抢购, maskActionIcon = https://vfiles.gtimg.cn/wupload/ad_control_config_test.ad_copy_pic_url_conf/20191125_5ixcuffmw4q2x.png, defaultMaskIcon = 2131232923
+[I][2021-11-08 +80 12:00:51.127][3563, 0][main][QAD][[QAd]QAdActButtonBaseController][][actionTitle = , actionIcon = , defaultIcon = 2131232922
+[I][2021-11-08 +80 12:00:51.129][3563, 0][main][QAD][[QAd]QAdActButtonBaseController][][maskActionTitle = 立即抢购, maskActionIcon = https://vfiles.gtimg.cn/wupload/ad_control_config_test.ad_copy_pic_url_conf/20191125_5ixcuffmw4q2x.png, defaultMaskIcon = 2131232923
+[I][2021-11-08 +80 12:00:51.135][3563, 0][main][QAD][[QAd]QAdActButtonBaseController][][actionTitle = 进入应用, actionIcon = http://i.gtimg.cn/qqlive/images/20170912/enter_gray.png, defaultIcon = 2131232924
+[I][2021-11-08 +80 12:00:51.136][3563, 0][main][QAD][[QAd]QAdFeedBaseController][][updateActBtnText text = 进入应用
+[I][2021-11-08 +80 12:00:51.460][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:52.473][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:53.480][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:53.481][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:54.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:00:54.509][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:55.515][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:56.529][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:57.542][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:58.556][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:00:58.557][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:00:59.570][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:00.588][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:01.600][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:02.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:02.607][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:03.617][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:03.618][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:04.623][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:05.311][3563, 0][main][WebView][][][TBS:X5 GUID = 3ac3ac60812c205ff42bc29a13b788cb
+[I][2021-11-08 +80 12:01:05.499][3563, 0][main][WebView][][][TBS:X5 GUID = 3ac3ac60812c205ff42bc29a13b788cb
+[I][2021-11-08 +80 12:01:05.537][3563, 0][main][WebView][][][TBS:X5 GUID = 3ac3ac60812c205ff42bc29a13b788cb
+[I][2021-11-08 +80 12:01:05.632][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:06.640][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:07.657][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:08.669][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:08.670][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:09.686][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:10.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:10.698][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:11.711][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:12.718][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:13.726][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:13.727][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:14.734][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:15.743][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:16.750][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:17.761][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:18.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:18.769][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:18.770][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:19.790][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:20.800][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:21.810][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:22.818][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:23.828][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:23.829][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:24.837][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:25.845][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:26.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:26.854][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:27.867][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:28.875][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:28.876][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:29.890][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:30.902][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:31.909][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:32.917][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:33.926][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:33.927][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:34.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:34.933][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:35.943][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:36.949][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:37.961][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:38.966][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:38.967][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:39.975][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:40.982][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:41.989][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:42.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:42.996][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:44.004][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:44.005][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:45.012][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:46.019][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:47.026][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:48.034][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:49.053][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:49.054][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:50.064][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:50.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:51.070][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:52.077][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:53.086][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:54.095][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:54.096][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:01:55.107][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:56.119][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:57.134][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:58.140][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:58.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:01:59.153][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:01:59.153][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:00.180][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:01.191][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:02.197][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:03.205][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:04.216][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:04.217][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:05.223][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:06.233][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:06.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:07.244][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:08.251][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:09.264][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:09.265][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:10.278][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:11.289][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:12.301][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:13.313][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:14.320][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:14.321][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:14.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:15.328][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:16.336][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:17.344][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:18.362][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:19.369][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:19.369][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:20.382][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:21.395][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:22.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:22.407][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:23.412][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:24.421][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:24.421][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:25.428][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:26.435][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:27.443][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:28.452][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:29.464][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:29.465][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:30.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:30.473][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:31.487][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:32.497][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:33.505][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:34.513][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:34.514][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:35.521][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:36.529][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:37.543][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:38.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:38.551][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:39.562][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:39.563][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:40.574][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:41.581][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:42.588][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:43.597][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:44.609][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:44.610][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:45.618][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:46.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:46.626][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:47.633][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:48.640][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:49.647][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:49.647][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:50.657][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:51.666][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:52.682][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:53.693][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:54.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:02:54.703][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:54.707][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:02:55.712][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:56.720][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:57.727][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:58.735][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:59.743][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:02:59.744][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:00.757][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:01.764][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:02.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:02.771][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:03.782][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:04.789][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:04.790][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:05.797][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:06.808][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:07.817][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:08.826][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:09.841][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:09.841][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:10.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:10.850][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:11.857][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:12.869][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:13.883][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:14.890][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:14.891][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:15.898][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:16.905][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:17.913][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:18.357][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:18.920][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:19.927][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:19.928][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:20.937][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:21.948][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:22.958][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:23.968][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:24.979][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:24.980][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:25.991][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:26.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:26.999][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:28.006][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:29.014][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:30.025][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:30.026][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:31.038][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:32.053][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:33.067][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:34.076][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:34.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:35.091][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:35.092][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:36.100][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:37.109][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:38.121][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:39.130][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:40.137][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:40.137][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:41.144][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:42.154][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:42.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:43.163][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:44.176][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:45.182][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:45.183][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:46.193][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:47.204][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:48.226][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:49.237][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:50.244][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:50.244][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:50.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:51.250][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:52.259][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:53.265][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:54.273][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:55.286][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:55.287][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:03:56.295][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:57.304][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:58.314][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:03:58.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:03:59.323][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:00.331][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:00.332][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:01.344][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:02.354][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:03.363][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:04.370][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:05.381][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:05.381][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:06.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:06.392][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:07.403][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:08.414][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:09.422][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:10.430][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:10.431][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:11.442][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:12.449][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:13.457][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:14.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:14.468][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:15.475][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:15.476][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:16.482][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:17.494][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:18.502][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:19.507][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:20.514][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:20.515][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:21.523][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:22.357][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:22.529][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:23.539][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:24.546][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:25.556][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:25.556][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:26.564][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:27.572][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:28.580][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:29.588][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:30.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:30.599][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:30.600][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:31.614][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:32.623][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:33.632][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:34.642][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:35.656][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:35.656][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:36.668][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:37.678][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:38.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:38.684][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:39.694][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:40.700][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:40.701][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:41.707][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:42.715][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:43.725][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:44.732][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:45.748][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:45.749][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:46.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:46.752][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:47.759][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:48.768][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:49.788][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:50.797][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:50.797][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:51.806][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:52.813][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:53.818][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:54.356][3563, 0][pool-22-thread-1][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:04:54.825][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:55.833][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:55.834][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:04:56.844][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:57.855][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:58.861][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:04:59.868][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:00.876][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:00.876][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:01.886][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:02.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:02.896][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:03.903][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:04.913][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:05.921][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:05.922][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:06.929][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:07.937][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:08.945][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:09.951][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:10.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:10.961][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:10.962][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:11.971][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:12.979][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:13.990][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:15.002][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:16.009][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:16.010][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:17.019][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:18.034][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:18.356][3563, 0][pool-22-thread-3][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:19.055][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:20.070][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:21.083][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:21.083][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:22.103][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:23.111][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:24.119][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:25.131][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:26.140][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:26.141][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:26.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:27.150][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:28.158][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:29.165][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:30.173][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:31.181][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:31.182][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:32.190][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:33.198][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:34.206][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:34.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:35.214][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:36.223][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:36.224][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:37.229][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:38.240][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:39.249][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:40.256][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:41.264][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:41.265][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:42.280][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:42.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:43.289][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:44.298][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:45.308][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:46.317][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:46.317][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:47.324][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:48.332][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:49.340][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:50.348][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:50.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:51.358][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:51.358][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:52.366][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:53.374][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:54.387][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:55.392][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:56.403][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:56.403][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:05:57.410][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:58.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:05:58.419][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:05:59.426][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:00.435][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:01.442][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:01.443][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:02.450][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:03.456][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:04.464][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:05.475][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:06.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:06:06.484][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:06.485][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:07.492][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:08.501][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:09.508][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:10.515][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:11.522][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:11.523][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:12.530][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:13.537][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:14.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:06:14.548][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:15.563][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:16.576][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:16.577][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:17.589][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:18.600][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:19.615][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:20.630][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:21.644][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:21.645][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:22.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:06:22.668][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:23.678][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:24.686][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:25.695][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:26.705][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:26.706][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:27.713][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:28.721][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:29.730][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:30.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:06:30.738][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:31.744][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:31.744][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:32.752][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:33.760][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:34.769][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:35.782][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:36.802][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:36.803][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:37.811][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:38.356][3563, 0][pool-22-thread-2][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
+[I][2021-11-08 +80 12:06:38.822][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:39.838][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:40.844][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:41.856][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:41.856][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_DOWNLOAD_STATUS_CHANGED, arg1:0, arg2:0, 14000107
+[I][2021-11-08 +80 12:06:42.865][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:43.875][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:44.893][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:45.913][3563, 0][TVK-PlayerManager][TVK][TVKPlayer_C1001_T10002_PlayerManager][][wrapper player callback : onInfo, what:206
+[I][2021-11-08 +80 12:06:46.356][3563, 0][pool-22-thread-4][TVK][TVKPlayer_C1001_T10001_TVKPluginManager][][EventId:PLAYER_STATE_POSITION_UPDATE, position:409558
