@@ -25,5 +25,10 @@
     <orderEntry type="library" name="curvesapi-1.06" level="project" />
     <orderEntry type="library" name="commons-codec-1.15 (3)" level="project" />
     <orderEntry type="library" name="dom4j-2.0.3" level="project" />
+    <orderEntry type="library" name="asm-9.0-sources" level="project" />
+    <orderEntry type="library" name="asm-util-9.0-sources" level="project" />
+    <orderEntry type="library" name="asm-commons-9.0-sources" level="project" />
+    <orderEntry type="library" name="asm-analysis-9.0-sources" level="project" />
+    <orderEntry type="library" name="asm-tree-9.0-sources" level="project" />
   </component>
 </module>
