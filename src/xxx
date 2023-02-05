@@ -1,0 +1,92 @@
+换肤
+方案1.静态换肤，自定义style换肤，颜色、背景等定义到style.xml中，缺点是重启才能生效
+方案2.实时换肤
+2.1 hook LayoutInflater替换InflaterFactory, 初始化xml时
+getLayoutInflater().setFactory2、setFactory等,
+在Factory中的onCreateView()中判断皮肤开关，如果没有打开，就返回null，走系统默认
+如果有打开，先创建出TextView等view，再根据view的属性设置背景，颜色。
+2.2 皮肤包可以是一个apk, 也可以是一个文件包，
+2.2.1 如果是apk，就利用AssertManager加载资源addAssetPath，获取皮肤资源
+2.2.2 如果是文件包，就加载对应的文件，获取皮肤资源
+发生换肤时，就通知listener到页面中，触发刷新ui逻辑
+
+
+
+
+热修复
+原理1.不需要启动APP，Native实现, jniHook, 替换ArtMethod结构体的属性。
+ 但是兼容性差，不同系统版本的ArtMethod结构体变量不一样
+ 代表有阿里的AndFix，后来阿里的Sophix(java与native结合)直接将dex插到前面(不合成dex)
+原理2.需要启动APP，Java实现, ClassLoader
+ 代表有QQ空间的QFix，字节码插装，给所有类构造方法中引用一个类(在一个单独dex),
+ 解决CLASS_ISPREVERIFIED问题(5.0以下dalvik才有这个问题)
+ 代表有Tinker, 生成差异dex，客户端合成，然后插入ClassLoader中dexElement数组的最前面。
+so修复
+ tinker做法，就是往classLoader中DexPathList，
+ List<File> nativeLibraryDirectories将so插到前面(里面没有就填充，有就插入前面)
+ 然后nativeLibraryDirectories也加入systemNativeLibraryDirectories的内容，
+ 然后将nativeLibraryDirectories进行makePathElements得到Element[]，
+ 将Element[]反射设置给nativeLibraryPathElements。
+资源修复，创建新AssetManager，然后addAssetPath添加外部的资源，
+ 将系统中已经存在的mAssets字段换成新AssetManager
+
+instantRun原理
+开发过程中，AS监控哪些文件修改，然后运行一个自定义gradle任务，将这些文件打一个新dex。
+会生成一个新的Application，注入自定义classLoader，启动AppServer, 启动时换成新类
+资源修改时，会重新打所有资源，给app弄进去
+
+插件化
+1.类加载：ClassLoader， 提供provide，只编译不打包
+2.资源加载
+ 2.1合并式，addAssetPath时加入所有插件和主工程的路径，会有资源冲突
+  不同插件资源id可能一样，0xppttnnnn, pp=0x01-0x7f,
+  2.1.1,修改appt2, 编译期修改pp，
+   Android源码目录/tools/aapt，Main.cpp->handleCommand()->Command.cpp->doPackage()
+   ->Resource.cpp->buildResources()->ResourceTable.cpp
+   mPackageType，如果是App，则packageId就是0x7f
+  2.1.2,修改resources.arsc, 要修改R文件和.arsc，以及修改class中引用
+  2.1.3 public.xml固化(适用aapt, 在aapt2中需要一些参数–stable-ids和–emit-ids指定使用public.xml改成public.txt)
+    另外在7.0以上，可以使用aapt2自带了资源PP段分区功能，可以直接指定pp段，
+ 2.2分离式，各个插件只添加自己apk路径，资源不冲突，不能共享
+3.四大组件
+ 3.1 Activy
+  3.1.1 ProxyActivy，启动插件中Activity时会先启动ProxyActivity，在ProxyActivity中创建插件Activity，并同步生命周期
+  3.1.2 没有注册的Activity，hookActivity, 反射Instrumentation类的execStartActivity，反射创建Acitvity
+ 3.2 Service 类似ProxyActivy
+ 3.3 BroadCastReceiver 使用动态注册
+ 3.4 ContentProvider 占坑，类似service
+
+dexoat，dex2opt
+Dalvik虚拟机JIT，Just-In-Time
+ART虚拟机AOT，Ahead-Of-Time
+Dex是Android平台上(Dalvik虚拟机)的可执行文件, dx工具将class打成dex
+odex是Optimized dex,优化过的dex
+1. 5.0之前dex通过dexopt生成odex
+2. 5.0之后dex通过dex2oat生成oat文件
+oat是ART运行的文件，是一种ELF格式的二进制可运行文件，包含dex文件、编译出的本地机器指令文件. 因此odex文件更大。
+安装时，dex被工具dex2oat翻译成本地机器指令，得到一个oat文件，art加载oat文件之后可以直接运行，所以很快。
+
+减包
+好处：1.转化率高 2.预装要求 3.google商店超过100M要求Android App Bundle
+1.反编译分析apk， apktool、AS、classshark等
+2.瘦身
+2.1 Dex
+2.1 ProGuard所做的优化包括 内联、修饰符、合并类和方法等30多种优化项，针对很多平台
+2.1.1 压缩(Shrinking) 减少体积
+2.1.2 优化
+2.1.3 混淆
+2.1.4 预检
+2.1.5 混淆之后生成mapping.txt
+2.2 D8 dex编译更快、文件更小、性能更好、
+2.3 R8是Proguard压缩与优化部分的替代品,生成apk更小, 只针对android平台
+    移除不执行的代码、内联、缩减长度、Desugarl
+2.4 ReDex进行分包优化、去除debug信息及行号信息
+2.5 第三方库统一
+2.6 移除无用代码、Lint检测无效代码、线上上报检查、减少enum(减少一个enum可以减少大约1-1.4K大小)
+2.7 类的访问性access优化，private、public等，access增加会影响包大小(西瓜视频)
+    asm将private改成package访问性，能节约几百k
+2.8 ByteX Gradle插件平台中的代码优化插件，内联常量字段、移除多余赋值代码、移除Log代码、内联Get/Set方法
+2.9 图片压缩，xml转成代码
+
+
+

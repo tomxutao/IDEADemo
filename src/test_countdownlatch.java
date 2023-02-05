@@ -1,4 +1,6 @@
+import java.util.ArrayList;
 import java.util.concurrent.CountDownLatch;
+import java.util.concurrent.TimeUnit;
 
 
 public class test_countdownlatch {
@@ -41,58 +43,54 @@ public class test_countdownlatch {
 
 
     public static void main(String[] args) {
-        Timer timer = new Timer(5);
-        new Thread(timer).start();
+//        Timer timer = new Timer(5);
+//        new Thread(timer).start();
+//
+//        for (int athleteNo = 0; athleteNo < 5; athleteNo++) {
+//            new Thread(new Athlete(timer, "athlete" + athleteNo)).start();
+//        }
+//
 
-        for (int athleteNo = 0; athleteNo < 5; athleteNo++) {
-            new Thread(new Athlete(timer, "athlete" + athleteNo)).start();
-        }
-    }
+        CountDownLatch countDownLatch = new CountDownLatch(1);
+        final String[] result = new String[1];
 
-    static class Timer implements Runnable {
-        CountDownLatch countDownLatch;
-
-        public Timer(int numOfAthlete) {
-            this.countDownLatch = new CountDownLatch(numOfAthlete);
-        }
-
-        public void recordResult(String athleteName) {
-            System.out.println(athleteName + " has arrived");
-            countDownLatch.countDown();
-            System.out.println("There are " + countDownLatch.getCount() + " athletes did not reach the end");
-        }
-
-        @Override
-        public void run() {
-            try {
-                System.out.println("countDownLatch.await...");
-                countDownLatch.await();
-                System.out.println("All the athletes have arrived");
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Thread.sleep(500);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                setValue(result, "1");
+                countDownLatch.countDown();
             }
-        }
-    }
-
-    static class Athlete implements Runnable {
-        Timer timer;
-        String athleteName;
-
-        public Athlete(Timer timer, String athleteName) {
-            this.timer = timer;
-            this.athleteName = athleteName;
-        }
-
-        @Override
-        public void run() {
-            try {
-                long duration = (long) (Math.random() * 10);
-                System.out.println(athleteName + " start running, sleep: " + duration * 1000);
-                Thread.sleep(duration * 1000);
-                timer.recordResult(athleteName);
-            } catch (InterruptedException e) {
-                e.printStackTrace();
+        }).start();
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                setValue(result, "2");
+                countDownLatch.countDown();
             }
+        }).start();
+        try {
+            countDownLatch.await();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        System.out.println("result: " + result[0]);
+    }
+
+    private static synchronized void setValue(String[] result, String value) {
+        System.out.println(value);
+        if (result[0] == null) {
+            result[0] = value;
         }
     }
+
 }
