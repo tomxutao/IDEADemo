@@ -11,7 +11,17 @@ getLayoutInflater().setFactory2、setFactory等,
 发生换肤时，就通知listener到页面中，触发刷新ui逻辑
 
 
-
+andfroid AAB
+1.Split APKs 机制是 AAB 实现动态下发的基础，它允许将一个庞大的 APK 按不同维度拆分成独立的 APK.
+2.AAB是无法直接安装到手机的，如果想本地对AAB做测试，需要将AAB转成APK，这需要使用Google提供的Bundletool工具
+3.创建Dynamic Feature
+.aab实际上和.apk一样是个压缩包，
+base文件夹有哦baseapk的dex和res各种信息，Lib1文件夹有自己的dex和res，
+1.每个Moudle文件夹内包含dex，manifest，res，和一个resources.pb文件
+2.使用Bundletool build-apks命令从app bundle生成一组APK，分为两个目录splits和standalones
+3.在google play安装apk时，会自动寻找适合机型的配置（so、资源等），生成对应的feature apk安装。
+Bundletool既可以生成一组apk，也可以生成一个完整的Apk.
+爱奇艺Qigsaw原理 - 是利用aab生成apk，然后通过类加载、资源加载去使用插件化
 
 热修复
 原理1.不需要启动APP，Native实现, jniHook, 替换ArtMethod结构体的属性。
@@ -88,5 +98,25 @@ oat是ART运行的文件，是一种ELF格式的二进制可运行文件，包�
 2.8 ByteX Gradle插件平台中的代码优化插件，内联常量字段、移除多余赋值代码、移除Log代码、内联Get/Set方法
 2.9 图片压缩，xml转成代码
 
+圆角按钮
+1.xml实现，shape里面增加corners
+2.利用GradientDrawable实现切圆角, 写个工具类
+3.自定义view.draw(canvas)时，利用path.addRoundRec, canvas.clipPath实现切圆角
+4.利用v7包中的CardView实现切圆角, 不能单独配置其中一个角, canvas.drawRoundRect
+5.利用ViewOutlineProvider实现切圆角, 本质上画布上画了一个圆角的矩形,ShaderPaint时用到，
+ view.setOutlineProvider, outline.setRoundRec(left,top,right,bottom,radius),
+6.切图
+7.BitmapShader, paint.setShader(BitmapShader), Canvas.drawRoundRect(..., raduis, paint)
+  Xfermode, paint.setXfermode(Mode.SRC_IN)
+  RoundedBitmapDrawable, 内部也是BitmapShader实现
+8.Glide canvas.drawRoundRect(rectF, radius, radius, paint)
 
+JNI hook
+native方法2中注册：一是静态注册方法名(包名+方法名)，一是动态注册RegisterNatives。
+jmethodID是Method结构体指针（其实就是这个结构体的内存起始地址）
+ART虚拟机下：（nativeFunc其实指向的就是native函数）。
+--Android11以下，jmethodId是ArtMethod的地址。
+关键函数 ClassLinker::RegisterNative() 的核心逻辑就是调用 ArtMethod::SetEntryPointFromJni()。
+ArtMethod::SetEntryPointFromJni() 函数的参数就是 native 函数的函数指针
+ArtMethod::GetEntryPointFromJni() 获取函数指针。
 
