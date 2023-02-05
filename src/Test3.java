@@ -1,9 +1,11 @@
 import java.lang.invoke.MethodHandle;
 import java.lang.invoke.MethodHandles;
 import java.lang.invoke.MethodType;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+import java.util.concurrent.*;
 
 public class Test3 {
 
@@ -50,4 +52,30 @@ public class Test3 {
     private static class AA {
 
     }
+
+//    public static void main(String[] args) throws InterruptedException, ExecutionException {
+//        List<Callable<Integer>> tasks = new ArrayList<>();
+//        for (int i = 0; i < 5; i++) {
+//            int finalI = i;
+//            tasks.add(() -> {
+//                int second = 10 - finalI;
+//                Thread.sleep(second * 1000);
+//                System.out.println("" + Thread.currentThread().getName() + ", second: " + second);
+//                return second;
+//            });
+//        }
+//        ExecutorService executorService = Executors.newFixedThreadPool(5);
+//
+//        CompletionService<Integer> completionService = new ExecutorCompletionService(executorService);
+//        tasks.forEach(task -> completionService.submit(task));
+//
+//        for (int i = 0; i < tasks.size(); i++) {
+//            System.out.println("submit start " + i);
+//            System.out.println(completionService.take().get());
+//            System.out.println("submit end " + i);
+//        }
+//        System.out.println("submit over");
+//
+//        executorService.shutdown();
+//    }
 }

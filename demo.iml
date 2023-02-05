@@ -30,5 +30,6 @@
     <orderEntry type="library" name="asm-analysis-9.0" level="project" />
     <orderEntry type="library" name="asm-commons-9.0" level="project" />
     <orderEntry type="library" name="asm-util-9.0" level="project" />
+    <orderEntry type="library" name="asm-9.0-sources" level="project" />
   </component>
 </module>
