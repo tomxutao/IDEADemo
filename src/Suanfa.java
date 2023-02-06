@@ -87,6 +87,29 @@ public class Suanfa {
         deleteDuplicates_node3.next = deleteDuplicates_node4;
         deleteDuplicates_node4.next = deleteDuplicates_node5;
         deleteDuplicates(deleteDuplicates_node1);
+
+
+    }
+
+    //二叉树层级遍历
+    public static List<List<Integer>> levelOrder(TreeNode root) {
+        List<List<Integer>> list = new ArrayList();
+        LinkedList<TreeNode> linkedList1 = new LinkedList<>();
+        linkedList1.add(root);
+        LinkedList<TreeNode> linkedList2 = new LinkedList<>();
+        while (!linkedList1.isEmpty()) {
+            linkedList2.addAll(linkedList1);
+            linkedList1.clear();
+            List<Integer> list2 = new ArrayList<>();
+            while (!linkedList2.isEmpty()) {
+                TreeNode node = linkedList2.poll();
+                list2.add(node.val);
+                linkedList1.add(node.left);
+                linkedList1.add(node.right);
+            }
+            list.add(list2);
+        }
+        return list;
     }
 
     public static ListNode deleteDuplicates(ListNode head) {
@@ -117,7 +140,7 @@ public class Suanfa {
         int[] dp = new int[n + 1];
         dp[0] = 1;
         dp[1] = 1;
-        for(int i = 2; i <= n; i++) {
+        for (int i = 2; i <= n; i++) {
             dp[i] = dp[i - 1] + dp[i - 2];
         }
         return dp[n];
@@ -499,5 +522,22 @@ public class Suanfa {
         return 1;
     }
 
+    public static class TreeNode {
+        int val;
+        TreeNode left;
+        TreeNode right;
 
+        TreeNode() {
+        }
+
+        TreeNode(int val) {
+            this.val = val;
+        }
+
+        TreeNode(int val, TreeNode left, TreeNode right) {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+        }
+    }
 }
